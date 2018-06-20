@@ -1,0 +1,556 @@
+VIVOSDEV02_R106 trowr neen thuj ddoojng
+VIVOSDEV02_R122 cuxng khieesn cho hoj def dawjt
+VIVOSDEV02_R130 chij gawjn hori anh theef soosng theef cheest laf khoong cos
+VIVOSDEV02_R132 ddieejn thoaji reng nhuwng ta cuxng phari nhaasc masy ddusng khoong
+VIVOSDEV02_R135 cuxng thuoojc loaji dafy ddawjc nhaast trong heej mawjt trowfi
+VIVOSDEV02_R137 casc vuj tham nhuxng vaf bee boosi kinh tees
+VIVOSDEV02_R149 chusng cuws coos lufi laji mawjc duf vuwowsng visu goong xieefng
+VIVOSDEV02_R154 bojn buoon duwj asn chajy chojt bafy ra casc duwj asn ddeer kieesm chasc
+VIVOSDEV02_R015 taast car moji thuws ddeefu kyf laj moojt casch phi thuwowfng
+VIVOSDEV02_R164 casc chuwowng trifnh ca nhajc phaafn lowsn ddeefu khoong ddoojt phas
+VIVOSDEV02_R170 roofi chajy sang gox cuwra phofng ba le hai daasm dusi
+VIVOSDEV02_R173 ddeer trar trowr laji ddaji duwowng
+VIVOSDEV02_R181 nafng cos ddooi mawst to saau vaf vaafng trasn roojng meenh moong
+VIVOSDEV02_R192 tooi tuwj hori phari chawng ddos laf do dan cofn quas trer
+VIVOSDEV02_R195 ury ban chaau aau keeu goji nhuwxng quoosc gia phast trieern cofn laji
+VIVOSDEV02_R200 vaf khi chusng ta sao nhaxng coong vieejc cura mifnh
+VIVOSDEV02_R027 cos theer lafnh lawjn maf khoong ddeer laji veest sejo
+VIVOSDEV02_R031 muoosn ddejp phari ghef lafm sao cho casc bos cow chaan noori baajt leen
+VIVOSDEV02_R032 y tees bifnh huwng hofa bij huw horng
+VIVOSDEV02_R045 coo cuws nhef ngay casi nojng cas tree
+VIVOSDEV02_R005 neesu tuwowrng tuwowjng bary tasm nawm nuwxa
+VIVOSDEV02_R067 oong chur tijch tuyeen boos nhuw thees nafo
+VIVOSDEV02_R068 khieesn hai cha con caaju
+VIVOSDEV02_R069 lafm ddejp khoong ddusng casch
+VIVOSDEV02_R071 mooxi khi xe rasc ddi ngang qua ddasnh kerng mowsi ddem ra ddoor
+VIVOSDEV02_R076 thay vif boosn giowf nhuw truwowsc ddaay
+VIVOSDEV02_R079 haafu heest nang nafy cos nguoofn goosc tuwf gaan cow chaan ngooxng
+VIVOSDEV02_R087 tieesng max taasu sawsc lajnh chajm nhau vaf car tieesng reen rir
+VIVOSDEV02_R089 cos hawrn moojt loajt bafi vieest chuyeen ddeef veef quarn trij thuwowng hieeju
+VIVOSDEV02_R091 howjp vowsi huwowng vij ddaafu xuaan
+VIVOSDEV02_R099 oorng nosi owr safi gofn oorng ddax lafm oong hooji ddoofng nhuw thees nafo
+VIVOSDEV02_R009 baf quarng vaaxn ddang baajn roojn
+VIVOSDEV02_T012 mafy dasm chowi vowj tao tao phari gieest mafy
+VIVOSDEV02_T013 toosng coor hawsn ddi khoong dduwowjc ddeer hawsn vafo ddaay nuwxa
+VIVOSDEV02_T015 hawsn chowi vowj anh thif sao anh khoong chowi vowj hawsn
+VIVOSDEV02_T022 thasng truwowsc choofng veef maasy ngafy mifnh nawfm ngur thaasy aasm kinh khurng
+VIVOSDEV02_T031 cho em gosp moojt vieen gajch
+VIVOSDEV02_T043 ddi kieerm tra laji basc six khuyeen neen moor nooji soi
+VIVOSDEV02_T004 hoom nay em cos towsi nawm khasch
+VIVOSDEV02_T050 anh bij ddaary tuwf haf nooji vafo safi gofn
+VIVOSDEV03_R109 phuf howjp cho moji caan nawjng
+VIVOSDEV03_R010 aam thaafm chawst chiu nuooi tooi khoon lowsn
+VIVOSDEV03_R113 vif bajn cos theer lary cof tuwfng phast moojt
+VIVOSDEV03_R117 vai trof cura chees ddooj dinh duwowxng
+VIVOSDEV03_R119 khoong hieeru sao
+VIVOSDEV03_R120 khieesn phuj huynh hieeru nhaafm
+VIVOSDEV03_R125 mooxi khi cown gios ddeesn
+VIVOSDEV03_R136 nafy bosn cho con thuwowng ddowx yeesu ddau cofi cojc
+VIVOSDEV03_R142 trong tuw thees phi nguwja choofm leen
+VIVOSDEV03_R144 maf cuxng ddaafy thanh khieest
+VIVOSDEV03_R148 moojt vuj chaajp ddieejn ddax khieesn ngojn luwra bufng leen
+VIVOSDEV03_R149 baf con chofm xosm
+VIVOSDEV03_R156 ddaay laf muwsc laxi suaast thaasp nhaast qua casc phieen ddaasu thaafu
+VIVOSDEV03_R160 dojc hai been soong ngafn saau
+VIVOSDEV03_R163 nhuwng oasi awm thay
+VIVOSDEV03_R180 sau cari casch
+VIVOSDEV03_R182 moojt kees hoajch tuwowng tuwj dduwowjc asp dujng owr anh
+VIVOSDEV03_R191 cowxi nguwja ddi thi
+VIVOSDEV03_R193 ooi dafo
+VIVOSDEV03_R195 khoong moojt chieesc xe laj nafo cos theer mon men vafo dduwowjc
+VIVOSDEV03_R198 roofi ddi khawsp nowi tifm thaafy chuwxa beejnh cho anh
+VIVOSDEV03_R020 been trong trasi var khi boor ra sex rooxng chuws khoong ddawjc nhuw trasi sung
+VIVOSDEV03_R029 neen hai moos caafu bij sujp ddaast khieesn loosi ddi booj quas nguy hieerm
+VIVOSDEV03_R041 luoon oorn ddijnh vaf casc xe traasu khas nawjng
+VIVOSDEV03_R044 vaf khi hoj vajch tosc ra
+VIVOSDEV03_R046 cura chisnh sasch ddoosi vowsi quy moo cura thij truwowfng
+VIVOSDEV03_R056 suwowng muf ddax ddojng thafnh nhuwxng hajt gias bawng
+VIVOSDEV03_R057 chuws khoong phari tafi nawng thieen baarm nafo
+VIVOSDEV03_R061 laf tieesng troosng laan tufng xefng vui tai
+VIVOSDEV03_R007 moojt chuyeesn du lijch dax ngoaji taji bof cajp vafng
+VIVOSDEV03_R082 ghesp cafnh mai giaro vafo thaan coor thuj cho hoa casnh lowsn
+VIVOSDEV03_R092 ddeer chojn masy in cho phuf howjp
+VIVOSDEV03_T017 basc vaaxn chuwa trar tieefn cho tooi ddaay nhes
+VIVOSDEV03_T018 tooi ddang baajn hojp
+VIVOSDEV03_T023 cuwowsp ddaafy dduwowfng coong an chir lo hajch sasch
+VIVOSDEV03_T035 mej owi cos mua ddoof cho con khoong
+VIVOSDEV03_T041 con chos luri thuri ddi theo chur nos
+VIVOSDEV03_T047 trong phim cos nhieefu carnh chesm gieest
+VIVOSDEV03_T048 dieexn vieen chisnh dduwsng nhuw khusc goox
+VIVOSDEV03_T009 basc ddang suy nghix gif thees
+VIVOSDEV01_R108 khi traaxm khori beejnh thif sex chesm ddaafu
+VIVOSDEV01_R117 vieejc moojt quyeern tieeru thuyeest nhuw thees
+VIVOSDEV01_R012 nhuwxng cown gios majnh vaf muwa ddosng bawng gaay trown trowjt
+VIVOSDEV01_R130 naxo booj chusng ta phast trieern nhuwxng rung ddoojng yeeu thuwowng
+VIVOSDEV01_R139 truwf khi bajn bieest toon trojng barn thaan mifnh
+VIVOSDEV01_R141 nhuwxng con dduwowfng ngawsn ngurn nhuw nhuwxng nhast cawst
+VIVOSDEV01_R146 hieejn ra taajn phisa xa
+VIVOSDEV01_R150 xin dduwowjc chaan khuaan vasc
+VIVOSDEV01_R151 nhuwng khi tieesn gaafn vafo vijnh thif mawjt bieern bij rajn vowx
+VIVOSDEV01_R164 moojt baf ngoaji giawjt ddoof thuee
+VIVOSDEV01_R170 ddooi bafn tay em khoong dduwowjc meefm maji vaf noxn naf
+VIVOSDEV01_R172 taay giang vaaxn cofn khawsc khoari khoong theer vafo xax a noong
+VIVOSDEV01_R174 nhuwxng duwj ddijnh caafn phari dduwowjc bieesn thafnh hieejn thuwjc
+VIVOSDEV01_R176 ddeer tafu khoong phari cuwowxi caafu tafu
+VIVOSDEV01_R180 bafn choori sown bawfng boong meefm raast phoor bieesn
+VIVOSDEV01_R187 thaajt suwj maf laf bowri lofng haajn thuf
+VIVOSDEV01_R188 vieejc quy tooji ddeer bufng noor loaji sasch nafy laf do
+VIVOSDEV01_R027 di tisch cos bary phooxng oong vaf hai phooxng baf dduwowjc lafm bawfng goox mist
+VIVOSDEV01_R028 casc chus cuxng thoari masi phosng uees giuwxa choosn ddoong nguwowfi maf khoong sowj
+VIVOSDEV01_R002 tieesng cojc cajch khuwjng laji cura nhuwxng khowsp sawst
+VIVOSDEV01_R034 nguwowfi ta nosi
+VIVOSDEV01_R003 cuxng leen tieesng urng hooj casc kieesn nghij nafy
+VIVOSDEV01_R043 anh phus chuwa bus dduwowjc suwxa mej laafn nafo
+VIVOSDEV01_R044 ngojn luwra bajo ddoojng owr trung ddoong vaf phas vowx looj trifnh hofa bifnh
+VIVOSDEV01_R055 vaf raast sasng tajo
+VIVOSDEV01_R057 nhuwng giaasc ngur chaajp chowfn
+VIVOSDEV01_R058 giasm ddoosc sowr giaso dujc ddafo tajo ninh thuaajn cho bieest
+VIVOSDEV01_R069 ddefn bij huw roofi ba
+VIVOSDEV01_R071 truwowrng coong an xax chajy sang can ngawn cuxng bij tuyeesn ddasnh tieesp
+VIVOSDEV01_R078 nghe chusng tooi hori ddieefu nafy chij ngast raan raasn nuwowsc mawst
+VIVOSDEV01_R086 coong vawn ddeef nghij tirnh con tum xaay duwjng cuwra khaaru
+VIVOSDEV01_R089 nhuwng tifnh yeeu vaaxn noofng nafn vaf say ddawsm nhuw buoori ban ddaafu
+VIVOSDEV01_R092 do chisnh phur myx tieesn hafnh owr vieejt nam
+VIVOSDEV01_R098 tirnh quarng trij ddax phee duyeejt
+VIVOSDEV01_R099 nhuwng tooi thisch xem booj phim truyeejn phast ngay sau chuwowng trifnh nafy
+VIVOSDEV01_T002 cuxng chuwa bieest nuwxa
+VIVOSDEV01_T030 xuaan nafy em khoong veef
+VIVOSDEV01_T038 chawsc sawsp towsi thu xeesp ddi du lijch thooi
+VIVOSDEV01_T043 nos troosn maast tieeu roofi cofn ddaau
+VIVOSDEV01_T048 thawfng ddos cos casi mieejng nhuw ddafn baf
+VIVOSDEV04_R100 baf nosi
+VIVOSDEV04_R010 con nhor mowr casi tusi gust ddeo treen coor
+VIVOSDEV04_R114 cuxng chawrng cofn xusng xisnh quaafn aso mowsi
+VIVOSDEV04_R118 trer em ddaau cos chuwowsng ngaji vaajt
+VIVOSDEV04_R126 tooi khoong nowx lafm coo bes thaast vojng
+VIVOSDEV04_R127 raast nhieefu guwri gawsm vaf kyf vojng vafo oong
+VIVOSDEV04_R129 ddang tharo luaajn veef ddeef xuaast
+VIVOSDEV04_R132 chur tijch nuwowsc ddax ddeesn kieerm tra tieesn ddooj thi coong
+VIVOSDEV04_R013 nghixa laf kesm cori nam tisnh hay sao
+VIVOSDEV04_R149 moojt coo gasi vasy ngawsn cuxn cowxn chajy leen hori
+VIVOSDEV04_R152 sex khoong khieesn bajn troong gaafy nhuw nhuwxng trang phujc moojt mafu
+VIVOSDEV04_R162 coo chir mowsi vafo luwowsi nhawjt bosng hai laafn
+VIVOSDEV04_R182 hoawjc chir bieeru hieejn bawfng casc roosi loajn co bosp
+VIVOSDEV04_R186 nhawfm tajo ra suwj haasp daaxn
+VIVOSDEV04_R187 thuws aam thanh khoong chir carm nhaajn bawfng thisnh giasc
+VIVOSDEV04_R189 tuwf nooxi coo ddown cura moojt coo bes bij cha mej bor queen
+VIVOSDEV04_R023 chisnh baf cuxng laf nguwowfi nung naasu nieefm ddam mee dieexn xuaast cura coo con gasi
+VIVOSDEV04_R002 ddos cuxng laf ddoojng luwjc thusc ddaary tooi
+VIVOSDEV04_R047 nhosm sinh vieen taji truwowfng cufng hojp mawjt awn teest chung
+VIVOSDEV04_R049 vif toosi ddos
+VIVOSDEV04_R004 ddooi khi bajn cuxng cos theer lafm nhuwxng ddieefu ddos
+VIVOSDEV04_R051 rajch bafu mowsp
+VIVOSDEV04_R056 gis hofn than vafo rowm
+VIVOSDEV04_R063 chasu soost neen rejo rojc suoost ddeem
+VIVOSDEV04_R081 vaf tooi thaasy hoa vajn thoj vafng uwowm
+VIVOSDEV04_R086 tay kia xasch moojt tay giosng mang chieesc vijm lowsn
+VIVOSDEV04_R089 ngur treen neejm khoong phuf howjp
+VIVOSDEV04_R008 nhuwxng ngafy ddaafu vawsng bosng ba vieejt cuws thuwf nguwowfi nghix ngowji
+VIVOSDEV04_R092 bij casc coo gasi bao vaay raso rieest
+VIVOSDEV04_R095 trow troji giuwxa ddoofng casi nhifn khawsc khoari
+VIVOSDEV04_R097 ngoafi vieejc phast hieejn ker thuf
+VIVOSDEV04_T015 moojt laf gawjp laji taast car casc em phof
+VIVOSDEV04_T018 nhuwxng sai laafm khi ddi chojn khasch sajn
+VIVOSDEV04_T029 anh ddi coong tasc caafn thow tuaafn sau mowsi veef
+VIVOSDEV04_T002 cos trar tieefn cho boos khoong thif baro
+VIVOSDEV04_T032 cam safnh loojt vor cofn chua
+VIVOSDEV04_T035 anh khen em ddejp em chee anh giaf
+VIVOSDEV04_T003 nhaajn dduwowjc tin nafy goji laji cho tooi gaasp
+VIVOSDEV04_T044 ba nafy chir giori boosc phest
+VIVOSDEV04_T009 cho tooi nhawsn ddaji tin nafo cuxng dduwowjc
+VIVOSDEV05_004 haxy tuwowrng tuwowjng rawfng bajn laf laf giasm ddoosc duwj asn trong moojt coong ty lowsn
+VIVOSDEV05_030 cura nhuwxng thees luwjc hufng majnh
+VIVOSDEV05_037 oong nhawjt nos leen
+VIVOSDEV05_043 nguyeen thuws truwowrng mai vawn daau ddax bij bawst
+VIVOSDEV05_055 nhuwng muwsc asn tuwr hifnh ddoosi vowsi casc bij caso laf tuwowng xuwsng
+VIVOSDEV05_065 nhuwxng nguwowfi soosng thif tha thaarn trong nhaf ngoafi ngox
+VIVOSDEV05_087 car khoong gian nhuoosm mafu tro beesp
+VIVOSDEV05_091 trasn gioo
+VIVOSDEV05_097 thu chajm ngox raast hieefn
+VIVOSDEV05_107 troong moojt coo nafng ddoor nguwowfi leen luwng anh nguwowfi yeeu gaafy cofm
+VIVOSDEV05_109 doanh nghieejp tuyeern dujng lao ddoojng nuwowsc ngoafi
+VIVOSDEV05_115 thowfi hajn suwr dujng vaf loaji sarn phaarm boojt
+VIVOSDEV05_119 maf cofn bij nhuwxng booj mawjt lajnh te kia hoajnh hoje
+VIVOSDEV05_120 nhuwng mufi hooi vaaxn xoojc vafo taajn osc
+VIVOSDEV05_125 ddang lafm vieejc khoong nguwfng nghir
+VIVOSDEV05_129 thu hust raast laf nhieefu loafi chim
+VIVOSDEV05_135 khi coo theer hieejn khoong maasy thafnh coong owr leex khai majc
+VIVOSDEV05_136 ra hieeju cho tooi im lawjng
+VIVOSDEV05_143 nhor dduwa tay ra cafo heest bufn khoo treen coor tows
+VIVOSDEV05_150 ngoofi choofm choofm casch chir maasy mest
+VIVOSDEV05_155 nuwra vofng trasi ddaast hown bary nawm
+VIVOSDEV05_170 chaajm nawsm bawst xu huwowsng phast trieern coong ngheej mowsi
+VIVOSDEV05_185 maf muwowfng tuwowjng ra hifnh bosng mej
+VIVOSDEV05_189 mooxi nguwowfi moojt soos phaajn em af
+VIVOSDEV05_199 laafn luwxa maxi mowsi gawjp dduwowjc tuyeen
+VIVOSDEV05_200 lafm dduwowfng daay ddeer noosi casc marnh ddowfi
+VIVOSDEV05_202 chij hai chur quasn nghe bafn tasn room rar cuxng ra gosp chuyeejn
+VIVOSDEV05_206 tuwsc khawsc aajp veef keso moji nguwowfi thuws trowr laji thowfi hoang sow
+VIVOSDEV05_209 teen goji taji ddija phuwowng laf trawsc thoosi
+VIVOSDEV05_212 boosn chieesc troosng ddaji phefng la
+VIVOSDEV05_226 moojt cus ngoawjt khoong chisnh xasc
+VIVOSDEV05_231 mowsi ddaay nhaast laf casc tieeru vuwowng quoosc ar raajp thoosng nhaast
+VIVOSDEV05_238 coojng ddoofng nguwowfi mee toasn hojc treen toafn thees giowsi
+VIVOSDEV05_249 tooi nghix thur tuwowsng sex khoong nes trasnh baast cuws caau hori nafo
+VIVOSDEV05_251 bojn buoon laaju ma tusy vaf vux khis
+VIVOSDEV05_261 laji quay ra taajp vieest baso roofi guwri vu vow
+VIVOSDEV05_263 nghe tieesng xifnh xijch xa xa thif ddoasn trusng phosc laf hust haafm caafu
+VIVOSDEV05_270 chuwa rujc rijch gif
+VIVOSDEV05_286 thees nhuwng khi gias phooi thesp thees giowsi cao daafn
+VIVOSDEV05_295 lafm horng casc thieest bij cura teen luwra
+VIVOSDEV06_001 ddown giarn laf tasn gaaxu vowsi nhau
+VIVOSDEV06_006 maf do loosi soosng chui nhuri cura chusng
+VIVOSDEV06_016 raau ria ddax ba ngafy khoong cajo
+VIVOSDEV06_021 moojt dduwowfng huwowsng chuyeen nghieejp
+VIVOSDEV06_022 lisnh cuwsu hora khos tieesp caajn hieejn truwowfng
+VIVOSDEV06_034 nhuwxng nguwowfi treen ghe cura coong an ddax nhawsm thawrng vafo ghe anh chur
+VIVOSDEV06_037 dduwfng buoofn vif tuwj giawfn vawjt mifnh nuwxa
+VIVOSDEV06_040 vaf hist vafo muxi lafm chaast nafy loaxng ra
+VIVOSDEV06_042 ddang haasp daaxn casc taajp ddoafn phaan phoosi dda quoosc gia
+VIVOSDEV06_054 duf laf ddaaju suwsc majnh hoawjc cari boong khurng long
+VIVOSDEV06_061 vif nos khoong nhawsc ddeesn nhuwxng cuoojc taasn coong nhawsm vafo nguwowfi do thasi
+VIVOSDEV06_070 roofi kheef khaf ddooi caau vojng coor vowsi chaan chuoojt
+VIVOSDEV06_078 owr lowsp naasu awn gia ddifnh
+VIVOSDEV06_079 maf bajn cos theer tham kharo ddeer lafm ddejp gian beesp
+VIVOSDEV06_098 casi vij chast chast vaf ddawsng ngawst cura caf phee nguyeen chaast
+VIVOSDEV06_103 casc em nhor sex khoong cofn phari ddi treen nhuwxng chuyeesn ddof nguy hieerm
+VIVOSDEV06_108 lafm coo nafng roj rajy thuwsc trawsng car ddeem
+VIVOSDEV06_117 giari quyeest khoosi ung nhojt nafy phari caafn ddeesn moojt cuoojc ddaji phaaxu nghieem tusc
+VIVOSDEV06_126 thaajm chis cafng gioosng aso quis nafng cafng moost
+VIVOSDEV06_139 cofn booj khang hi tuwf ddieern
+VIVOSDEV06_143 ddooi mooi mej phai son maasp masy moojt lowfi ca hoang hoari
+VIVOSDEV06_157 soos khasc suy ddoasn rawfng anh ta hafnh ddoojng asc taam vaajy
+VIVOSDEV06_168 lafm khung
+VIVOSDEV06_184 hoawjc bajn sex ddeesn ddaasy vowsi moojt taam trajng chasn ngasn voo cufng
+VIVOSDEV06_195 phari dduwowjc thuwjc hieejn treen cow sowr
+VIVOSDEV06_210 hai muwowi sasu hai muwowi bary
+VIVOSDEV06_212 ba muwowi ba muwowi moost
+VIVOSDEV06_222 nawm muwowi nawm muwowi moost
+VIVOSDEV06_240 tasm muwowi sasu tasm muwowi bary
+VIVOSDEV06_241 tasm muwowi tasm tasm muwowi chisn
+VIVOSDEV06_247 moojt trawm moojt hai ba
+VIVOSDEV06_248 moojt ba nawm bary chisn
+VIVOSDEV06_252 nosi truwowsc buwowsc khoong qua
+VIVOSDEV06_253 chawrng laf maasy hoom nay tooi ddau bujng quas
+VIVOSDEV06_261 sao keest quar ra teej vaajy
+VIVOSDEV06_272 tooi chir muoosn xem nhuwxng ddoajn hay maf thooi
+VIVOSDEV06_285 coong ty trasch nhieejm huwxu hajn awn uoosng
+VIVOSDEV06_286 phis chuyeern giao coong ngheej laf ba chujc ngafn ddoofng
+VIVOSDEV06_287 luwowng ba cojc ba ddoofng thif nuooi dduwowjc ai
+VIVOSDEV06_296 coo aasy ddax quas chesn
+VIVOSDEV07_002 hawfng nawm chusng ta thari ra hafng tir thieest bij ddieejn tuwr
+VIVOSDEV07_025 cho nhuwxng chuyeesn dax ngoaji cura du khasch
+VIVOSDEV07_030 nhuwxng nhuwowjc ddieerm cura mifnh
+VIVOSDEV07_036 vif ddos mowsi chisnh laf thuws bajn caafn
+VIVOSDEV07_039 gios trowfi khoong theer thoong thoosc thoori vafo khai trung
+VIVOSDEV07_044 bowri cow quan chuyeen moon hoawjc thuee toor chuwsc kieerm toasn ddoojc laajp
+VIVOSDEV07_045 hoawjc cho vafo vaji muoosi ddeer lowjn awn daafn
+VIVOSDEV07_064 cuws chujm casc ddaafu ngosn tay laji moojt choox
+VIVOSDEV07_066 ddax cos duwj asn ddeer xaay duwjng moojt casi caafu tuwf ddaast lieefn
+VIVOSDEV07_067 chajm vafo phaafn thosp meefm treen ddaafu bes
+VIVOSDEV07_084 thif booxng nghe thaasy tieesng oasc oasc tuwf vajt ruwfng phi lao
+VIVOSDEV07_093 phujc vuj cho mufa thi ddaji hojc ddang ddeesn sast sajt
+VIVOSDEV07_098 traajn chieesn xisch bisch
+VIVOSDEV07_107 nguyeen thuws truwowrng booj ddaji hojc vaf giaso dujc chuyeen nghieejp cux
+VIVOSDEV07_115 vafo cow quan laf anh host gioosng heejt nhoofng mowsi loojt luwowxi vaajy
+VIVOSDEV07_125 asng chuwfng ddax ngoaji bary muwowi
+VIVOSDEV07_127 cos hai tasc dujng tisch cuwjc
+VIVOSDEV07_134 tham gia giarng dajy laf luwjc luwowjng ddoafn vieen
+VIVOSDEV07_138 ddos hawrn laf moojt mosn quaf
+VIVOSDEV07_141 vaf khi thaasy tooi vaaxn kieen ddijnh trar lowfi trowst quowst
+VIVOSDEV07_151 roo bost thoong minh
+VIVOSDEV07_156 ddaafu tieen laf baf con mifnh vaajt vax lafm awn
+VIVOSDEV07_168 maf cho ddeesn lusc ddos dduwowjc xem laf cura tuw nhaan
+VIVOSDEV07_170 nhuw laafn nafy dduwowjc neesm mosn giof thur hoafn toafn lafm tuwf tai heo
+VIVOSDEV07_182 nhuwxng nguwowfi hoafi nghi nosi rawfng giuwx dduwowjc vaajt treo lurng lawrng treen nguwowfi
+VIVOSDEV07_185 chisu chist gowji tifnh mej con sum hojp
+VIVOSDEV07_190 nowi cos maasy teen troong raast gaasu
+VIVOSDEV07_192 nhieefu nguwowfi cho bieest
+VIVOSDEV07_194 nhieefu truj ddas di tisch nawfm nghieeng ngar vaf vowx nast
+VIVOSDEV07_195 hoj cuxng luoon trasnh xa nhuwxng tifnh huoosng cos theer gaay haji cho hoj
+VIVOSDEV07_197 trong cuoojc soosng cura tooi chusng khoong dufng ddeer kieesm ra lowji nhuaajn
+VIVOSDEV07_209 hai muwowi boosn hai muwowi lawm
+VIVOSDEV07_211 hai muwowi tasm hai muwowi chisn
+VIVOSDEV07_223 nawm muwowi hai nawm muwowi ba
+VIVOSDEV07_231 sasu muwowi tasm sasu muwowi chisn
+VIVOSDEV07_236 bary muwowi tasm bary muwowi chisn
+VIVOSDEV07_246 chisn muwowi tasm chisn muwowi chisn
+VIVOSDEV07_264 buoori sasng thafnh phoos oo nhieexm hown buoori truwa
+VIVOSDEV07_266 nosng giaajn tooi ddax lawng maj anh
+VIVOSDEV07_295 chur tafu cho bieest sex tieesp tujc thuwowng thuyeest veef soos chi phis nafy
+VIVOSDEV08_002 dduwfng ddeer con saau awn
+VIVOSDEV08_005 caay coor thuj aasy baast chowjt bij beejnh taajt quaajt ngax
+VIVOSDEV08_014 vaf neesu bajn trost lafm loojn xoojn mafn hifnh neefn
+VIVOSDEV08_025 ddajo dieexn trer nafy cos nhieefu ddieefu ngaaxm ngowji veef ngheef
+VIVOSDEV08_032 sex khoong khieesn bajn troong gaafy nhuw nhuwxng trang phujc moojt mafu
+VIVOSDEV08_053 bowri cow quan chuyeen moon hoawjc thuee toor chuwsc kieerm toasn ddoojc laajp
+VIVOSDEV08_057 nos laajt ddaajt ddajp chieesc xe caf tafng bawng ngay ra ddaafu dduwowfng
+VIVOSDEV08_062 hoawjc chir bieeru hieejn bawfng casc roosi loajn co bosp
+VIVOSDEV08_071 khi tooi laf con bes lowsp boosn thif caay var ddax cao quas nosc nhaf
+VIVOSDEV08_077 buoori ddaafu thaajt khos khawn theo dduoori chuwowng trifnh hojc
+VIVOSDEV08_085 vieejc dduwa tisn hieeju truyeefn hifnh truwjc tieesp bawfng heej thoosng casp quang
+VIVOSDEV08_090 vif khoong cos tieefn ddosng hojc phis
+VIVOSDEV08_093 thif booxng nghe maasy tieesng oasc oasc tuwf vajt ruwfng phi lao
+VIVOSDEV08_100 hay ddarm baro rawfng ngafy nafo chusng cuxng dduwowjc ddi nhuwxng ddooi taast sajch
+VIVOSDEV08_127 veef vieejc mang ddeesn cho casc em nieefm vui hojc
+VIVOSDEV08_128 cos lex phari maast nhieefu thowfi gian
+VIVOSDEV08_129 nuwowsc goox treen chieesc ddoofng hoof ddax bawst leen mafu guj bosng loasng
+VIVOSDEV08_141 khi suwsc esp bieesn maast chusng trowr laji tifnh trajng meefm dero bifnh thuwowfng
+VIVOSDEV08_143 tham gia giarng dajy laf luwjc luwowjng ddoafn vieen
+VIVOSDEV08_145 vaf vari hoawjc cosi nhieefu mafu
+VIVOSDEV08_159 vowsi nguwowfi mej owr xosm chafi long bieen
+VIVOSDEV08_163 chuwowng trifnh ddax tajo dduwowjc hieeju uwsng toost tuwf phisa khasn giar nhis
+VIVOSDEV08_166 dijch vuj kieerm tra suwsc khore ddijnh kyf laf moojt ys kieesn hay
+VIVOSDEV08_180 chisnh suwj leen safn oof ajt ddos
+VIVOSDEV08_182 keest quar chir cos vorn vejn ba nguwowfi cofn bieest deejt
+VIVOSDEV08_193 laf tuwowng ddoosi cos hieeju quar
+VIVOSDEV08_196 phaafn lowsn hojc sinh giafu cos nguwowfi nuwowsc ngoafi
+VIVOSDEV08_201 khoong moojt hai ba boosn
+VIVOSDEV08_208 hai muwowi hai hai muwowi ba
+VIVOSDEV08_210 hai muwowi sasu hai muwowi bary
+VIVOSDEV08_214 ba muwowi boosn ba muwowi lawm
+VIVOSDEV08_222 nawm muwowi nawm muwowi moost
+VIVOSDEV08_224 nawm muwowi boosn nawm muwowi lawm
+VIVOSDEV08_233 bary muwowi hai bary muwowi ba
+VIVOSDEV08_270 nosi thaajt ddaasy af
+VIVOSDEV08_271 quas toost roofi
+VIVOSDEV08_274 tooi cheest cufng vowsi asnh trawng
+VIVOSDEV08_277 ddafn oong cos hai thuws ddeer buoofn
+VIVOSDEV08_295 giafu ddoori bajn sang ddoori vowj
+VIVOSDEV08_300 asn majng treen toa tafu toosc hafnh
+VIVOSDEV09_015 lafm rowfm rowjp bieern maay lau lasch phaast phow
+VIVOSDEV09_022 truwsng muwjc quyeesn rux casc nguw daan
+VIVOSDEV09_029 bajn cos theer khieern trasch nguwowfi lasi xe
+VIVOSDEV09_035 loasng thoasng trawn trowr loasng thoasng buoofn vui
+VIVOSDEV09_038 phofng traf khieeu vux casnh quajt coosi xay ddor
+VIVOSDEV09_039 thijt ngojt luwf aasy laji mang theo trufng sasn gaay beejnh
+VIVOSDEV09_041 hieejn trong nhieefu loaji tori cos mawjt treen thij truwowfng
+VIVOSDEV09_047 ngafy cawn baajc hai chir dieexn ra chisn laafn trong moojt thees kyr
+VIVOSDEV09_055 roofi rowm raj khoo theo thaan hifnh gaafy ngawrng
+VIVOSDEV09_077 ddeer cos theer vaajn hafnh chusng dduwowjc hieeju quar hown
+VIVOSDEV09_081 dduwowjc myx raso rieest tung ra
+VIVOSDEV09_083 vif luwowjng ca khusc mowsi quas nhieefu
+VIVOSDEV09_091 nuwowsc chary quas majnh
+VIVOSDEV09_098 khieesn car hai phari giaajn howfn voo lys
+VIVOSDEV09_106 roofi chifm lirm moojt thowfi gian
+VIVOSDEV09_110 khi mieejng vaaxn ngaajm baafu vus quawst queo
+VIVOSDEV09_134 caau trar lowfi cura oong ta raast khieesm nhax
+VIVOSDEV09_139 neesu chur ddaafu tuw khoong tuwj phas dowx thif bij cuwowxng chees
+VIVOSDEV09_142 veef chuyeejn ddang theo doxi bojn giasn ddieejp nuwowsc ngoafi
+VIVOSDEV09_144 dduwowjc cawst tuwf vor chawn booj ddooji cux cura casc oong boos ra
+VIVOSDEV09_158 sowj nhaast laf mufa muwa saasm sest ddufng ddoafng treen nusi
+VIVOSDEV09_159 tuwsc laasy sujn lafnh tuwf nowi khoong phari chiju luwjc ghesp vafo nowi huw
+VIVOSDEV09_163 ddieefu voo cufng quan trojng trong thowfi ddaji cos quas nhieefu hoajt ddoojng
+VIVOSDEV09_166 this sinh tuwj do caafn quan taam ddeesn ddooj veenh kieesn thuwsc casc moon
+VIVOSDEV09_168 mooxi nguwowfi chusng ta sex cos nhuwxng thuws khasc nhau
+VIVOSDEV09_178 vaf thaajm chis bajn cuxng khoong neen coos gawsng
+VIVOSDEV09_194 treen baafu trowfi asnh trawng sasng vawfng vawjc
+VIVOSDEV09_198 laf toor tieen cura oong ddawjng leen ddarm trasch vieejc daaxn dduwowfng
+VIVOSDEV09_203 tasm chisn muwowfi muwowfi moojt
+VIVOSDEV09_204 muwowfi moojt muwowfi hai muwowfi ba
+VIVOSDEV09_222 nawm muwowi nawm muwowi moost
+VIVOSDEV09_246 chisn muwowi tasm chisn muwowi chisn
+VIVOSDEV09_267 cawn nhaf ddawfng kia nghe nosi cos ma
+VIVOSDEV09_268 thus thaajt tui chuwa tuwfng chowi gasi
+VIVOSDEV09_280 xuaan nafy em khoong veef
+VIVOSDEV09_286 cos cofn hown khoong
+VIVOSDEV09_288 chawsc sawsp towsi thu xeesp ddi du lijch thooi
+VIVOSDEV09_289 phuwowng chaam soosng cura tooi laf nguwowfi khoong vif mifnh trowfi tru ddaast dieejt
+VIVOSDEV09_293 nos troosn maast tieeu roofi cofn ddaau
+VIVOSDEV09_297 thees nafo laf hoafn haro
+VIVOSDEV10_010 khi bij coong an thoojp coor khaarn caasp
+VIVOSDEV10_014 sau khi ddojc nhuwxng thoong tin treen baso
+VIVOSDEV10_017 nga khi aasy cafng thifn neest na
+VIVOSDEV10_020 vieejc asp dujng car bafn vas looxi vaf coong cuj quest
+VIVOSDEV10_024 ngoafi trowfi muwa cuws lay phay rawsc hajt
+VIVOSDEV10_030 nuooi moo hifnh tinh hoafn roofi tajo ra tinh hoafn vowsi ddaafy ddur hifnh hafi
+VIVOSDEV10_035 cos theer giusp ta queen ddi nhuwxng nooxi uwu phieefn
+VIVOSDEV10_043 maf dung dawng nhes caafm tay ddaast trowfi
+VIVOSDEV10_045 tooi lowsn leen trong suwj gher lajnh cura nguwowfi mej kees
+VIVOSDEV10_051 khung rawng hafm treen khum
+VIVOSDEV10_067 thees nhuwng tooi khoong aan haajn khi trowr thafnh ddar nuwx
+VIVOSDEV10_068 vowsi moojt toosc ddooj maf chusng ta khoong theer ddi ddeesn taajn cufng cura nos
+VIVOSDEV10_072 tooi thaasy ddoofng luwowng cura mifnh nawm nawm roofi vaaxn dduwsng nguyeen
+VIVOSDEV10_073 ddeer chaasm duwst najn bajo hafnh trong gia ddifnh
+VIVOSDEV10_076 lafm dduwowfng sas ngaajp xawsp xawsp quanh nawm suoost thasng
+VIVOSDEV10_090 vuwfa dduwowjc trao tawjng giari thuwowrng nhaf nuwowsc
+VIVOSDEV10_117 casi khos laf
+VIVOSDEV10_129 ddieefu nafy ddusng vowsi moji caasp ddooj vaf trong moji lixnh vuwjc cura ddowfi soosng
+VIVOSDEV10_130 cao ngoofng ngoofng
+VIVOSDEV10_140 chafng trai loofm coofm bof daajy mawjt mafy xanh lest nhuw tafu las chuoosi
+VIVOSDEV10_156 chisnh phur ddoofng thowfi cuxng laajp theem cujc xusc tieesn tieeu thuj daafu coj
+VIVOSDEV10_162 cuxng laf tin vui cho taast car nhuwxng ai
+VIVOSDEV10_172 huwowjm ddax cofn phari ddieefu chirnh
+VIVOSDEV10_176 trong tifnh thees aasy chir ddasm trer ven soong
+VIVOSDEV10_189 neesu ddi tieesp nha trang
+VIVOSDEV10_194 tuwsc chanh cos theer trij dduwowjc beejnh
+VIVOSDEV10_196 chir muoosn lafm moojt howi cho ddax casi mieejng
+VIVOSDEV10_211 hai muwowi tasm hai muwowi chisn
+VIVOSDEV10_212 ba muwowi ba muwowi moost
+VIVOSDEV10_227 sasu muwowi sasu muwowi moost
+VIVOSDEV10_234 bary muwowi boosn bary muwowi lawm
+VIVOSDEV10_239 tasm muwowi boosn tasm muwowi lawm
+VIVOSDEV10_245 chisn muwowi sasu chisn muwowi bary
+VIVOSDEV10_247 moojt trawm moojt hai ba
+VIVOSDEV10_249 khoong hai boosn sasu tasm
+VIVOSDEV10_257 tieefn ddieejn thasng nafy bao nhieeu
+VIVOSDEV10_262 thua xa tieejm tajp hoas nhaf tao
+VIVOSDEV10_266 tuwf treen nosc nhaf nhifn xuoosng cos khasc
+VIVOSDEV10_278 tooji nghieejp dduwsa nhor khoong ai chawm sosc
+VIVOSDEV10_294 em sowj cos moojt ngafy anh gawjp nguwowfi con gasi khasc toost hown em roofi anh bor em
+VIVOSDEV11_015 nuwx dieexn vieen xinh ddejp phajm bawng bawng
+VIVOSDEV11_022 sex lafm giarm tifnh trajng osi ojc cura trer
+VIVOSDEV11_033 maf phari che chasi owr tajm been hoong nhaf cha ruoojt
+VIVOSDEV11_036 tooi cos theer cawm giaajn ddur thuws
+VIVOSDEV11_038 maf phari chuyeern qua hifnh thuwsc giao dijch
+VIVOSDEV11_046 dduwfng bao giowf ddeer cho baast kyf ai nosi vowsi bajn rawfng
+VIVOSDEV11_048 vafng osng ddooi gheejt cao coor cura nguwj laam quaan
+VIVOSDEV11_057 neesu vif chusng tooi
+VIVOSDEV11_063 neesu bajn vaaxn carm thaasy tooji looxi
+VIVOSDEV11_075 daxi daafu nawsng gios truwowfng sown
+VIVOSDEV11_076 vowsi treen laf nusi vaf duwowsi laf soong
+VIVOSDEV11_077 vowsi suwj xuaast hieejn cura quasi thus vaf roofng
+VIVOSDEV11_079 nest mawjt hoj khoong ngowfi leen hajnh phusc cura nguwowfi mej
+VIVOSDEV11_081 moojt soos nguwowfi cho rawfng
+VIVOSDEV11_083 moojt sinh vieen dduwowjc vay voosn tisn dujng hojc taajp
+VIVOSDEV11_095 moji thuws ddeefu dduwowjc moor xer laji
+VIVOSDEV11_122 khoong phari nawsp khum
+VIVOSDEV11_123 casc coong ty du lijch phari xasc ddijnh
+VIVOSDEV11_129 ddi booj leo nusi ddeesn nhuwf chaan
+VIVOSDEV11_131 thif chur ddaafu tuw phari tuwj phas dowx phaafn nooji dung sai phesp ddos
+VIVOSDEV11_136 khi nhaan vieen cuwsu hooj coos gawsng dduwa nos leen saf lan
+VIVOSDEV11_137 nhuwxng nguwowfi nafy ddeefu dduwowjc ddafo tajo veef hooji hoja
+VIVOSDEV11_147 gawsn loong chim hoojt ddas losng lasnh hay befo dusn tufa lua ddaafy coor
+VIVOSDEV11_160 nguj aasp hofn ngang
+VIVOSDEV11_164 ist nhaast owr hown ba muwowi truwowfng thuoojc casc ddija phuwowng nosi treen
+VIVOSDEV11_182 ddawjc ddieerm cura phaary trufng tar
+VIVOSDEV11_193 vif ban ddeem chij ngur khoong ngon
+VIVOSDEV11_198 low luwrng treen ddaafu laf nhuwxng chieesc baaxy ddas hafng trawm khoosi
+VIVOSDEV11_200 nawm ddaafu tieen
+VIVOSDEV11_234 bary muwowi boosn bary muwowi lawm
+VIVOSDEV11_242 chisn muwowi chisn muwowi moost
+VIVOSDEV11_246 chisn muwowi tasm chisn muwowi chisn
+VIVOSDEV11_252 baay giowf cuwowsp nhieefu quas ddi dduwowfng cuxng thaasy sowj
+VIVOSDEV11_262 tifm hung thur hieesp daam bawfng nuwowsc bojt najn nhaan
+VIVOSDEV11_269 chusng tooi yeeu nhau dduwowjc hai nawm thif gia ddifnh tooi xary ra chuyeejn
+VIVOSDEV11_273 trojng tafi phajt ther ddor
+VIVOSDEV11_274 kieeru nafy chawsc phari cawst giarm bieen chees
+VIVOSDEV11_282 thooi thif cuws sawsp xeesp nhuw vaajy
+VIVOSDEV11_289 theo phos chur tijch ury ban an toafn giao thoong quoosc gia
+VIVOSDEV11_298 chuaarn bij cho ngafy khai truwowng cuwra hafng ddaafu tieen
+VIVOSDEV12_006 tuwf suwj duw thuwfa quas muwsc cura luoofng tieefn nafy
+VIVOSDEV12_011 ddos chuwsng tor rawfng chusng ta ddax giaf
+VIVOSDEV12_015 trar laji ddaast cho ruwfng
+VIVOSDEV12_032 casc loaji caay troofng owr ruwfng nafy toafn caay kesm gias trij
+VIVOSDEV12_054 thieesu suwj quan taam ddusng muwsc tuwf casc cow quan chuwsc nawng
+VIVOSDEV12_056 taji chowj cas
+VIVOSDEV12_057 khoong phari vif tooi khoong coi trojng chaast luwowjng
+VIVOSDEV12_065 thif ddojc dduwowjc hoofi kys khoong theer chuoojc looxi treen baso tuoori trer
+VIVOSDEV12_066 thieesu tuwowsng phajm quys ngoj cho bieest
+VIVOSDEV12_068 khoong moojt chust traafy truja maf ddeefn casi gif
+VIVOSDEV12_071 nos dduwowjc ddawjt trong moojt hoojp dduwjng trang suwsc bojc da ddor
+VIVOSDEV12_075 nhosm thanh long trer dieexn tieeru phaarm hafi hawsc bajch tranh hufng
+VIVOSDEV12_076 tows ddi kieesm nhaf troj roofi nhuwng khos quas
+VIVOSDEV12_079 xanh cor muwowjt maf ven dduwowfng
+VIVOSDEV12_080 chisnh thuwsc ddax laay lan ra been ngoafi
+VIVOSDEV12_100 phuj huynh vaf hojc sinh ddang phari ef coor vif sasch gias cao
+VIVOSDEV12_101 khi chisnh phur lusc ddaafu ddeef nghij aan xas cho nhuwxng nguwowfi noori daajy
+VIVOSDEV12_116 duwowsi asnh ddefn mowf mowf aro aro
+VIVOSDEV12_128 trong cuoojc bor phieesu taji hooji ddoofng baro an hai ngafy truwowsc ddos
+VIVOSDEV12_132 haafu heest nhuwxng vaasn ddeef xary ra treen thees giowsi
+VIVOSDEV12_135 oong dduwowjc nhieefu nguwowfi bieest ddeesn
+VIVOSDEV12_144 trar lowfi tooi bieest
+VIVOSDEV12_166 ijch gax to beso ujc ijch
+VIVOSDEV12_169 aso rasch luwowm buwowm
+VIVOSDEV12_173 ddoosi vowsi nhuwxng pharn uwsng khasc bieejt ddos
+VIVOSDEV12_182 vaf ddax hieesn masu ba laafn
+VIVOSDEV12_186 tieesng hest ddoofng thanh cura maasy chujc con nguwowfi
+VIVOSDEV12_192 trang thuws hai cura towf baso
+VIVOSDEV12_197 sau ddos baf hafng xosm tisnh tifnh xowri lowri chajy qua keer vowsi tooi
+VIVOSDEV12_213 ba muwowi hai ba muwowi ba
+VIVOSDEV12_223 nawm muwowi hai nawm muwowi ba
+VIVOSDEV12_224 nawm muwowi boosn nawm muwowi lawm
+VIVOSDEV12_227 sasu muwowi sasu muwowi moost
+VIVOSDEV12_232 bary muwowi bary muwowi moost
+VIVOSDEV12_244 chisn muwowi boosn chisn muwowi lawm
+VIVOSDEV12_248 moojt ba nawm bary chisn
+VIVOSDEV12_271 baf con rang tris cafnh ddafo ddeer chuaarn bij ddosn teest
+VIVOSDEV12_275 tooi khoong thaasy gif laf ddusng khi tawng gias xe vafo casc dijp teest
+VIVOSDEV12_280 du lijch sex trowr thafnh ngafnh kinh tees muxi nhojn
+VIVOSDEV12_290 tuwf khi choofng qua ddowfi vif beejnh taajt
+VIVOSDEV13_019 ddown vij mifnh khoong nghe ai nosi gif chuwa hawrn ddax toost
+VIVOSDEV13_026 khoong ai dduwowjc nguwowjc ddaxi casc em vif casc em hojc chaajm
+VIVOSDEV13_054 giaf lafng nguyeexn majnh tuwowfng trar lowfi phorng vaasn baso giowsi arnh trung daan
+VIVOSDEV13_058 ddos laf giai ddoajn thowfi tieest ist bieesn ddoojng vaf nhieejt ddooj khoong quas thaasp
+VIVOSDEV13_061 nhuwng sau nghe con nosi ra nosi vafo laji asc carm vowsi em
+VIVOSDEV13_069 nhuwxng ddieesu thuoosc voo ys ddoost chasy vafi choox treen chieesc soo pha bojc vari
+VIVOSDEV13_075 bajn cos theer tawst chuwowng trifnh ddos ddi vaf thuwjc hieejn thao tasc cuoosi cufng
+VIVOSDEV13_078 khawsp nowi quanh chusng tooi vuwowng vaxi xasc cheest cura nguwowfi daan voo tooji
+VIVOSDEV13_088 nhuwxng chieesc loofng ddefn ddoof chowi vieejt vaaxn lawjng lex mang hoofn vieejt xuoosng phoos
+VIVOSDEV13_089 nhaf vawn nguyeen ngojc sinh vieen cos quyeefn hoafi nghi vaf tranh caxi
+VIVOSDEV13_097 cuoojc thi cofn cos hai giari nhif ba giari ba vaf boosn giari khuyeesn khisch
+VIVOSDEV13_098 haafu nhuw casc pharn uwsng phuj nawjng neef laf raast hieesm gawjp
+VIVOSDEV13_104 soos tieefn quas lowsn khieesn gia ddifnh huwowng phajm vaf lee choasng vasng
+VIVOSDEV13_105 nhosc ddor mawjt tisa tai nhosc thua chij moojt tuoori thooi ddaasy
+VIVOSDEV13_106 carm giasc dduwowjc chia ser vowsi bajn ddowfi cufng sowr thisch thus vij lawsm
+VIVOSDEV13_136 tooi vafo quaafy giari khast ddaafu tieen vaf goji moojt coosc nuwowsc cam
+VIVOSDEV13_137 mej laafn tay trong vis vaf laasy ra chieesc phong bif
+VIVOSDEV13_139 tieeu nhuw phong chajy troosn khori kinh thafnh ddeer tifm hung thur thaajt suwj
+VIVOSDEV13_146 cos ngafy casc basc six ddieefu duwowxng moor mawst cho hafng trawm nguwowfi muf nghefo
+VIVOSDEV13_147 khoong ai muoosn cos tieeu cuwjc car vaf cuxng dduwfng tuyeejt ddoosi hosa vaasn ddeef
+VIVOSDEV13_150 vowj hawsn thij ngaafn mang luwowsi ra vas ddeer chieefu thar
+VIVOSDEV13_164 hieejn cow quan chuwsc nawng ddang tieesp tujc ddieefu tra vuj vieejc
+VIVOSDEV13_167 khi bij phast hieejn hoj ddax trar lowfi nhuw thees nafo
+VIVOSDEV13_210 raf soast chaast luwowjng coong trifnh xaay duwjng treen car nuwowsc
+VIVOSDEV13_211 khoong narn nghixa tin rawfng sex cos moojt giari phasp nafo ddos
+VIVOSDEV13_222 mej cuxng ddax tuwfng thoosng khoor tuyeejt vojng vaf coo ddown nhuw vaajy
+VIVOSDEV13_225 hai loaji vawn nafy neen dduwowjc coi trojng nhuw nhau trong casc kyf thi
+VIVOSDEV13_226 vaajy mowsi cos mujc tieeu ddeer maf phaasn ddaasu neen nguwowfi cos ys thuwsc
+VIVOSDEV13_227 taji ddaay cos moojt oong truwowrng phofng nhaan suwj coong ty
+VIVOSDEV13_230 chir moojt ddieefu ddown giarn vaajy maf anh aasy khoong bao giowf thuwjc hieejn dduwowjc
+VIVOSDEV13_239 chawrng caafn nhifn veef phuwowng taay quee huwowng cura hafng hieeju
+VIVOSDEV13_241 mufa ddoong car casnh ddoofng chuyeern sang moojt mafu vafng ruwjc
+VIVOSDEV13_252 tooi hojc cufng vowsi casc anh chij lafm vieejc chuyeen veef sarn xuaast phaafn meefm
+VIVOSDEV13_255 cos lex ddaay laf lowfi quarng caso khoong coong hay nhaast cho du lijch lafo
+VIVOSDEV13_257 tuwf ddos ddeesn nay gia ddifnh chij vaaxn soosng trong cawn nhaf lujp xujp
+VIVOSDEV13_258 bajn caafn trung thuwjc vowsi nhaan vieen cura mifnh trong moji hoafn carnh
+VIVOSDEV13_263 moojt soos ddieerm nuwowsc phun ddeesn ddaau bay howi heest ddeesn ddos
+VIVOSDEV13_267 do vaajy vaasn ddeef khu trus khoosng chees beejnh tar hieejn nay raast khos
+VIVOSDEV13_276 ddos laf caau hori maf ddeesn nay vaaxn chuwa cos caau trar lowfi
+VIVOSDEV13_277 haf nooji mowr roojng khu vuwjc hoof taay soong hoofng neen laf khu vuwjc tixnh
+VIVOSDEV14_018 bieen chees nafy nhaf thanh goji laf an nam quoosc nhajc
+VIVOSDEV14_022 hown laf daaxn dawst casc em theo chur ys cura giaso vieen
+VIVOSDEV14_027 bajn cos theer tham kharo moojt sow yeesu lys lijch ddieejn tuwr sau ddaay
+VIVOSDEV14_035 nhajc six la hoosi vowsi ca khusc xuaan vaf tuoori trer
+VIVOSDEV14_079 vaajy ai sex chiju trasch nhieejm veef nhuwxng truwowfng howjp nafy
+VIVOSDEV14_080 tuy phisa truwowsc cofn voo vaf khos khawn ddoosi vowsi con
+VIVOSDEV14_085 boosn nawm trowfi bij caam moojt mifnh vowsi bosng mifnh nhieefu phen ofa khosc
+VIVOSDEV14_086 em sowj maast anh aasy nhuwng laji carm thaasy mifnh bij xusc phajm
+VIVOSDEV14_093 trof ddufa ddoosi vowsi thaafy nhuwng laji laf chaan thaajt chaan thaajt vowsi moojt nguwowfi
+VIVOSDEV14_104 ddos laf nhaajn xest chung cura nhieefu toorng giasm ddoosc ddieefu hafnh ngafy nay
+VIVOSDEV14_108 nguwowfi phasp ddax ddoofng ys vowsi casch quarn lys lixnh vuwjc dafnh rieeng
+VIVOSDEV14_113 hawsn thay ddoori laafm lif sau khi theo gia ddifnh ddeesn xuws nguwowfi
+VIVOSDEV14_114 yeesu toos haasp daaxn mowsi thu hust ddaafu tuw nuwowsc ngoafi vafo vieejt nam
+VIVOSDEV14_115 vaajy maf giowf ddaay nos khoong ddowji dduwowjc ddeesn lusc huy veef
+VIVOSDEV14_116 moojt gosc caau cas treen caafu safi gofn arnh mai vinh
+VIVOSDEV14_123 moojt vafi nguwowfi trong bojn hoj dduwa mawst nhifn marnh giaasy
+VIVOSDEV14_134 nhuwng truwowsc ddaay nhifn tuwf been ngoafi nowi nafy khoong khasc moojt cawn nhaf hoang
+VIVOSDEV14_140 cos nhuwng phari laf thuoosc ddawjc trij cura phasp hieesm vaf cuwjc kyf ddawst
+VIVOSDEV14_145 moojt soos bajn trer cuxng cos ys nghix nhuw cao cuwowfng
+VIVOSDEV14_151 tooi ddax cos thowfi gian tuyeejt vowfi khi chowi cho ddooji tuyeern
+VIVOSDEV14_156 thirnh thoarng con ddi qua duwfng laji duwjng xe ngoofi hust thuoosc
+VIVOSDEV14_163 chus booj ddooji qua nhuwxng caau chuyeejn cura oong mowsi gaafn guxi lafm sao
+VIVOSDEV14_180 awn cas nguwf cas thu vaf cas mofi vowsi rau troojn
+VIVOSDEV14_186 cos bawfng thajc six nhuwxng ngafnh treen laf moojt lowji thees
+VIVOSDEV14_191 minh nhaajt hoofng quaan vux coong thafnh suwu taafm tuwf baso nuwowsc ngoafi
+VIVOSDEV14_194 muoosn cos bawfng lasi phari qua moojt ddowjt thi raast khawst khe
+VIVOSDEV14_195 yeeu nhau khoarng vafi thasng thif chusng tooi ddax cos quan heej tifnh dujc
+VIVOSDEV14_199 khos sao duyeen dasm cho anh uoosng ruwowju trong ddasm cuwowsi
+VIVOSDEV14_225 oong duwowng dduwsc laan phos toorng cujc truwowrng toorng cujc dajy ngheef
+VIVOSDEV14_227 ddoosi xuwr vowsi bajn nhuw nguwowfi yeeu cux cura bajn ddax tuwfng lafm
+VIVOSDEV14_235 tham gia thieest kees lawng chur tijch hoof chis minh thif cos nhieefu nguwowfi
+VIVOSDEV14_236 vif vaajy coong ty b phari cos trasch nhieejm boofi thuwowfng
+VIVOSDEV14_256 noong daan troofng misa than cuws moojt vuj dduwowjc laji ba vuj thaast
+VIVOSDEV14_280 thif nguwowfi xem cuxng dduwowjc naang cao kieesn thuwsc veef ddija lys
+VIVOSDEV14_283 ngafy xuwa casc cuj lafm bifa sasch laf minh hoaj cho cuoosn sasch ddos
+VIVOSDEV14_285 tooi ddax nhieefu laafn pharn ddoosi quyeest lieejt vieejc nuwowsc thari tuoofn ra ngoafi

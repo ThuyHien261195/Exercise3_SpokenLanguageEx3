@@ -1,0 +1,2123 @@
+------------------------ Sentence Scores --------------------------
+====================== HTK Results Analysis =======================
+  Date: Wed Jun 20 23:01:24 2018
+  Ref : D:/Thacsi/NNN/htk/test_2/words.mlf
+  Rec : D:/Thacsi/NNN/htk/test_2/trirecout.mlf
+-------------------------- File Results ---------------------------
+VIVOSDEV01_R002.rec:   11.11(  0.00)  [H=   1, D=  0, S=  8, I=  1, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R002.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R002.rec
+ LAB:         tieesng cojc  cajch khuwjng   laji  cura nhuwxng khowsp  sawst 
+ REC: phieefn tujc    caajp c     thuwowjng lowji cura duwfng  thuaajt sawsc 
+VIVOSDEV01_R003.rec:  100.00(100.00)  [H=   9, D=  0, S=  0, I=  0, N=  9]
+VIVOSDEV01_R012.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R012.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R012.rec
+ LAB: nhuwxng cown gios majnh vaf  muwa ddosng  bawng  gaay trown     trowjt   
+ REC: nhuwxng cown gios majnh vafo muwa ddoofng bawfng kyf  truwowfng truwowsc 
+VIVOSDEV01_R027.rec:   66.67( 66.67)  [H=  10, D=  0, S=  5, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R027.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R027.rec
+ LAB: di tisch cos bary phooxng oong vaf hai phooxng baf  dduwowjc lafm bawfng goox    mist  
+ REC: di tisch cos bary phooxng oong vaf hai phujng  bowf dduwowjc lofm bawfng nguoofn baajt 
+VIVOSDEV01_R028.rec:   78.57( 78.57)  [H=  11, D=  0, S=  3, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R028.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R028.rec
+ LAB: casc chus cuxng thoari masi phosng uees  giuwxa choosn ddoong nguwowfi maf  khoong sowj 
+ REC: casc chus cuxng thoari masi khoong hoofi giuwxa choosn ddoong nguwowfi vowj khoong sowj 
+VIVOSDEV01_R034.rec:   33.33( 33.33)  [H=   1, D=  0, S=  2, I=  0, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R034.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R034.rec
+ LAB: nguwowfi ta   nosi  
+ REC: nguwowfi tofa nooji 
+VIVOSDEV01_R043.rec:  100.00(100.00)  [H=   9, D=  0, S=  0, I=  0, N=  9]
+VIVOSDEV01_R044.rec:   14.29( 14.29)  [H=   2, D=  0, S= 12, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R044.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R044.rec
+ LAB: ngojn luwra bajo ddoojng owr   trung  ddoong  vaf  phas vowx looj  trifnh hofa bifnh 
+ REC: hoj   nuwra goji ddoofng hooji trusng ddoofng vafo vafo vowx roofi chirnh vafo bifnh 
+VIVOSDEV01_R055.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R055.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R055.rec
+ LAB: vaf  raast    sasng tajo 
+ REC: vafo dduwowjc sarn  tafu 
+VIVOSDEV01_R057.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R057.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R057.rec
+ LAB: nhuwng giaasc ngur  chaajp chowfn 
+ REC: nhifn  duwst  nguri chujp  chowfn 
+VIVOSDEV01_R058.rec:   63.64( 63.64)  [H=   7, D=  0, S=  4, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R058.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R058.rec
+ LAB: giasm ddoosc sowr  giaso dujc ddafo tajo ninh thuaajn cho bieest 
+ REC: giarm ddoojc xoori giori dujc ddafo tajo ninh thuaajn cho bieest 
+VIVOSDEV01_R069.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R069.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R069.rec
+ LAB: ddefn bij huw roofi ba   
+ REC: ddefn bij huw gof   bowf 
+VIVOSDEV01_R071.rec:   23.08( 23.08)  [H=   3, D=  0, S= 10, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R071.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R071.rec
+ LAB: truwowrng coong an xax  chajy sang can   ngawn  cuxng bij tuyeesn ddasnh tieesp 
+ REC: truwowrng coong an sowj chowi safn cafng nhawsn cufng vif tuyeefn beejnh ti     
+VIVOSDEV01_R078.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R078.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R078.rec
+ LAB: nghe  chusng tooi hori ddieefu nafy chij ngast raan  raasn    nuwowsc mawst 
+ REC: ngafy chusng tooi hori ddija   nafy chir nhajc gaafn dduwowjc nuwowsc mawst 
+VIVOSDEV01_R086.rec:   72.73( 72.73)  [H=   8, D=  0, S=  3, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R086.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R086.rec
+ LAB: coong  vawn ddeef  nghij tirnh con tum xaay duwjng cuwra khaaru 
+ REC: voofng vaan ddowfi nghij tirnh con tum xaay duwjng cuwra khaaru 
+VIVOSDEV01_R089.rec:   84.62( 84.62)  [H=  11, D=  0, S=  2, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R089.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R089.rec
+ LAB: nhuwng tifnh yeeu vaaxn noofng nafn vaf  say ddawsm nhuw buoori ban ddaafu 
+ REC: nhuwng tifnh yeeu vaaxn noofng nefo vafo say ddawsm nhuw buoori ban ddaafu 
+VIVOSDEV01_R092.rec:  100.00(100.00)  [H=   9, D=  0, S=  0, I=  0, N=  9]
+VIVOSDEV01_R098.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R098.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R098.rec
+ LAB: tirnh quarng trij ddax phee  duyeejt 
+ REC: tixnh quang  kyf  vafo vowfi dieejp  
+VIVOSDEV01_R099.rec:   69.23( 69.23)  [H=   9, D=  0, S=  4, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R099.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R099.rec
+ LAB: nhuwng tooi thisch xem booj phim truyeejn phast   ngay sau  chuwowng trifnh nafy 
+ REC: nhuwng tooi thisch xem booj phim chuyeefn pheesch ker  sowj chuwowng trifnh nafy 
+VIVOSDEV01_R108.rec:   75.00( 62.50)  [H=   6, D=  0, S=  2, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R108.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R108.rec
+ LAB:   khi traaxm khori beejnh thif sex chesm ddaafu 
+ REC: c khi chaajm khos  beejnh thif sex chesm ddaafu 
+VIVOSDEV01_R117.rec:   85.71( 85.71)  [H=   6, D=  0, S=  1, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R117.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R117.rec
+ LAB: vieejc moojt quyeern tieeru thuyeest nhuw thees 
+ REC: vieejc moojt quyeern tieeru thuyeest nhuw howji 
+VIVOSDEV01_R130.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R130.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R130.rec
+ LAB: naxo booj  chusng ta   phast trieern nhuwxng rung ddoojng yeeu   thuwowng 
+ REC: vafo booji trung  vafo phast trieern nhuwxng rung ddoojng bieeru huwowng  
+VIVOSDEV01_R139.rec:   55.56( 55.56)  [H=   5, D=  0, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R139.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R139.rec
+ LAB: truwf     khi    bajn bieest toon trojng barn thaan mifnh 
+ REC: truwowfng kieejm vafo vieejc toon trojng barn thaan mifnh 
+VIVOSDEV01_R141.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R141.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R141.rec
+ LAB: nhuwxng con dduwowfng ngawsn ngurn nhuw    nhuwxng nhast cawst 
+ REC: nhuwxng con dduwowfng laafn  vufng duwowsi duwjng  nhajc cawst 
+VIVOSDEV01_R146.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R146.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R146.rec
+ LAB: hieejn ra    taajn  phisa xa  
+ REC: hieejn giowf tuaafn phim  sao 
+VIVOSDEV01_R150.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV01_R151.rec:   41.67( 33.33)  [H=   5, D=  1, S=  6, I=  1, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R151.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R151.rec
+ LAB: nhuwng khi tieesn gaafn vafo       vijnh  thif  mawjt   bieern bij rajn   vowx 
+ REC: nhuwng khi tieefn gaafn vafo bifnh hieefn vaajt quyeefn bieern     nhaajn vowj 
+VIVOSDEV01_R164.rec:   33.33( 16.67)  [H=   2, D=  0, S=  4, I=  1, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R164.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R164.rec
+ LAB:   moojt baf  ngoaji giawjt ddoof thuee 
+ REC: c moojt vafo ngoafi giaajt ddoof hoofi 
+VIVOSDEV01_R170.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R170.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R170.rec
+ LAB: ddooi bafn tay em khoong dduwowjc meefm maji  vaf  noxn naf  
+ REC: ddooi bafn tay em khoong dduwowjc vieem mowsi vowx noon mafn 
+VIVOSDEV01_R172.rec:   25.00( 25.00)  [H=   3, D=  1, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R172.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R172.rec
+ LAB: taay giang vaaxn cofn khawsc khoari khoong theer vafo xax a   noong 
+ REC: tufy dero  vaan  cofn caajp  khori  khoong howi  vafo     xoa nosng 
+VIVOSDEV01_R174.rec:  100.00(100.00)  [H=  10, D=  0, S=  0, I=  0, N= 10]
+VIVOSDEV01_R176.rec:   42.86( 42.86)  [H=   3, D=  0, S=  4, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R176.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R176.rec
+ LAB: ddeer tafu khoong phari cuwowxi caafu tafu 
+ REC: dduwa vafo khoong khori cuwowfi caafu tafu 
+VIVOSDEV01_R180.rec:   88.89( 88.89)  [H=   8, D=  0, S=  1, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R180.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R180.rec
+ LAB: bafn choori sown bawfng boong meefm raast phoor bieesn 
+ REC: bafn choori sown bawfng boong meefm raast phoor bieern 
+VIVOSDEV01_R187.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R187.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R187.rec
+ LAB: thaajt suwj maf  laf  bowri lofng haajn thuf 
+ REC: thuwjc suwj mowf vafo bowri lofng hufng hoof 
+VIVOSDEV01_R188.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R188.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_R188.rec
+ LAB: vieejc quy  tooji ddeer  bufng noor loaji sasch nafy laf   do  
+ REC: vieejc quee tooi  ddowji bufng noor loaji sasch nafy lowji dof 
+VIVOSDEV01_T002.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T002.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T002.rec
+ LAB: cuxng chuwa     bieest nuwxa 
+ REC: cufng truwowfng vieejt nuwra 
+VIVOSDEV01_T030.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T030.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T030.rec
+ LAB: xuaan nafy em khoong veef  
+ REC: xuaan nafy em khoong vowfi 
+VIVOSDEV01_T038.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T038.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T038.rec
+ LAB: chawsc sawsp  towsi thu   xeesp ddi du lijch thooi 
+ REC: chawsc xuaast tooi  hoofi suwsc ddi du lijch hooji 
+VIVOSDEV01_T043.rec:   85.71( 85.71)  [H=   6, D=  0, S=  1, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T043.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T043.rec
+ LAB: nos   troosn maast tieeu roofi cofn ddaau 
+ REC: nooji troosn maast tieeu roofi cofn ddaau 
+VIVOSDEV01_T048.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T048.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV01_T048.rec
+ LAB: thawfng ddos cos casi mieejng nhuw ddafn baf  
+ REC: thawfng ddos cos casi mieejng duwa gaafn bowf 
+VIVOSDEV02_R005.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R005.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R005.rec
+ LAB: neesu tuwowrng tuwowjng bary tasm nawm nuwxa 
+ REC: neen  cuwowfng tuwowjng bary tasm nawm nuwra 
+VIVOSDEV02_R009.rec:   16.67(-16.67)  [H=   1, D=  2, S=  3, I=  2, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R009.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R009.rec
+ LAB:             baf   quarng vaaxn ddang baajn roojn  
+ REC: vafo quafng vowsi vafn   vaaxn             ruoojt 
+VIVOSDEV02_R015.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R015.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R015.rec
+ LAB: taast  car  moji thuws    ddeefu kyf laj moojt casch phi thuwowfng 
+ REC: ddisch carm voo  phuwowsc veef   kyf ra  moojt casch phi thuwowfng 
+VIVOSDEV02_R027.rec:   40.00( 40.00)  [H=   4, D=  0, S=  6, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R027.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R027.rec
+ LAB: cos theer lafnh lawjn maf  khoong ddeer laji veest sejo 
+ REC: hoj khafn gofn  vojng hofa khoong ddeer laji veest sefo 
+VIVOSDEV02_R031.rec:   28.57( 28.57)  [H=   4, D=  0, S= 10, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R031.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R031.rec
+ LAB: muoosn ddejp phari ghef lafm sao    cho    casc  bos  cow     chaan noori  baajt leen  
+ REC: buoofn ddejp phari chee lafm trowfi trowfi trafo bojt cuwowfi treen ngoofi baajt meefm 
+VIVOSDEV02_R032.rec:   50.00( 50.00)  [H=   4, D=  0, S=  4, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R032.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R032.rec
+ LAB: y   tees bifnh huwng hofa bij huw   horng 
+ REC: kyf veef bifnh huwng hofa bij thufy hojng 
+VIVOSDEV02_R045.rec:    0.00(  0.00)  [H=   0, D=  1, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R045.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R045.rec
+ LAB: coo cuws  nhef    ngay casi  nojng cas   tree 
+ REC:     cuwra cuwowsi dejp treen mafu  chajy chee 
+VIVOSDEV02_R067.rec:    0.00(  0.00)  [H=   0, D=  0, S=  8, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R067.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R067.rec
+ LAB: oong  chur  tijch  tuyeen  boos  nhuw  thees   nafo 
+ REC: vojng chufa chuwjc ddieefm vooji nhijp thieejp vafo 
+VIVOSDEV02_R068.rec:    0.00(  0.00)  [H=   0, D=  0, S=  5, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R068.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R068.rec
+ LAB: khieesn  hai  cha  con    caaju 
+ REC: chuyeejn haji chef chafng caafu 
+VIVOSDEV02_R069.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R069.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R069.rec
+ LAB: lafm ddejp khoong ddusng casch   
+ REC: lafm vex   khoon  tusng  treesch 
+VIVOSDEV02_R071.rec:   15.38( 15.38)  [H=   2, D=  0, S= 11, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R071.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R071.rec
+ LAB: mooxi khi xe   rasc  ddi    ngang qua  ddasnh kerng    mowsi ddem  ra   ddoor 
+ REC: moojt khi xees lowjp tieefn neeu  vowj tifnh  chuyeejn mowsi meefm rowj ddoof 
+VIVOSDEV02_R076.rec:    0.00(  0.00)  [H=   0, D=  0, S=  7, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R076.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R076.rec
+ LAB: thay   vif    boosn  giowf  nhuw truwowsc ddaay  
+ REC: thaafy vieejc buoofn giowsi di   chuwa    ddaafy 
+VIVOSDEV02_R079.rec:   16.67( 16.67)  [H=   2, D=  0, S= 10, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R079.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R079.rec
+ LAB: haafu heest nang  nafy  cos nguoofn goosc tuwf gaan   cow   chaan  ngooxng 
+ REC: haafu heest treen baafy con voosn   gojt  trif ruwfng rowfi trifnh giafu   
+VIVOSDEV02_R087.rec:    0.00(  0.00)  [H=   0, D=  0, S= 12, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R087.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R087.rec
+ LAB: tieesng max  taasu sawsc lajnh chajm nhau  vaf  car  tieesng reen  rir 
+ REC: tuyeefn vafo tooji sowsm lafm  chafm giafu vowj trof tieefn  treen gif 
+VIVOSDEV02_R089.rec:   38.46( 38.46)  [H=   5, D=  0, S=  8, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R089.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R089.rec
+ LAB: cos  hawrn  moojt  loajt bafi  vieest chuyeen  ddeef veef quarn trij thuwowng hieeju 
+ REC: cofn hawfng quoosc lojt  bowri vieejc chuyeejn veef  veef quarn trij thuwowng hieeju 
+VIVOSDEV02_R091.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R091.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R091.rec
+ LAB: howjp vowsi huwowng vij      ddaafu xuaan 
+ REC: howjp vooi  huwowsc nguyeejt ddaafu sowsm 
+VIVOSDEV02_R099.rec:   28.57( 28.57)  [H=   4, D=  0, S= 10, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R099.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R099.rec
+ LAB: oorng nosi owr safi  gofn oorng ddax  lafm oong  hooji ddoofng nhuw  thees nafo 
+ REC: cofm  goji lof sowji gofn lofm  vafng lafm vojng hooji ddoofng nhijp theem vafo 
+VIVOSDEV02_R106.rec:   25.00( 25.00)  [H=   1, D=  0, S=  3, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R106.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R106.rec
+ LAB: trowr  neen thuj ddoojng 
+ REC: trowfi neen thua vojng   
+VIVOSDEV02_R122.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R122.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R122.rec
+ LAB: cuxng khieesn  cho hoj  def dawjt 
+ REC: cufng chuyeejn cho hori gif gajch 
+VIVOSDEV02_R130.rec:    9.09(  9.09)  [H=   1, D=  0, S= 10, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R130.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R130.rec
+ LAB: chij     gawjn hori anh  theef soosng theef cheest laf  khoong cos 
+ REC: chuyeejn gian  hori lafm thuee sofng  haji  treen  vafo khurng cof 
+VIVOSDEV02_R132.rec:    0.00(  0.00)  [H=   0, D=  0, S= 11, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R132.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R132.rec
+ LAB: ddieejn thoaji reng nhuwng ta   cuxng phari  nhaasc masy   ddusng khoong 
+ REC: tieefn  teej   leef nhaan  bowj cufng khowri giaasc ngoaji trusng khaaru 
+VIVOSDEV02_R135.rec:   10.00( 10.00)  [H=   1, D=  0, S=  9, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R135.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R135.rec
+ LAB: cuxng thuoojc loaji dafy ddawjc nhaast  trong  heej  mawjt trowfi 
+ REC: cufng khoor   loaji daay ddajt  duyeejt choost meefm majch chef   
+VIVOSDEV02_R137.rec:   33.33( 33.33)  [H=   3, D=  0, S=  6, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R137.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R137.rec
+ LAB: casc  vuj    tham nhuxng vaf  bee  boosi kinh tees 
+ REC: gaajp cuoojc vofm dujng  vowj veef boosi kinh tees 
+VIVOSDEV02_R149.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R149.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R149.rec
+ LAB: chusng cuws    coos lufi laji mawjc duf vuwowsng visu  goong   xieefng 
+ REC: chusng cuwowsc coo  lufi laji mawjc duf phuwowng tieeu choofng phieefn 
+VIVOSDEV02_R154.rec:    0.00(  0.00)  [H=   0, D=  0, S= 14, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R154.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R154.rec
+ LAB: bojn buoon  duwj  asn  chajy chojt bafy  ra     casc  duwj asn   ddeer kieesm chasc 
+ REC: bojt buoori truwf leej trij  cho   baafy trowfi trari chir cafng veef  kieerm chee  
+VIVOSDEV02_R164.rec:   27.27( 27.27)  [H=   3, D=  0, S=  8, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R164.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R164.rec
+ LAB: casc  chuwowng trifnh ca    nhajc phaafn lowsn ddeefu khoong ddoojt phas  
+ REC: keest kieesm   treen  treen dajc  phaafn lowjn ddeefu khoong boosc  phefn 
+VIVOSDEV02_R170.rec:   36.36( 36.36)  [H=   4, D=  0, S=  7, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R170.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R170.rec
+ LAB: roofi chajy sang  gox cuwra phofng ba   le    hai  daasm dusi 
+ REC: goosi chajy trafn gox cuwra phofng vofm meefm haji daajm dufi 
+VIVOSDEV02_R173.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R173.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R173.rec
+ LAB: ddeer trar   trowr  laji  ddaji duwowng 
+ REC: veef  trowfi trowfi loafi phari duwa    
+VIVOSDEV02_R181.rec:    0.00(  0.00)  [H=   0, D=  0, S= 12, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R181.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R181.rec
+ LAB: nafng cos ddooi mawst to   saau vaf  vaafng trasn  roojng  meenh moong 
+ REC: nam   coi bowsi mosc  bowf sau  vowj trifnh chafng ddoojng bifnh mafu  
+VIVOSDEV02_R192.rec:   33.33( 25.00)  [H=   4, D=  0, S=  8, I=  1, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R192.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R192.rec
+ LAB: tooi tuwj hori phari       chawng ddos  laf    do       dan  cofn  quas   trer     
+ REC: tooi tuwj hori phari treen ddofi  lowfi choofi chuyeejn nguj trofn quasch chuyeern 
+VIVOSDEV02_R195.rec:   15.38( 15.38)  [H=   2, D=  0, S= 11, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R195.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R195.rec
+ LAB: ury  ban  chaau aau  keeu  goji  nhuwxng quoosc gia   phast  trieern  cofn laji 
+ REC: tufy vafi choox hojp treen roofi duwjng  dijch  giowf phasch chuyeejn cofn laji 
+VIVOSDEV02_R200.rec:   20.00( 20.00)  [H=   2, D=  0, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R200.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_R200.rec
+ LAB: vaf  khi   chusng  ta  sao   nhaxng coong vieejc cura  mifnh  
+ REC: vafo phisa chuaarn vai treen gian   coong vieejc cufng quaafn 
+VIVOSDEV02_T004.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T004.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T004.rec
+ LAB: hoom nay   em   cos  towsi nawm    khasch 
+ REC: hoom vaajy kefm tojp vowj  ddoofng carm   
+VIVOSDEV02_T012.rec:   33.33( 33.33)  [H=   3, D=  0, S=  6, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T012.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T012.rec
+ LAB: mafy dasm   chowi vowj tao  tao  phari gieest mafy  
+ REC: mafy giafnh chowi vowj vafo bajc trij  dieejp vaafy 
+VIVOSDEV02_T013.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T013.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T013.rec
+ LAB: toosng coor hawsn ddi khoong dduwowjc ddeer hawsn vafo ddaay  nuwxa 
+ REC: bojn   coor hafnh bij khoong cuwra    ddeer hawsn vafo ddaafy nuwra 
+VIVOSDEV02_T015.rec:   36.36( 36.36)  [H=   4, D=  1, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T015.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T015.rec
+ LAB: hawsn  chowi vowj  anh  thif   sao   anh   khoong chowi vowj hawsn 
+ REC: thafnh chowi vuwfa tajm vieejc sowsm hafng khoong chowi vowj       
+VIVOSDEV02_T022.rec:    7.69(  7.69)  [H=   1, D=  0, S= 12, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T022.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T022.rec
+ LAB: thasng truwowsc choofng veef maasy ngafy  mifnh nawfm   ngur thaasy aasm kinh   khurng 
+ REC: tafi   chuwa    troojm  veef vowsi ddaafy meefm ddoofng vuj  phari  lafm vieejc cufng  
+VIVOSDEV02_T031.rec:   83.33( 83.33)  [H=   5, D=  0, S=  1, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T031.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T031.rec
+ LAB: cho em gosp  moojt vieen gajch 
+ REC: cho em goojp moojt vieen gajch 
+VIVOSDEV02_T043.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T043.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T043.rec
+ LAB: ddi    kieerm tra laji basc   six khuyeen neen  moor nooji  soi   
+ REC: vieejc kieerm tra laji khoasc six khuyeen meefm booj ddooji suwra 
+VIVOSDEV02_T050.rec:   22.22( 22.22)  [H=   2, D=  0, S=  7, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T050.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV02_T050.rec
+ LAB: anh    bij    ddaary tuwf haf   nooji  vafo   safi gofn 
+ REC: bawfng vieejc ddaafy tufy haxnh ddooji trowfi safi gofn 
+VIVOSDEV03_R007.rec:   60.00( 60.00)  [H=   6, D=  0, S=  4, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R007.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R007.rec
+ LAB: moojt chuyeesn du lijch dax   ngoaji taji  bof cajp vafng 
+ REC: moojt chuyeejn du lijch giowf ngoafi towsi bof cajp vafng 
+VIVOSDEV03_R010.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R010.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R010.rec
+ LAB: aam   thaafm chawst chiu    nuooi tooi khoon  lowsn 
+ REC: taafm haafm  chaast chieefu nuooi tooi khoosn lowjn 
+VIVOSDEV03_R020.rec:   33.33( 33.33)  [H=   5, D=  0, S= 10, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R020.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R020.rec
+ LAB: been trong trasi  var khi    boor ra sex rooxng chuws khoong ddawjc nhuw trasi sung  
+ REC: been trong trowfi vaf phieeu booj ra sex roofng chowi khoong ddajt  chir trar  susng 
+VIVOSDEV03_R029.rec:   42.86( 42.86)  [H=   6, D=  0, S=  8, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R029.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R029.rec
+ LAB: neen hai moos caafu bij sujp   ddaast khieesn loosi ddi     booj quas   nguy hieerm 
+ REC: neen hai moof caafu bij xuaast ddowjt kieejn  roofi ddieerm vuj  quaajn nguy hieerm 
+VIVOSDEV03_R041.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R041.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R041.rec
+ LAB: luoon oorn  ddijnh vaf  casc xe traasu khas nawjng 
+ REC: luoon moojt bifnh  vowj casc xe taasu  khas mawjn  
+VIVOSDEV03_R044.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R044.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R044.rec
+ LAB: vaf  khi     hoj  vajch tosc ra   
+ REC: vafo phieefn hofn taajp tujc rajn 
+VIVOSDEV03_R046.rec:   80.00( 80.00)  [H=   8, D=  0, S=  2, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R046.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R046.rec
+ LAB: cura chisnh sasch ddoosi vowsi quy     moo  cura thij truwowfng 
+ REC: cura chisnh sasch ddoosi vowsi khuyeen hooj cura thij truwowfng 
+VIVOSDEV03_R056.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R056.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R056.rec
+ LAB: suwowng muf  ddax ddojng  thafnh nhuwxng hajt gias bawng  
+ REC: suwu    mooj ddax ddoofng thafnh nhuwxng hajt vox  hoafng 
+VIVOSDEV03_R057.rec:   50.00( 50.00)  [H=   4, D=  0, S=  4, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R057.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R057.rec
+ LAB: chuws    khoong phari tafi nawng thieen baarm  nafo 
+ REC: chuyeejn khoong phari tafi bafn  phism  booxng nafo 
+VIVOSDEV03_R061.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R061.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R061.rec
+ LAB: laf  tieesng troosng laan  tufng xefng vui    tai  
+ REC: vafi tieesng trojng  laaxn tung  sarn  buoori tafi 
+VIVOSDEV03_R082.rec:   33.33( 33.33)  [H=   4, D=  0, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R082.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R082.rec
+ LAB: ghesp cafnh mai giaro vafo thaan  coor thuj  cho  hoa  casnh lowsn 
+ REC: che   caafm mai traro vafo phaafn coor thura chof hori casnh lowjn 
+VIVOSDEV03_R092.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R092.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R092.rec
+ LAB: ddeer chojn masy   in    cho   phuf howjp 
+ REC: ddeer chojn ngoafi eefnh choox phuf howjp 
+VIVOSDEV03_R109.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R109.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R109.rec
+ LAB: phuf howjp cho   moji   caan  nawjng 
+ REC: phuf howjp choox ngoofi treen majng  
+VIVOSDEV03_R113.rec:   22.22( 22.22)  [H=   2, D=  0, S=  7, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R113.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R113.rec
+ LAB: vif bajn  cos   theer lary  cof tuwfng phast moojt 
+ REC: vif vaajy vaaxn haxy  laasy cos tisnh  vaf   moojt 
+VIVOSDEV03_R117.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R117.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R117.rec
+ LAB: vai   trof  cura   chees ddooj dinh duwowxng 
+ REC: bowri roofi cuoosi chees ddooj dinh duwowxng 
+VIVOSDEV03_R119.rec:  100.00(100.00)  [H=   3, D=  0, S=  0, I=  0, N=  3]
+VIVOSDEV03_R120.rec:    0.00(  0.00)  [H=   0, D=  0, S=  5, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R120.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R120.rec
+ LAB: khieesn phuj  huynh  hieeru nhaafm 
+ REC: thieesu phujc quyfnh hieeju nhawfm 
+VIVOSDEV03_R125.rec:   40.00( 40.00)  [H=   2, D=  0, S=  3, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R125.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R125.rec
+ LAB: mooxi khi cown gios  ddeesn 
+ REC: mooxi khi tooi dooji ddeem  
+VIVOSDEV03_R136.rec:   20.00( 20.00)  [H=   2, D=  0, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R136.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R136.rec
+ LAB: nafy bosn cho     con thuwowng  ddowx  yeesu  ddau   cofi cojc  
+ REC: mafy bojn truaajt con thuwowfng ddoori kieeru ddaafu cofi toojc 
+VIVOSDEV03_R142.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R142.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R142.rec
+ LAB: trong tuw  thees  phi  nguwja   choofm  leen  
+ REC: trong tooi thowfi phis nguwowfi choofng lowjn 
+VIVOSDEV03_R144.rec:   40.00( 40.00)  [H=   2, D=  0, S=  3, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R144.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R144.rec
+ LAB: maf  cuxng ddaafy thanh khieest 
+ REC: maji cuxng ddaafy thijt kieejt  
+VIVOSDEV03_R148.rec:   40.00( 40.00)  [H=   4, D=  0, S=  6, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R148.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R148.rec
+ LAB: moojt vuj   chaajp ddieejn ddax  khieesn  ngojn luwra bufng leen 
+ REC: moojt voosn chujp  ddieerm ddofi chuyeejn loox  luwra bufng leen 
+VIVOSDEV03_R149.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R149.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R149.rec
+ LAB: baf   con  chofm xosm  
+ REC: bowri cofn chujp sowsm 
+VIVOSDEV03_R156.rec:    8.33(  8.33)  [H=   1, D=  0, S= 11, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R156.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R156.rec
+ LAB: ddaay laf   muwsc laxi suaast thaasp nhaast qua  casc phieen  ddaasu thaafu 
+ REC: bajn  laafm vuwjc goji xuaast taajp  cheest cura casc trieern ddooj  hooj   
+VIVOSDEV03_R160.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R160.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R160.rec
+ LAB: dojc hai  been soong ngafn saau   
+ REC: dojc theo bowm xong  dajng khaasu 
+VIVOSDEV03_R163.rec:   25.00( 25.00)  [H=   1, D=  0, S=  3, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R163.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R163.rec
+ LAB: nhuwng oasi   awm   thay  
+ REC: nhuwng ngoafi nhosm hafng 
+VIVOSDEV03_R180.rec:  100.00(100.00)  [H=   3, D=  0, S=  0, I=  0, N=  3]
+VIVOSDEV03_R182.rec:   40.00( 40.00)  [H=   4, D=  1, S=  5, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R182.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R182.rec
+ LAB: moojt kees hoajch tuwowng tuwj dduwowjc asp dujng owr   anh   
+ REC: moojt kees hoajch tuaafn  tooi dduwowjc     taajp dufng lowjn 
+VIVOSDEV03_R191.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R191.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R191.rec
+ LAB: cowxi nguwja ddi    thi 
+ REC: coi   goosi  vieejc tri 
+VIVOSDEV03_R193.rec:    0.00(  0.00)  [H=   0, D=  0, S=  2, I=  0, N=  2]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R193.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R193.rec
+ LAB: ooi   dafo  
+ REC: hoofi giafu 
+VIVOSDEV03_R195.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R195.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R195.rec
+ LAB: khoong moojt chieesc xe laj  nafo   cos   theer mon  men  vafo dduwowjc 
+ REC: khoong moojt chieesc xe laji ddaafu vaajt meefm moof maxn vafo dduwowjc 
+VIVOSDEV03_R198.rec:   30.00( 30.00)  [H=   3, D=  1, S=  6, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R198.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_R198.rec
+ LAB: roofi ddi    khawsp nowi  tifm   thaafy chuwxa beejnh cho anh   
+ REC: roofi vieejc taajp  lowfi kieerm majy   chuwxa beejnh     chafm 
+VIVOSDEV03_T009.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T009.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T009.rec
+ LAB: basc ddang suy nghix gif    thees 
+ REC: vaf  ddaay xin nghix dieejp hafng 
+VIVOSDEV03_T017.rec:   44.44( 44.44)  [H=   4, D=  1, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T017.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T017.rec
+ LAB: basc  vaaxn chuwa trar  tieefn  cho   tooi ddaay nhes 
+ REC: vaaxn vaaxn chuwa raast tuyeern chuwx tooi       nhes 
+VIVOSDEV03_T018.rec:   25.00( 25.00)  [H=   1, D=  0, S=  3, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T018.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T018.rec
+ LAB: tooi ddang  baajn hojp  
+ REC: tooi ddeefu vaaxn howjp 
+VIVOSDEV03_T023.rec:   77.78( 77.78)  [H=   7, D=  0, S=  2, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T023.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T023.rec
+ LAB: cuwowsp ddaafy dduwowfng coong an chir lo hajch sasch 
+ REC: cos     ver    dduwowfng coong an chir lo hajch sasch 
+VIVOSDEV03_T035.rec:    0.00(  0.00)  [H=   0, D=  1, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T035.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T035.rec
+ LAB: mej owi cos   mua   ddoof cho    con     khoong 
+ REC:     vaf roofi cufng mufa  ddooji chuaarn khaasu 
+VIVOSDEV03_T041.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T041.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T041.rec
+ LAB: con  chos  luri thuri ddi   theo chur nos 
+ REC: cofn trofn ruri turi  ddija theo chur nos 
+VIVOSDEV03_T047.rec:   85.71( 85.71)  [H=   6, D=  0, S=  1, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T047.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T047.rec
+ LAB: trong phim cos nhieefu carnh chesm gieest 
+ REC: trong phim cos nhieefu carnh chesm dieejc 
+VIVOSDEV03_T048.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T048.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV03_T048.rec
+ LAB: dieexn  vieen  chisnh dduwsng nhuw khusc goox 
+ REC: chieefu vieejc trifnh dduwsng nhuw khusc goox 
+VIVOSDEV04_R002.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R002.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R002.rec
+ LAB: ddos  cuxng laf ddoojng luwjc  thusc ddaary tooi  
+ REC: ddooj cufng lof ddusng  luaajt tujc  ddaary tooji 
+VIVOSDEV04_R004.rec:   30.00( 30.00)  [H=   3, D=  0, S=  7, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R004.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R004.rec
+ LAB: ddooi    khi bajn  cuxng cos  theer lafm   nhuwxng ddieefu ddos  
+ REC: dduwowjc ghi baajn cuxng cujc hef   ngoofm nhuwxng ddieefu ddooj 
+VIVOSDEV04_R008.rec:   75.00( 58.33)  [H=   9, D=  0, S=  3, I=  2, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R008.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R008.rec
+ LAB: nhuwxng ngafy ddaafu vawsng bosng ba vieejt      cuws thuwf     nguwowfi      nghix ngowji 
+ REC: nhuwxng ngafy ddaafu vawsng bosng ba vieejt cuws cuws thuwowfng nguwowfi nhif doofi c      
+VIVOSDEV04_R010.rec:    0.00(  0.00)  [H=   0, D=  0, S=  9, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R010.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R010.rec
+ LAB: con  nhor  mowr  casi tusi gust ddeo    treen   coor   
+ REC: cofn ddooj moojt caay tui  nust ddieeju tuyeern cuoojc 
+VIVOSDEV04_R013.rec:    0.00(  0.00)  [H=   0, D=  0, S=  8, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R013.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R013.rec
+ LAB: nghixa  laf   kesm cori nam  tisnh  hay    sao     
+ REC: nhuwxng lowfi kim  cofn noom trifnh thaasy xuoofng 
+VIVOSDEV04_R023.rec:   75.00( 75.00)  [H=  12, D=  0, S=  4, I=  0, N= 16]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R023.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R023.rec
+ LAB: chisnh baf  cuxng laf nguwowfi nung naasu nieefm ddam    mee dieexn xuaast cura coo    con gasi 
+ REC: chisnh bowf cuxng laf nguwowfi nung naasu nieefm ddoofng vif dieexn xuaast cura cuoojc con gasi 
+VIVOSDEV04_R047.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R047.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R047.rec
+ LAB: nhosm  sinh  vieen taji truwowfng cufng hojp mawjt awn teest chung  
+ REC: nhawsm suwng vieem taji truwowfng cufng hojp mawjt awn thijt chusng 
+VIVOSDEV04_R049.rec:    0.00(  0.00)  [H=   0, D=  0, S=  3, I=  0, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R049.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R049.rec
+ LAB: vif    toosi ddos  
+ REC: vieejc tooji ddoof 
+VIVOSDEV04_R051.rec:    0.00(  0.00)  [H=   0, D=  0, S=  3, I=  0, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R051.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R051.rec
+ LAB: rajch bafu  mowsp   
+ REC: gawjp baafu buwowsc 
+VIVOSDEV04_R056.rec:    0.00(  0.00)  [H=   0, D=  0, S=  5, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R056.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R056.rec
+ LAB: gis     hofn than     vafo rowm    
+ REC: ddieesu oor  thuoofng vuj  ruwowju 
+VIVOSDEV04_R063.rec:   28.57( 28.57)  [H=   2, D=  0, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R063.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R063.rec
+ LAB: chasu soost  neen  rejo    rojc suoost ddeem 
+ REC: trong suoost nafng thieeju gosc suoost ddeem 
+VIVOSDEV04_R081.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R081.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R081.rec
+ LAB: vaf  tooi thaasy hoa  vajn  thoj  vafng uwowm  
+ REC: vafo tooi thaasy vofm vaaxn khoor vaaxn uwowsc 
+VIVOSDEV04_R086.rec:    0.00(-20.00)  [H=   0, D=  0, S= 10, I=  2, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R086.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R086.rec
+ LAB:               tay  kia    xasch moojt tay   giosng mang   chieesc vijm lowsn 
+ REC: xisch tuyeest chia xuaast mujc  caafy dufng bawfng chuwsc phim    been t     
+VIVOSDEV04_R089.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R089.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R089.rec
+ LAB: ngur treen   neejm  khoong phuf howjp 
+ REC: cura tuyeern nieejm khoong khu  vuwjc 
+VIVOSDEV04_R092.rec:   75.00( 75.00)  [H=   6, D=  0, S=  2, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R092.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R092.rec
+ LAB: bij    casc coo gasi bao vaay raso rieest 
+ REC: vieejc cosc coo gasi bao vaay raso rieest 
+VIVOSDEV04_R095.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R095.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R095.rec
+ LAB: trow troji giuwxa ddoofng casi  nhifn khawsc khoari 
+ REC: cho  toafi nhuwja ddoofng caajy nhijn hoawjc khori  
+VIVOSDEV04_R097.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R097.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R097.rec
+ LAB: ngoafi vieejc phast hieejn  ker  thuf    
+ REC: quay   dieejp phur  khieesn casc thuoojc 
+VIVOSDEV04_R100.rec:   50.00( 50.00)  [H=   1, D=  0, S=  1, I=  0, N=  2]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R100.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R100.rec
+ LAB: baf nosi  
+ REC: baf nooji 
+VIVOSDEV04_R114.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R114.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R114.rec
+ LAB: cuxng chawrng cofn xusng xisnh  quaafn aso   mowsi 
+ REC: cuxng treen   cofn susng trifnh cura   maaxu mooi  
+VIVOSDEV04_R118.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R118.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R118.rec
+ LAB: trer em   ddaau  cos  chuwowsng ngaji vaajt 
+ REC: k    kefm ddaafu cura chusng    vowsi vaajt 
+VIVOSDEV04_R126.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R126.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R126.rec
+ LAB: tooi khoong nowx  lafm  coo  bes  thaast vojng  
+ REC: tuwf khoong nooxi lofng cura bafi taajp  phofng 
+VIVOSDEV04_R127.rec:   44.44( 44.44)  [H=   4, D=  1, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R127.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R127.rec
+ LAB: raast nhieefu guwri gawsm   vaf  kyf vojng vafo oong 
+ REC: raast nhieefu huy   gioosng hojp kyf vojng      con  
+VIVOSDEV04_R129.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R129.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R129.rec
+ LAB: ddang   tharo luaajn veef   ddeef xuaast 
+ REC: ddoofng thur  luaajn vieejc gif   xuaast 
+VIVOSDEV04_R132.rec:   36.36( 27.27)  [H=   4, D=  0, S=  7, I=  1, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R132.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R132.rec
+ LAB:     chur     tijch nuwowsc ddax ddeesn  kieerm tra    tieesn ddooj thi coong 
+ REC: car truwowsc dijch nuwowsc ddax ddieejn kim    chowjt chisnh ddufa thi coong 
+VIVOSDEV04_R149.rec:   10.00( 10.00)  [H=   1, D=  1, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R149.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R149.rec
+ LAB: moojt coo gasi   vasy ngawsn cuxn  cowxn chajy leen  hori 
+ REC: moojt     cuoosn gaay vowsi  ngang cufng cown  chary hown 
+VIVOSDEV04_R152.rec:   58.33( 58.33)  [H=   7, D=  0, S=  5, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R152.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R152.rec
+ LAB: sex khoong khieesn bajn  troong gaafy nhuw nhuwxng trang phujc moojt mafu  
+ REC: sex khoong khieesn baajn trung  laafy nhuw nhuwxng trong phujc moojt maaxu 
+VIVOSDEV04_R162.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R162.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R162.rec
+ LAB: coo    chir    mowsi vafo luwowsi nhawjt bosng hai laafn 
+ REC: cuoosi chieesm mowsi vafo luwowsi nhaajt bosng hay laajp 
+VIVOSDEV04_R182.rec:    0.00(  0.00)  [H=   0, D=  0, S= 10, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R182.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R182.rec
+ LAB: hoawjc chir bieeru hieejn bawfng casc  roosi loajn  co   bosp  
+ REC: khasch kijp vieen  hieeju bajn   cawst rus   luaajn coor vaajt 
+VIVOSDEV04_R186.rec:   50.00( 50.00)  [H=   3, D=  1, S=  2, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R186.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R186.rec
+ LAB: nhawfm tajo ra suwj haasp  daaxn 
+ REC: nhawfm tajo    suwj thaajt daan  
+VIVOSDEV04_R187.rec:   20.00( 20.00)  [H=   2, D=  0, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R187.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R187.rec
+ LAB: thuws aam  thanh khoong chir    carm  nhaajn bawfng thisnh giasc  
+ REC: thif  laam thaan khoong chieesc caafm nhaajn befn   trifnh chaast 
+VIVOSDEV04_R189.rec:   15.38(  0.00)  [H=   2, D=  2, S=  9, I=  2, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R189.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_R189.rec
+ LAB: tuwf nooxi coo ddown   cura             moojt coo  bes  bij    cha     mej   bor   queen   
+ REC: tuwf           nuwowsc cura luwng cuxng mujc  cura bajn bieejt choosng meefm boojt quyeest 
+VIVOSDEV04_T002.rec:   37.50( 25.00)  [H=   3, D=  0, S=  5, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T002.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T002.rec
+ LAB:   cos trar   tieefn cho   boos khoong thif baro 
+ REC: k cos chuwjc tieefn chujp vuj  khoong kys  vafo 
+VIVOSDEV04_T003.rec:   77.78( 77.78)  [H=   7, D=  0, S=  2, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T003.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T003.rec
+ LAB: nhaajn dduwowjc tin nafy goji laji cho tooi   gaasp 
+ REC: nhaajn dduwowjc tin nafy goji laji cho tuaafn gaajp 
+VIVOSDEV04_T009.rec:   50.00( 50.00)  [H=   4, D=  0, S=  4, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T009.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T009.rec
+ LAB: cho tooi nhawsn  ddaji tin    nafo   cuxng dduwowjc 
+ REC: cho tooi nhuwxng bafi  chisnh ddaaju cuxng dduwowjc 
+VIVOSDEV04_T015.rec:   11.11( 11.11)  [H=   1, D=  0, S=  8, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T015.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T015.rec
+ LAB: moojt laf gawjp laji  taast car   casc  em    phof  
+ REC: moojt lof gaajp veest tisch caajt caast chujp phoor 
+VIVOSDEV04_T018.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T018.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T018.rec
+ LAB: nhuwxng sai  laafm khi ddi    chojn   khasch sajn  
+ REC: nhuwxng suwj laafm khi dieejc choofng cos    sowsm 
+VIVOSDEV04_T029.rec:   20.00( 20.00)  [H=   2, D=  0, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T029.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T029.rec
+ LAB: anh  ddi     coong tasc caafn thow    tuaafn sau   mowsi veef   
+ REC: tanh ddieejp coong tasc caarn thuaajt tusc   sosng vuj   vieejc 
+VIVOSDEV04_T032.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T032.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T032.rec
+ LAB: cam   safnh loojt vor  cofn  chua 
+ REC: caafm saafn lujc  bojp cufng chua 
+VIVOSDEV04_T035.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T035.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T035.rec
+ LAB: anh khen em    ddejp   em  chee anh    giaf  
+ REC: anh khen kieem ddieejp tin chi  ddeesn giowf 
+VIVOSDEV04_T044.rec:   16.67( 16.67)  [H=   1, D=  1, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T044.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV04_T044.rec
+ LAB: ba   nafy  chir giori boosc phest   
+ REC: ddax vaajy chir       doojt pheesch 
+VIVOSDEV05_004.rec:   68.75( 68.75)  [H=  11, D=  1, S=  4, I=  0, N= 16]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_004.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_004.rec
+ LAB: haxy tuwowrng tuwowjng rawfng bajn laf laf  giasm ddoosc duwj asn trong moojt coong ty lowsn 
+ REC: haxy tuwowjng tuwowjng rawfng bajn     laji giarm ddoojc duwj asn trong moojt coong ty lowsn 
+VIVOSDEV05_030.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_030.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_030.rec
+ LAB: cura   nhuwxng thees luwjc hufng majnh 
+ REC: cuoosi nhuwxng theer luwjc cuxng majnh 
+VIVOSDEV05_037.rec:   50.00( 50.00)  [H=   2, D=  0, S=  2, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_037.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_037.rec
+ LAB: oong   nhawjt nos   leen 
+ REC: khoong nhawjt ddowx leen 
+VIVOSDEV05_043.rec:   66.67( 66.67)  [H=   6, D=  0, S=  3, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_043.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_043.rec
+ LAB: nguyeen thuws truwowrng mai    vawn  daau  ddax bij bawst 
+ REC: nguyeen thuws truwowrng ngoaji vaaxn daasu ddax bij bawst 
+VIVOSDEV05_055.rec:   30.77( 30.77)  [H=   4, D=  0, S=  9, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_055.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_055.rec
+ LAB: nhuwng  muwsc asn tuwr hifnh ddoosi vowsi casc bij caso laf   tuwowng xuwsng 
+ REC: nhuwxng buwsc asn tuwr hifnh ddooji vowfi casc ury trao loajt tuwf    sown   
+VIVOSDEV05_065.rec:   30.00( 30.00)  [H=   3, D=  0, S=  7, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_065.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_065.rec
+ LAB: nhuwxng nguwowfi soosng thif  tha thaarn trong  nhaf ngoafi ngox  
+ REC: nhuwxng nguwowfi sosng  thury pha thaajn trojng nhaf ngoaji ngojn 
+VIVOSDEV05_087.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_087.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_087.rec
+ LAB: car khoong gian nhuoosm mafu tro   beesp 
+ REC: car khoong gian doofn   mafu caafu bee   
+VIVOSDEV05_091.rec:    0.00(  0.00)  [H=   0, D=  0, S=  2, I=  0, N=  2]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_091.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_091.rec
+ LAB: trasn  gioo    
+ REC: trajng ruwowju 
+VIVOSDEV05_097.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_097.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_097.rec
+ LAB: thu     chajm ngox   raast hieefn 
+ REC: thuoojc trajm ngoofi raast hieejn 
+VIVOSDEV05_107.rec:   53.85( 53.85)  [H=   7, D=  0, S=  6, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_107.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_107.rec
+ LAB: troong moojt coo  nafng ddoor nguwowfi leen luwng anh  nguwowfi yeeu gaafy cofm     
+ REC: trong  moojt coor nafng ddur  nguwowfi leen luwng arnh nguwowfi yeeu gaay  tuwowjng 
+VIVOSDEV05_109.rec:  100.00(100.00)  [H=   8, D=  0, S=  0, I=  0, N=  8]
+VIVOSDEV05_115.rec:   88.89( 88.89)  [H=   8, D=  0, S=  1, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_115.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_115.rec
+ LAB: thowfi hajn suwr dujng vaf  loaji sarn phaarm boojt 
+ REC: thowfi hajn suwr dujng vafo loaji sarn phaarm boojt 
+VIVOSDEV05_119.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_119.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_119.rec
+ LAB: maf cofn bij nhuwxng booj mawjt lajnh te     kia     hoajnh hoje  
+ REC: maf cofn bij nhuwxng booj majch laxnh tieejc chieefu thafnh khore 
+VIVOSDEV05_120.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_120.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_120.rec
+ LAB: nhuwng mufi hooi vaaxn xoojc vafo taajn osc   
+ REC: nhaan  mufi hooi vaaxn xojc  vafo taajn ddojc 
+VIVOSDEV05_125.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV05_129.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_129.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_129.rec
+ LAB: thu     hust raast laf   nhieefu loafi chim 
+ REC: thuoojc hust raast vowsi nhieefu loaji chim 
+VIVOSDEV05_135.rec:  100.00(100.00)  [H=  12, D=  0, S=  0, I=  0, N= 12]
+VIVOSDEV05_136.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV05_143.rec:   27.27( 27.27)  [H=   3, D=  0, S=  8, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_143.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_143.rec
+ LAB: nhor  dduwa tay ra cafo heest  bufn  khoo treen coor  tows 
+ REC: giori dduwa tay ra caro hoajch bujng cura tirnh coojt cowf 
+VIVOSDEV05_150.rec:   42.86( 42.86)  [H=   3, D=  0, S=  4, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_150.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_150.rec
+ LAB: ngoofi choofm choofm    casch chir    maasy  mest  
+ REC: ngoofi choofm truwowrng casch trieern mieejn ddejp 
+VIVOSDEV05_155.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_155.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_155.rec
+ LAB: nuwra vofng trasi ddaast hown      bary nawm  
+ REC: nuwra vofng trasi ddaast thuwowfng baay nawfm 
+VIVOSDEV05_170.rec:   50.00( 50.00)  [H=   5, D=  0, S=  5, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_170.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_170.rec
+ LAB: chaajm nawsm bawst xu huwowsng phast trieern coong ngheej mowsi 
+ REC: trawm  nawm  bajch xu huwowsng phast trieern coong nieejm mowfi 
+VIVOSDEV05_185.rec:   57.14( 57.14)  [H=   4, D=  0, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_185.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_185.rec
+ LAB: maf muwowfng tuwowjng ra hifnh  bosng   mej   
+ REC: maf muwowfng tuwowjng ra leejnh ddoojng khore 
+VIVOSDEV05_189.rec:   57.14( 42.86)  [H=   4, D=  0, S=  3, I=  1, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_189.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_189.rec
+ LAB: mooxi nguwowfi moojt soos phaajn em     af    
+ REC: mooxi nguwowfi moojt sujt phaafn em vaf hafng 
+VIVOSDEV05_199.rec:   28.57( 28.57)  [H=   2, D=  0, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_199.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_199.rec
+ LAB: laafn luwxa maxi mowsi gawjp dduwowjc tuyeen  
+ REC: lafnh luwfa maji mowfi gawjp dduwowjc tuyeefn 
+VIVOSDEV05_200.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_200.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_200.rec
+ LAB: lafm dduwowfng daay ddeer noosi casc marnh ddowfi 
+ REC: lafm dduwowfng dajy ddeer nuooi casc majnh ddowfi 
+VIVOSDEV05_202.rec:   15.38( 15.38)  [H=   2, D=  0, S= 11, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_202.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_202.rec
+ LAB: chij hai  chur    quasn nghe bafn tasn  room    rar   cuxng ra  gosp chuyeejn 
+ REC: chij hari chuoojt quarn nhej bajn cafng ddoofng loajt cuxng rai gosc truyeefn 
+VIVOSDEV05_206.rec:   46.15( 46.15)  [H=   6, D=  0, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_206.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_206.rec
+ LAB: tuwsc khawsc aajp  veef keso moji nguwowfi thuws     trowr laji thowfi hoang sow  
+ REC: tuwsc khasch taajp veef keo  moji nguwowfi thuwowfng trowr laji vowsi  quan  sown 
+VIVOSDEV05_209.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_209.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_209.rec
+ LAB: teen goji taji ddija phuwowng laf  trawsc thoosi 
+ REC: teen goji taji ddija phuwowng lajp taajp  thoori 
+VIVOSDEV05_212.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_212.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_212.rec
+ LAB: boosn chieesc troosng ddaji phefng la   
+ REC: booj  chieesc trojng  ddaji sex    lajc 
+VIVOSDEV05_226.rec:   83.33( 83.33)  [H=   5, D=  0, S=  1, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_226.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_226.rec
+ LAB: moojt cus    ngoawjt khoong chisnh xasc 
+ REC: moojt cuoofn ngoawjt khoong chisnh xasc 
+VIVOSDEV05_231.rec:   66.67( 66.67)  [H=   8, D=  0, S=  4, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_231.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_231.rec
+ LAB: mowsi ddaay nhaast laf casc tieeru vuwowng  quoosc ar   raajp thoosng nhaast 
+ REC: mowsi ddaay nhaast laf casc tieeru buwowsng quaajt arnh laajp thoosng nhaast 
+VIVOSDEV05_238.rec:   80.00( 80.00)  [H=   8, D=  0, S=  2, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_238.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_238.rec
+ LAB: coojng ddoofng nguwowfi mee toasn hojc treen toafn thees giowsi 
+ REC: coojng ddoofng nguwowfi me  toafn hojc treen toafn thees giowsi 
+VIVOSDEV05_249.rec:   38.46( 38.46)  [H=   5, D=  0, S=  8, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_249.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_249.rec
+ LAB: tooi   nghix thur    tuwowsng sex khoong nes trasnh baast cuws    caau hori nafo 
+ REC: tuoori nghix thuoojc tuwowrng sex phofng mej carnh  baajt cuwowfi caau hori nafo 
+VIVOSDEV05_251.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_251.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_251.rec
+ LAB: bojn buoon laaju ma    tusy vaf  vux    khis   
+ REC: bojn buoon laaju majch tury vafo cuoojc tieefn 
+VIVOSDEV05_261.rec:   30.00( 30.00)  [H=   3, D=  0, S=  7, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_261.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_261.rec
+ LAB: laji  quay ra   taajp vieest baso roofi guwri   vu  vow  
+ REC: loaji quay rajp taajp vieejc baro roofi cuwowfi vuj vowj 
+VIVOSDEV05_263.rec:   28.57( 28.57)  [H=   4, D=  0, S= 10, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_263.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_263.rec
+ LAB: nghe tieesng xifnh xijch xa   xa  thif ddoasn trusng phosc laf hust haafm caafu 
+ REC: nejp tieejn  sinh  sasch sast xax thif bajn   cuxng  pha   vaf hust haafm caafu 
+VIVOSDEV05_270.rec:   75.00( 75.00)  [H=   3, D=  0, S=  1, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_270.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_270.rec
+ LAB: chuwa rujc rijch gif      
+ REC: chuwa rujc rijch chuyeern 
+VIVOSDEV05_286.rec:   30.00( 30.00)  [H=   3, D=  0, S=  7, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_286.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV05_286.rec
+ LAB: thees nhuwng khi gias phooi thesp   thees giowsi cao   daafn 
+ REC: thees nhuwng khi gia  phuri thieejp thif  sowji  chafo daan  
+VIVOSDEV05_295.rec:  100.00(100.00)  [H=   8, D=  0, S=  0, I=  0, N=  8]
+VIVOSDEV06_001.rec:    0.00(-14.29)  [H=   0, D=  0, S=  7, I=  1, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_001.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_001.rec
+ LAB:   ddown  giarn laf   tasn  gaaxu vowsi nhau  
+ REC: c beefnh giarm lowfi taajn ddur  boosi daafu 
+VIVOSDEV06_006.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_006.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_006.rec
+ LAB: maf   do    loosi soosng chui    nhuri cura   chusng 
+ REC: vowfi giofn loosi soosng chuoosi doofi cuoosi chung  
+VIVOSDEV06_016.rec:   28.57( 28.57)  [H=   2, D=  0, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_016.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_016.rec
+ LAB: raau ria   ddax  ba   ngafy khoong cajo 
+ REC: rooj ddija ddajo vafi ngafy khoong ddau 
+VIVOSDEV06_021.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV06_022.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_022.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_022.rec
+ LAB: lisnh cuwsu hora khos tieesp caajn  hieejn truwowfng 
+ REC: tifnh cuwsu hofa cos  ti     traajn hieejn truwowfng 
+VIVOSDEV06_034.rec:   50.00( 50.00)  [H=   7, D=  0, S=  7, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_034.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_034.rec
+ LAB: nhuwxng nguwowfi treen  ghe  cura coong an ddax  nhawsm thawrng vafo ghe  anh  chur    
+ REC: nhuwxng nguwowfi trifnh deex cura coong an ddaji nhawfm thawrng vafo ghes arnh chuoojt 
+VIVOSDEV06_037.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_037.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_037.rec
+ LAB: dduwfng buoofn vif tuwj giawfn vawjt mifnh  nuwxa 
+ REC: vinh    buoofn quy tooi gaafn  baajt muwfng lowsn 
+VIVOSDEV06_040.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_040.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_040.rec
+ LAB: vaf  hist  vafo muxi   lafm chaast nafy loaxng ra   
+ REC: bafo taajp vafo muoosi lafm chaast nafy lawjng nafn 
+VIVOSDEV06_042.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_042.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_042.rec
+ LAB: ddang haasp daaxn casc taajp ddoafn phaan phoosi dda   quoosc gia  
+ REC: bajn  taajp daaxn casc taajp ddoafn phaan phoosi ddajo luaajt gafn 
+VIVOSDEV06_054.rec:   50.00( 50.00)  [H=   5, D=  0, S=  5, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_054.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_054.rec
+ LAB: duf laf  ddaaju suwsc majnh hoawjc cari boong khurng long  
+ REC: duf lofa ddaasu suwsc majnh hoawjc cafi bosng khurng lofng 
+VIVOSDEV06_061.rec:   71.43( 71.43)  [H=  10, D=  0, S=  4, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_061.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_061.rec
+ LAB: vif nos khoong nhawsc ddeesn nhuwxng cuoojc taasn coong nhawsm vafo nguwowfi do    thasi 
+ REC: vif nos khoong nhaajp ddeesn nhuwxng cuoojc taasn coong nhawfm vafo nguwowfi giori thai  
+VIVOSDEV06_070.rec:   50.00( 50.00)  [H=   5, D=  0, S=  5, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_070.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_070.rec
+ LAB: roofi kheef khaf ddooi caau vojng coor vowsi  chaan   chuoojt 
+ REC: roofi trij  cafi ddooi caau vufng coor cuoosi chuwfng chuoojt 
+VIVOSDEV06_078.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_078.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_078.rec
+ LAB: owr lowsp naasu awn   gia   ddifnh 
+ REC: owr low   naasu quarn giowf neefn  
+VIVOSDEV06_079.rec:   81.82( 81.82)  [H=   9, D=  0, S=  2, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_079.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_079.rec
+ LAB: maf bajn cos theer tham kharo ddeer lafm ddejp gian beesp 
+ REC: maf bajn cos theer tham kharo ddeer lafm ddejp dajo bee   
+VIVOSDEV06_098.rec:    0.00(  0.00)  [H=   0, D=  0, S= 12, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_098.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_098.rec
+ LAB: casi   vij    chast chast vaf ddawsng ngawst cura   caf   phee  nguyeen  chaast 
+ REC: traafy vieejc tranh gia   baf ddawfng ngaajp cuoojc ddajp vowsi nguyeexn chowjt 
+VIVOSDEV06_103.rec:   71.43( 71.43)  [H=  10, D=  0, S=  4, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_103.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_103.rec
+ LAB: casc em nhor sex khoong cofn phari ddi treen nhuwxng chuyeesn ddof  nguy hieerm 
+ REC: casc em nhor sex khoong cofn phari ghi treen ddieerm chuyeejn ddooj nguy hieerm 
+VIVOSDEV06_108.rec:   22.22( 22.22)  [H=   2, D=  0, S=  7, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_108.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_108.rec
+ LAB: lafm coo   nafng roj rajy thuwsc trawsng car  ddeem 
+ REC: lafm cuwra hafng rox veef thuwjc trajng  casi ddeem 
+VIVOSDEV06_117.rec:   26.67( 26.67)  [H=   4, D=  0, S= 11, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_117.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_117.rec
+ LAB: giari quyeest khoosi ung   nhojt nafy phari caafn ddeesn moojt cuoojc ddaji  phaaxu nghieem  tusc  
+ REC: giari quyeest khori  luoon giojt leej vaafy gaafn gaafn  moojt cuoojc ddowfi thoor  nghieejm toost 
+VIVOSDEV06_126.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_126.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_126.rec
+ LAB: thaajm chis cafng gioosng aso quis    nafng cafng  moost  
+ REC: thaajm chis trafn dujng   aso quyeefn nafng ddeefu ngoofi 
+VIVOSDEV06_139.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_139.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_139.rec
+ LAB: cofn booj khang  hi     tuwf ddieern 
+ REC: cofn booj rawfng hieejp tuwf ddieerm 
+VIVOSDEV06_143.rec:   33.33( 33.33)  [H=   4, D=  0, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_143.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_143.rec
+ LAB: ddooi mooi mej  phai  son  maasp masy  moojt lowfi ca    hoang  hoari 
+ REC: ddooi mooi mejo phari xong mow   mowsi moojt lowfi trafm hoafng hoafi 
+VIVOSDEV06_157.rec:   33.33( 33.33)  [H=   4, D=  0, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_157.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_157.rec
+ LAB: soos   khasc suy ddoasn rawfng anh    ta hafnh ddoojng asc   taam vaajy 
+ REC: suoost car   six gaafn  rawfng nawjng ba hifnh ddoojng khore taam vaajy 
+VIVOSDEV06_168.rec:   50.00( 50.00)  [H=   1, D=  0, S=  1, I=  0, N=  2]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_168.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_168.rec
+ LAB: lafm khung 
+ REC: lafm cufng 
+VIVOSDEV06_184.rec:   61.54( 61.54)  [H=   8, D=  0, S=  5, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_184.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_184.rec
+ LAB: hoawjc bajn sex ddeesn ddaasy vowsi moojt taam trajng chasn ngasn  voo    cufng 
+ REC: hoawjc bajn sex gaafn  ddaay  vowsi moojt taam trajng trafn ngawsn buoojc cufng 
+VIVOSDEV06_195.rec:   85.71( 85.71)  [H=   6, D=  0, S=  1, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_195.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_195.rec
+ LAB: phari dduwowjc thuwjc hieejn treen cow sowr 
+ REC: vaajy dduwowjc thuwjc hieejn treen cow sowr 
+VIVOSDEV06_210.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV06_212.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_212.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_212.rec
+ LAB: ba muwowi  ba muwowi moost 
+ REC: ba muwowfi ba muwowi moost 
+VIVOSDEV06_222.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_222.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_222.rec
+ LAB: nawm muwowi  nawm muwowi moost 
+ REC: nawm muwowfi nawm muwowi moost 
+VIVOSDEV06_240.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV06_241.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV06_247.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_247.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_247.rec
+ LAB: moojt trawm moojt hai   ba   
+ REC: moojt trawm moojt khefn bafo 
+VIVOSDEV06_248.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV06_252.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_252.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_252.rec
+ LAB: nosi truwowsc buwowsc khoong qua  
+ REC: nosi truwowsc buwowsc khoong hofa 
+VIVOSDEV06_253.rec:  100.00(100.00)  [H=   9, D=  0, S=  0, I=  0, N=  9]
+VIVOSDEV06_261.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_261.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_261.rec
+ LAB: sao keest quar ra   teej  vaajy 
+ REC: sau keest quar rajp towsi vaajy 
+VIVOSDEV06_272.rec:  100.00(100.00)  [H=   9, D=  0, S=  0, I=  0, N=  9]
+VIVOSDEV06_285.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_285.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_285.rec
+ LAB: coong ty trasch nhieejm huwxu hajn  awn    uoosng 
+ REC: coong ty trasch nhieejm huwxu majng hawfng buoofn 
+VIVOSDEV06_286.rec:   50.00( 50.00)  [H=   5, D=  0, S=  5, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_286.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_286.rec
+ LAB: phis chuyeern giao  coong ngheej laf  ba   chujc ngafn ddoofng 
+ REC: tuy  chuyeejn daasu coong ngheej lafo vafi chujc ngafn ddoofng 
+VIVOSDEV06_287.rec:   77.78( 77.78)  [H=   7, D=  0, S=  2, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_287.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_287.rec
+ LAB: luwowng  ba   cojc ba ddoofng thif nuooi dduwowjc ai 
+ REC: cuwowfng bafi cojc ba ddoofng thif nuooi dduwowjc ai 
+VIVOSDEV06_296.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_296.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV06_296.rec
+ LAB: coo aasy ddax quas chesn   
+ REC: coo aasy ddax quas trieern 
+VIVOSDEV07_002.rec:   66.67( 66.67)  [H=   8, D=  0, S=  4, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_002.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_002.rec
+ LAB: hawfng nawm chusng ta   thari  ra hafng tir thieest bij ddieejn tuwr 
+ REC: thaan  nawm chusng vafo thuees ra hafng vif thieest bij ddieejn tuwr 
+VIVOSDEV07_025.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_025.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_025.rec
+ LAB: cho    nhuwxng chuyeesn dax   ngoaji cura du  khasch 
+ REC: choosi duwowng chieesn  giowf ngoafi cura duf caajp  
+VIVOSDEV07_030.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_030.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_030.rec
+ LAB: nhuwxng nhuwowjc ddieerm cura mifnh 
+ REC: nhaan   duwowjc  ddieerm cura mifnh 
+VIVOSDEV07_036.rec:   75.00( 75.00)  [H=   6, D=  0, S=  2, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_036.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_036.rec
+ LAB: vif ddos mowsi chisnh laf   thuws bajn   caafn 
+ REC: vif ddos mowsi chisnh lijch thuws bawfng caafn 
+VIVOSDEV07_039.rec:   50.00( 50.00)  [H=   5, D=  0, S=  5, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_039.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_039.rec
+ LAB: gios trowfi khoong theer thoong thoosc thoori vafo khai  trung 
+ REC: gosa trowfi khoong theer khoong khoong thua   vafo khari trung 
+VIVOSDEV07_044.rec:   61.54( 61.54)  [H=   8, D=  0, S=  5, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_044.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_044.rec
+ LAB: bowri cow quan chuyeen moon hoawjc thuee toor   chuwsc  kieerm toasn ddoojc laajp 
+ REC: bowsi cow quan chieesu moon hoawjc vowsi tuoori chuwsng kieerm toasn ddoojc laajp 
+VIVOSDEV07_045.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_045.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_045.rec
+ LAB: hoawjc cho vafo vaji muoosi ddeer lowjn awn   daafn 
+ REC: hoawjc cho vafo vai  muoosi ddeef lowsn nawng daan  
+VIVOSDEV07_064.rec:   33.33( 33.33)  [H=   3, D=  0, S=  6, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_064.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_064.rec
+ LAB: cuws chujm casc ddaafu ngosn tay laji moojt choox   
+ REC: cuws dujng casc ddaafu cofn  vay lasi mujc  chuoojt 
+VIVOSDEV07_066.rec:   61.54( 61.54)  [H=   8, D=  0, S=  5, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_066.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_066.rec
+ LAB: ddax cos duwj asn ddeer xaay duwjng moojt casi caafu tuwf ddaast lieefn 
+ REC: dda  coi duwj asn ddeer xaay duwjng moojt casi caay  kyf  ddaast veef   
+VIVOSDEV07_067.rec:   87.50( 87.50)  [H=   7, D=  0, S=  1, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_067.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_067.rec
+ LAB: chajm vafo phaafn thosp meefm treen ddaafu bes 
+ REC: chajm vafo phaafn khasc meefm treen ddaafu bes 
+VIVOSDEV07_084.rec:   41.67( 41.67)  [H=   5, D=  1, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_084.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_084.rec
+ LAB: thif booxng nghe thaasy tieesng oasc  oasc tuwf vajt ruwfng  phi  lao  
+ REC: thif booxng nghe        tieesng quajt hosa tuwf vasc dduwfng phis lafo 
+VIVOSDEV07_093.rec:   54.55( 45.45)  [H=   6, D=  1, S=  4, I=  1, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_093.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_093.rec
+ LAB: phujc vuj cho    mufa thi ddaji hojc ddang ddeesn       sast sajt 
+ REC: phujc vuj troojm busa ty  ddaay hojc ddang ddeesn sawsc sast      
+VIVOSDEV07_098.rec:   50.00( 50.00)  [H=   2, D=  0, S=  2, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_098.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_098.rec
+ LAB: traajn chieesn xisch bisch 
+ REC: traajn chieesn xijt  baast 
+VIVOSDEV07_107.rec:   66.67( 66.67)  [H=   8, D=  0, S=  4, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_107.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_107.rec
+ LAB: nguyeen thuws truwowrng booj ddaji hojc vaf   giaso dujc chuyeen nghieejp cux 
+ REC: muwowi  thuws truwowrng booj ddeer hojc bowri daasu dujc chuyeen nghieejp cux 
+VIVOSDEV07_115.rec:   23.08( 23.08)  [H=   3, D=  1, S=  9, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_115.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_115.rec
+ LAB: vafo cow  quan laf anh   host gioosng heejt nhoofng mowsi   loojt luwowxi vaajy  
+ REC: vafo cowf quan vaf hafnh hofn gioosng       hajt    gioosng vowsi luaajt  ddoosi 
+VIVOSDEV07_125.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_125.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_125.rec
+ LAB: asng  chuwfng ddax ngoaji bary muwowi  
+ REC: cawsn chuwfng ddam ngoafi bary muwowfi 
+VIVOSDEV07_127.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV07_134.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_134.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_134.rec
+ LAB: tham gia    giarng dajy   laf   luwjc luwowjng ddoafn vieen 
+ REC: taam giowsi gian   giaasy laaxn luwjc luwowjng ddoafn vieen 
+VIVOSDEV07_138.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_138.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_138.rec
+ LAB: ddos hawrn laf moojt mosn quaf 
+ REC: o    hafng laf moojt mosn lofa 
+VIVOSDEV07_141.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_141.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_141.rec
+ LAB: vaf   khi  thaasy tooi  vaaxn kieen ddijnh trar lowfi trowst   quowst 
+ REC: vowsi khis thaasy toosi vaaxn kieen ddijnh trar lowfi truwowsc uwowst 
+VIVOSDEV07_151.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_151.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_151.rec
+ LAB: roo   bost thoong minh  
+ REC: maasy ddos khoong mifnh 
+VIVOSDEV07_156.rec:   20.00( 20.00)  [H=   2, D=  0, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_156.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_156.rec
+ LAB: ddaafu tieen  laf  baf con mifnh vaajt vax  lafm awn 
+ REC: ddaau  tieefn veej bao con mifnh baajc quas nawm an  
+VIVOSDEV07_168.rec:   72.73( 72.73)  [H=   8, D=  0, S=  3, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_168.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_168.rec
+ LAB: maf cho ddeesn lusc ddos dduwowjc xem laf cura tuw   nhaan 
+ REC: maf cho ddeesn lusc ddos dduwowjc xe  low cura towsi nhaan 
+VIVOSDEV07_170.rec:   71.43( 71.43)  [H=  10, D=  0, S=  4, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_170.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_170.rec
+ LAB: nhuw laafn nafy dduwowjc neesm mosn giof thur hoafn toafn lafm tuwf tai heo  
+ REC: nhuw laafn nafy dduwowjc ddem  mosn do   thur hoafn toafn lafm tuwf tay yeeu 
+VIVOSDEV07_182.rec:   42.86( 42.86)  [H=   6, D=  0, S=  8, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_182.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_182.rec
+ LAB: nhuwxng nguwowfi hoafi  nghi  nosi rawfng giuwx dduwowjc vaajt treo  lurng lawrng treen nguwowfi 
+ REC: nhuwxng nguwowfi ngoafi nghix nosi rawfng chuwa dduwowjc vuwjc chaau rung  laafn  treen ddowfi   
+VIVOSDEV07_185.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_185.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_185.rec
+ LAB: chisu   chist   gowji tifnh mej    con sum   hojp 
+ REC: chieesu chieesc guwri tin   vieejc cos susng hojp 
+VIVOSDEV07_190.rec:   71.43( 71.43)  [H=   5, D=  0, S=  2, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_190.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_190.rec
+ LAB: nowi cos maasy teen troong raast gaasu  
+ REC: nowi cos maasy teen trong  raast giaasu 
+VIVOSDEV07_192.rec:  100.00(100.00)  [H=   4, D=  0, S=  0, I=  0, N=  4]
+VIVOSDEV07_194.rec:    9.09(  9.09)  [H=   1, D=  0, S= 10, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_194.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_194.rec
+ LAB: nhieefu truj ddas  di     tisch nawfm nghieeng ngar vaf  vowx nast 
+ REC: nhieefu trus ddasi dieejp tisnh nawm  dieexn   cao  vafo vowj bes  
+VIVOSDEV07_195.rec:   50.00( 50.00)  [H=   7, D=  0, S=  7, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_195.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_195.rec
+ LAB: hoj   cuxng luoon   trasnh xa nhuwxng tifnh huoosng cos theer gaay haji cho hoj  
+ REC: thowm cufng luoosng trasnh xa nhuwxng tin   hown    cos theer gaay hai  cho hown 
+VIVOSDEV07_197.rec:   76.92( 76.92)  [H=  10, D=  0, S=  3, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_197.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_197.rec
+ LAB: trong cuoojc soosng cura tooi   chusng khoong dufng ddeer kieesm ra lowji nhuaajn 
+ REC: trong cuoojc soosng cura tuoori chusng khoong dufng ddeer kieesm ra lowfi dujng   
+VIVOSDEV07_209.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_209.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_209.rec
+ LAB: hai   muwowi boosn hai muwowi lawm 
+ REC: hafnh vi     boosn hai bij    lawm 
+VIVOSDEV07_211.rec:   16.67( 16.67)  [H=   1, D=  1, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_211.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_211.rec
+ LAB: hai muwowi tasm hai muwowi chisn 
+ REC:     kisnh  isch tam hist   chisn 
+VIVOSDEV07_223.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_223.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_223.rec
+ LAB: nawm muwowi hai nawm muwowi ba   
+ REC: nawm bij    hai nawm bij    bajc 
+VIVOSDEV07_231.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_231.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_231.rec
+ LAB: sasu   muwowi tasm sasu   muwowi chisn  
+ REC: soosng ist    tam  soosng ist    chisnh 
+VIVOSDEV07_236.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_236.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_236.rec
+ LAB: bary   muwowi tasm bary muwowi chisn  
+ REC: beejnh bisch  tasm been bij    chisnh 
+VIVOSDEV07_246.rec:   66.67( 66.67)  [H=   4, D=  0, S=  2, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_246.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_246.rec
+ LAB: chisn  muwowi tasm chisn muwowi chisn 
+ REC: chisnh vist   tasm chisn muwowi chisn 
+VIVOSDEV07_264.rec:   77.78( 77.78)  [H=   7, D=  1, S=  1, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_264.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_264.rec
+ LAB: buoori sasng thafnh phoos oo    nhieexm hown buoori truwa 
+ REC: buoori sasng thafnh       vooji nhieexm hown buoori truwa 
+VIVOSDEV07_266.rec:   71.43( 71.43)  [H=   5, D=  0, S=  2, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_266.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_266.rec
+ LAB: nosng giaajn tooi ddax  lawng maj anh 
+ REC: nosng giaajn tooi ddang vawn  maj anh 
+VIVOSDEV07_295.rec:   57.14( 57.14)  [H=   8, D=  0, S=  6, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_295.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV07_295.rec
+ LAB: chur tafu cho bieest sex tieesp tujc thuwowng  thuyeest veef  soos   chi  phis nafy 
+ REC: chur tafu cho bieest sex chujp  tujc thuwowfng vowsi    bowsi suoosi chir phis nafy 
+VIVOSDEV08_002.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_002.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_002.rec
+ LAB: dduwfng ddeer con saau awn    
+ REC: dduwfng ddeer con saau quafng 
+VIVOSDEV08_005.rec:  100.00(100.00)  [H=  11, D=  0, S=  0, I=  0, N= 11]
+VIVOSDEV08_014.rec:   60.00( 60.00)  [H=   6, D=  0, S=  4, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_014.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_014.rec
+ LAB: vaf  neesu bajn trost lafm loojn xoojn mafn   hifnh neefn 
+ REC: vofm neesu bajn trost lafm lux   xoojn hoafng hifnh vafn  
+VIVOSDEV08_025.rec:   36.36( 36.36)  [H=   4, D=  0, S=  7, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_025.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_025.rec
+ LAB: ddajo dieexn trer  nafy cos nhieefu ddieefu ngaaxm ngowji veef ngheef 
+ REC: baro  hieerm cafng nafy cos nhieefu ddieeju nawfm  rowfi  vij  ngheef 
+VIVOSDEV08_032.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_032.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_032.rec
+ LAB: sex khoong khieesn bajn  troong gaafy nhuw nhuwxng trang phujc moojt mafu 
+ REC: sex khoong khuyeen vafng trong  giafy nhuw nhuwxng trong phujc mujc  mafu 
+VIVOSDEV08_053.rec:   53.85( 53.85)  [H=   7, D=  0, S=  6, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_053.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_053.rec
+ LAB: bowri cow     quan chuyeen moon  hoawjc thuee toor chuwsc kieerm toasn ddoojc laajp 
+ REC: bowri tuwowng quan chieefn ngowf hoawjc thuee toor chuwsc chisnh toafn ddoojc bojp  
+VIVOSDEV08_057.rec:   53.85( 53.85)  [H=   7, D=  0, S=  6, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_057.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_057.rec
+ LAB: nos laajt ddaajt ddajp  chieesc xe caf   tafng bawng  ngay  ra ddaafu dduwowfng 
+ REC: nos laajp ddaajp ddaajp chieesc xe taajp tafng bawfng ngafy ra ddaafu dduwowfng 
+VIVOSDEV08_062.rec:   40.00( 30.00)  [H=   4, D=  0, S=  6, I=  1, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_062.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_062.rec
+ LAB:   hoawjc chir bieeru hieejn bawfng casc roosi  loajn co  bosp 
+ REC: c hoawjc chir bieeru meefm  vafo   casc ddoosi cofn  cos bojp 
+VIVOSDEV08_071.rec:   46.67( 46.67)  [H=   7, D=  0, S=  8, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_071.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_071.rec
+ LAB: khi    tooi laf con bes lowsp boosn thif   caay   var  ddax  cao quas nosc  nhaf   
+ REC: vieejc tooi laf con bes luwjc boosn vieejc kieeru goji bajch cao quas gaajp nhafng 
+VIVOSDEV08_077.rec:   70.00( 70.00)  [H=   7, D=  0, S=  3, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_077.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_077.rec
+ LAB: buoori ddaafu thaajt khos  khawn theo dduoori chuwowng trifnh hojc 
+ REC: buoori ddaafu howjp  khosc cao   theo dduoori chuwowng trifnh hojc 
+VIVOSDEV08_085.rec:   69.23( 69.23)  [H=   9, D=  0, S=  4, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_085.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_085.rec
+ LAB: vieejc dduwa tisn hieeju truyeefn hifnh truwjc tieesp bawfng heej thoosng casp  quang 
+ REC: vieejc dduwa tin  ddeefu truyeefn hifnh truwjc tieejc bawfng heej thoosng casch quang 
+VIVOSDEV08_090.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_090.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_090.rec
+ LAB: vif   khoong cos tieefn ddosng  hojc  phis  
+ REC: vaafy trong  mow tieefn ddoojng howjp vowsi 
+VIVOSDEV08_093.rec:   16.67(  8.33)  [H=   2, D=  0, S= 10, I=  1, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_093.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_093.rec
+ LAB:        thif booxng nghe  maasy tieesng oasc   oasc   tuwf vajt  ruwfng phi   lao  
+ REC: tieeru long mef    mawjt vowsi tieefn  quasch quasch tuwf vajch ruwfng phisa lafu 
+VIVOSDEV08_100.rec:   50.00( 50.00)  [H=   7, D=  0, S=  7, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_100.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_100.rec
+ LAB: hay ddarm baro rawfng ngafy nafo chusng cuxng dduwowjc ddi nhuwxng ddooi taast sajch 
+ REC: hai ddarm baro rawfng ddeer nafo trusng cufng dduwowjc ddi nhuwxng ddofi tuwsc saajp 
+VIVOSDEV08_127.rec:   50.00( 50.00)  [H=   5, D=  1, S=  4, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_127.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_127.rec
+ LAB: veef vieejc mang ddeesn cho  casc  em nieefm vui hojc  
+ REC: veef vieejc      bajn   neen dijch em nieefm vui taajp 
+VIVOSDEV08_128.rec:  100.00(100.00)  [H=   7, D=  0, S=  0, I=  0, N=  7]
+VIVOSDEV08_129.rec:   30.77( 30.77)  [H=   4, D=  0, S=  9, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_129.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_129.rec
+ LAB: nuwowsc goox treen chieesc ddoofng hoof ddax bawst leen mafu guj bosng loasng 
+ REC: lusc    vowj treen chisnh  ddoofng lof  vafo bawst leen vafo vuj boos  hoang  
+VIVOSDEV08_141.rec:   50.00( 42.86)  [H=   7, D=  0, S=  7, I=  1, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_141.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_141.rec
+ LAB:       khi suwsc esp   bieesn maast chusng trowr laji tifnh trajng meefm dero  bifnh thuwowfng 
+ REC: xisch khi raast ddejp bieesn baajp trung  dduwa laji tifnh trajng vieem neesu bifnh thuwowfng 
+VIVOSDEV08_143.rec:   22.22( 22.22)  [H=   2, D=  0, S=  7, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_143.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_143.rec
+ LAB: tham  gia   giarng dajy laf luwjc luwowjng ddoafn vieen   
+ REC: thawm giafn trajng dafi laf luwjc tuwowrng ddaafu quyeefn 
+VIVOSDEV08_145.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_145.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_145.rec
+ LAB: vaf  vari  hoawjc cosi  nhieefu mafu 
+ REC: vofm loaji hoawjc khori nhieefu majo 
+VIVOSDEV08_159.rec:   37.50( 25.00)  [H=   3, D=  0, S=  5, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_159.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_159.rec
+ LAB:   vowsi nguwowfi mej owr xosm  chafi long  bieen   
+ REC: x vowsi duwfa    mef owr chaan chafi loong quyeefn 
+VIVOSDEV08_163.rec:   46.15( 46.15)  [H=   6, D=  0, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_163.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_163.rec
+ LAB: chuwowng trifnh ddax  tajo dduwowjc hieeju uwsng  toost tuwf     phisa khasn giar  nhis   
+ REC: chuwowng trifnh ddafo tajo dduwowjc tieeru uwowng toost tuwowrng phisa sawxn giari nhieen 
+VIVOSDEV08_166.rec:   46.15( 46.15)  [H=   6, D=  2, S=  5, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_166.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_166.rec
+ LAB: dijch vuj kieerm tra suwsc khore ddijnh kyf   laf  moojt ys      kieesn hay  
+ REC: dijch vuj kieerm tra suwsc              quarn trij loox  quyeest kieesn nafy 
+VIVOSDEV08_180.rec:   42.86( 42.86)  [H=   3, D=  1, S=  3, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_180.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_180.rec
+ LAB: chisnh suwj leen safn oof   ajt   ddos 
+ REC: chisnh suwj leen      trafn hoofi ro   
+VIVOSDEV08_182.rec:   18.18( 18.18)  [H=   2, D=  0, S=  9, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_182.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_182.rec
+ LAB: keest quar chir cos  vorn vejn ba   nguwowfi cofn  bieest deejt  
+ REC: xisch goji chir cofn gofn vajn baro nguwowfi caafu kisn   giaajp 
+VIVOSDEV08_193.rec:   83.33( 83.33)  [H=   5, D=  0, S=  1, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_193.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_193.rec
+ LAB: laf  tuwowng ddoosi cos hieeju quar 
+ REC: tajp tuwowng ddoosi cos hieeju quar 
+VIVOSDEV08_196.rec:   77.78( 77.78)  [H=   7, D=  0, S=  2, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_196.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_196.rec
+ LAB: phaafn lowsn hojc sinh giafu cos  nguwowfi nuwowsc ngoafi 
+ REC: phaafn lowsn hojc sinh lojt  vafo nguwowfi nuwowsc ngoafi 
+VIVOSDEV08_201.rec:    0.00(  0.00)  [H=   0, D=  0, S=  5, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_201.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_201.rec
+ LAB: khoong moojt hai   ba   boosn  
+ REC: phofng hojp  khari baro buoofn 
+VIVOSDEV08_208.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_208.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_208.rec
+ LAB: hai  muwowi hai    hai  muwowi ba   
+ REC: theo quy    ngheef haxy bieeru bowf 
+VIVOSDEV08_210.rec:   16.67( 16.67)  [H=   1, D=  1, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_210.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_210.rec
+ LAB: hai muwowi sasu  hai   muwowi bary 
+ REC:     theo   trafo phari bija   bary 
+VIVOSDEV08_214.rec:    0.00(  0.00)  [H=   0, D=  1, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_214.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_214.rec
+ LAB: ba muwowi boosn ba   muwowi lawm 
+ REC:    baro   vowsi hoon baasm  lafm 
+VIVOSDEV08_222.rec:   40.00( 40.00)  [H=   2, D=  0, S=  3, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_222.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_222.rec
+ LAB: nawm muwowi  nawm muwowi moost 
+ REC: nawm muwowfi nawm vowsi  bojp  
+VIVOSDEV08_224.rec:   50.00( 50.00)  [H=   3, D=  1, S=  2, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_224.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_224.rec
+ LAB: nawm muwowi boosn nawm muwowi lawm 
+ REC: v    muwowi boosn nawm        lafm 
+VIVOSDEV08_233.rec:    0.00(  0.00)  [H=   0, D=  1, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_233.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_233.rec
+ LAB: bary muwowi hai    bary muwowi ba   
+ REC:      bafi   ngheej bafi veef   bowf 
+VIVOSDEV08_270.rec:    0.00(  0.00)  [H=   0, D=  1, S=  3, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_270.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_270.rec
+ LAB: nosi thaajt ddaasy af  
+ REC:      bowri  thaajp afo 
+VIVOSDEV08_271.rec:  100.00(100.00)  [H=   3, D=  0, S=  0, I=  0, N=  3]
+VIVOSDEV08_274.rec:   50.00( 50.00)  [H=   3, D=  1, S=  2, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_274.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_274.rec
+ LAB: tooi cheest cufng vowsi asnh  trawng 
+ REC: tooi cheest cufng       queen rawfng 
+VIVOSDEV08_277.rec:   14.29( 14.29)  [H=   1, D=  1, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_277.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_277.rec
+ LAB: ddafn oong cos hai    thuws ddeer  buoofn 
+ REC:       baf  afo ngoafi tuwf  ddeefu buoofn 
+VIVOSDEV08_295.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV08_300.rec:    0.00(-14.29)  [H=   0, D=  0, S=  7, I=  1, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_300.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV08_300.rec
+ LAB:   asn   majng treen  toa tafu toosc hafnh  
+ REC: x nawng mafn  trifnh top tajo taajp rawfng 
+VIVOSDEV09_015.rec:   11.11( 11.11)  [H=   1, D=  0, S=  8, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_015.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_015.rec
+ LAB: lafm rowfm  rowjp bieern maay lau    lasch  phaast phow     
+ REC: lafm phaarm howjp bij    mafy ngaaxu luaajt phuwsc phuwowng 
+VIVOSDEV09_022.rec:    0.00(  0.00)  [H=   0, D=  1, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_022.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_022.rec
+ LAB: truwsng muwjc quyeesn rux     casc  nguw     daan  
+ REC:         trong moojt   quyeern moojt nguwowfi dufng 
+VIVOSDEV09_029.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_029.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_029.rec
+ LAB: bajn cos     theer khieern trasch nguwowfi lasi xe   
+ REC: vaf  thuaajt theer hieejn  chawsc nguwowfi vaf  sarn 
+VIVOSDEV09_035.rec:    0.00(-12.50)  [H=   0, D=  0, S=  8, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_035.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_035.rec
+ LAB:   loasng thoasng trawn  trowr loasng thoasng buoofn vui     
+ REC: t cofn   thoaji  phaajn trof  lofng  haajn   bujng  nguooji 
+VIVOSDEV09_038.rec:    0.00(-11.11)  [H=   0, D=  0, S=  9, I=  1, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_038.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_038.rec
+ LAB:        phofng traf khieeu vux     casnh quajt coosi xay ddor  
+ REC: phufng phujng cho  kieefu thuoojc tirnh quar  coox  six chojn 
+VIVOSDEV09_039.rec:    9.09(  9.09)  [H=   1, D=  2, S=  8, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_039.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_039.rec
+ LAB: thijt ngojt luwf   aasy laji     mang theo trufng sasn gaay  beejnh 
+ REC:             thisch gojt nguwowfi laf  mafy trufng sarn ngafy bifnh  
+VIVOSDEV09_041.rec:   60.00( 60.00)  [H=   6, D=  0, S=  4, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_041.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_041.rec
+ LAB: hieejn trong   nhieefu loaji tori  cos    mawjt treen thij truwowfng 
+ REC: hieejn troofng nhieefu loaji tooji khoong bor   treen thij truwowfng 
+VIVOSDEV09_047.rec:   38.46( 38.46)  [H=   5, D=  0, S=  8, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_047.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_047.rec
+ LAB: ngafy cawn   baajc hai  chir dieexn ra    chisn  laafn trong moojt thees kyr     
+ REC: ngafy traafn baajt laji chir dieejn hoaji chisnh laafn trong moojt heej  tuyeejt 
+VIVOSDEV09_055.rec:   22.22( 11.11)  [H=   2, D=  0, S=  7, I=  1, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_055.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_055.rec
+ LAB: roofi rowm raj khoo  theo  thaan   hifnh     gaafy ngawrng 
+ REC: roofi vafo vaf khoor phefo thuaajn hifnh dif gajch dajng   
+VIVOSDEV09_077.rec:   50.00( 40.00)  [H=   5, D=  0, S=  5, I=  1, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_077.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_077.rec
+ LAB: ddeer cos theer        vaajn hafnh chusng dduwowjc hieeju quar hown     
+ REC: ddeer cos theer phaarm hajnh cho   trusng ddoojc   hieeju quar huwowrng 
+VIVOSDEV09_081.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_081.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_081.rec
+ LAB: dduwowjc myx     raso rieest tung  ra   
+ REC: dduwowjc quyeefn lafm veest  cuxng hajn 
+VIVOSDEV09_083.rec:   71.43( 71.43)  [H=   5, D=  0, S=  2, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_083.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_083.rec
+ LAB: vif luwowjng ca khusc mowsi quas   nhieefu 
+ REC: vif luwowjng ca khusc vowsi ngoaji nhieefu 
+VIVOSDEV09_091.rec:   25.00( 25.00)  [H=   1, D=  0, S=  3, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_091.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_091.rec
+ LAB: nuwowsc  chary  quas  majnh 
+ REC: dduwowjc chisnh quaan majnh 
+VIVOSDEV09_098.rec:   25.00( 12.50)  [H=   2, D=  0, S=  6, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_098.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_098.rec
+ LAB:   khieesn car    hai phari giaajn howfn    voo  lys 
+ REC: c hieejn  trajng hay phari daaxn  huwowsng boof lys 
+VIVOSDEV09_106.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_106.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_106.rec
+ LAB: roofi chifm  lirm     moojt thowfi gian  
+ REC: roofi chieem nghieejm moojt thowfi dajng 
+VIVOSDEV09_110.rec:    0.00(  0.00)  [H=   0, D=  0, S=  8, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_110.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_110.rec
+ LAB: khi     mieejng vaaxn ngaajm baafu vus  quawst queo  
+ REC: phieefn mieefn  vaajn ngaafm boof  phuj quoosc quejo 
+VIVOSDEV09_134.rec:   11.11( 11.11)  [H=   1, D=  2, S=  6, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_134.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_134.rec
+ LAB: caau  trar lowfi cura oong ta raast khieesm nhax  
+ REC: caafu trof loajt cura         toafn luwjc   nhafn 
+VIVOSDEV09_139.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_139.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_139.rec
+ LAB: neesu chur ddaafu tuw khoong tuwj phas  dowx  thif    bij cuwowxng  chees  
+ REC: neesu chur ddaafu tuw khoong tuwf phari giori thieejp bij thuwowfng chafng 
+VIVOSDEV09_142.rec:   40.00( 40.00)  [H=   4, D=  0, S=  6, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_142.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_142.rec
+ LAB: veef chuyeejn ddang theo doxi bojn giasn ddieejp nuwowsc ngoafi 
+ REC: veef chuyeejn ddeer theo doxi booj dajng hieejp  dduwsc  ngoaji 
+VIVOSDEV09_144.rec:   61.54( 61.54)  [H=   8, D=  0, S=  5, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_144.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_144.rec
+ LAB: dduwowjc cawst tuwf vor   chawn  booj ddooji cux cura casc oong  boos ra    
+ REC: dduwowjc cawst tuwf vooji chaajm booj ddooji cux cura casc cufng booj rafng 
+VIVOSDEV09_158.rec:   18.18(  9.09)  [H=   2, D=  1, S=  8, I=  1, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_158.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_158.rec
+ LAB:       sowj  nhaast laf mufa muwa saasm  sest ddufng ddoafng treen  nusi    
+ REC: sowji nhijp lafm   vuj mufa      soosng phe  ddufng goji    trifnh dduoori 
+VIVOSDEV09_159.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_159.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_159.rec
+ LAB: tuwsc  laasy sujn lafnh tuwf nowi khoong phari chiju   luwjc  ghesp vafo nowi     huw       
+ REC: thuwjc laasy xung lafm  tuwf nuwx khoong phari trieeju luaajt gajch vafo nguwowfi thuwowfng 
+VIVOSDEV09_163.rec:   46.15( 46.15)  [H=   6, D=  1, S=  6, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_163.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_163.rec
+ LAB: ddieefu voo cufng quan trojng trong thowfi ddaji cos   quas nhieefu hoajt  ddoojng 
+ REC: ddieefu voo cufng quan trojng       trojng thora ddafi cofn nhieefu hoawjc ddoofng 
+VIVOSDEV09_166.rec:    7.14(  7.14)  [H=   1, D=  0, S= 13, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_166.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_166.rec
+ LAB: this sinh tuwj do    caafn quan   taam   ddeesn ddooj  veenh kieesn   thuwsc casc   moon  
+ REC: khi  sinh tuwf giori cos   ngoaji phaarm ddirnh ddaafu vowsi chuyeejn thuwjc chaast bujng 
+VIVOSDEV09_168.rec:   60.00( 50.00)  [H=   6, D=  1, S=  3, I=  1, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_168.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_168.rec
+ LAB:      mooxi nguwowfi chusng ta sex cos   nhuwxng thuws khasc nhau 
+ REC: boos mooxi          chusng ta sex khori nhuw    thif  khasc nhau 
+VIVOSDEV09_178.rec:   22.22( 22.22)  [H=   2, D=  0, S=  7, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_178.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_178.rec
+ LAB: vaf thaajm chis bajn cuxng khoong neen coos gawsng 
+ REC: vaf phaarm chim barn cuxng khum   been coo  ddoajn 
+VIVOSDEV09_194.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_194.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_194.rec
+ LAB: treen baafu trowfi asnh  trawng sasng vawfng vawjc 
+ REC: treen baafu trowfi hajnh trojng sarn  phaarm baajt 
+VIVOSDEV09_198.rec:   25.00( 25.00)  [H=   3, D=  0, S=  9, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_198.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_198.rec
+ LAB: laf  toor  tieen   cura oong   ddawjng leen ddarm  trasch vieejc daaxn   dduwowfng 
+ REC: laji caafu tuyeern coo  hoofng ddawng  leen ddaajm chaast vieejc chawjng dduwowfng 
+VIVOSDEV09_203.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV09_204.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_204.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_204.rec
+ LAB: muwowfi moojt muwowfi hai   muwowfi ba     
+ REC: tuwf    moojt bij     haafm bij     bawfng 
+VIVOSDEV09_222.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_222.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_222.rec
+ LAB: nawm muwowi nawm   muwowi moost 
+ REC: nawm mufi   ddaasm bij    moojt 
+VIVOSDEV09_246.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_246.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_246.rec
+ LAB: chisn  muwowi tasm chisn  muwowi chisn  
+ REC: chisnh bij    taam chisnh bij    trifnh 
+VIVOSDEV09_267.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_267.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_267.rec
+ LAB: cawn nhaf ddawfng kia    nghe nosi  cos  ma   
+ REC: car  nhaf ddafnh  kieejn nhaf kharo coor hoaf 
+VIVOSDEV09_268.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_268.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_268.rec
+ LAB: thus thaajt tui    chuwa tuwfng chowi gasi  
+ REC: thu  thaajp tuoori chuwa thu    trij  giari 
+VIVOSDEV09_280.rec:   20.00( 20.00)  [H=   1, D=  1, S=  3, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_280.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_280.rec
+ LAB: xuaan nafy em khoong veef  
+ REC:       sung em cufng  hueej 
+VIVOSDEV09_286.rec:  100.00(100.00)  [H=   4, D=  0, S=  0, I=  0, N=  4]
+VIVOSDEV09_288.rec:   44.44( 33.33)  [H=   4, D=  0, S=  5, I=  1, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_288.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_288.rec
+ LAB: chawsc sawsp towsi thu xeesp ddi    du lijch thooi 
+ REC: chawsc sosc  tora  thu xee   ddi du du vuwjc hooji 
+VIVOSDEV09_289.rec:   28.57( 28.57)  [H=   4, D=  0, S= 10, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_289.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_289.rec
+ LAB: phuwowng chaam  soosng cura tooi   laf  nguwowfi khoong vif     mifnh trowfi tru  ddaast dieejt 
+ REC: vuwfa    chaasm phofng cura thoofi ddax nguwowfi khoong quyeefn bifnh trowfi chur ddisch kijp   
+VIVOSDEV09_293.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_293.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_293.rec
+ LAB: nos    troosn maast  tieeu  roofi cofn ddaau  
+ REC: ddooji trung  quoosc vieejn khori cofn ddaafu 
+VIVOSDEV09_297.rec:   40.00( 40.00)  [H=   2, D=  0, S=  3, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_297.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV09_297.rec
+ LAB: thees nafo  laf  hoafn haro 
+ REC: thuee ddajo vafo hoafn haro 
+VIVOSDEV10_010.rec:   12.50(  0.00)  [H=   1, D=  0, S=  7, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_010.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_010.rec
+ LAB:   khi  bij    coong an   thoojp coor khaarn caasp 
+ REC: c tifm vieejc tujc  quen hojp   coor phaafn taajp 
+VIVOSDEV10_014.rec:   25.00( 12.50)  [H=   2, D=  0, S=  6, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_014.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_014.rec
+ LAB:   sau  khi ddojc nhuwxng thoong tin   treen baso 
+ REC: c saso vif lojc  nhaajn  thujc  tifnh treen baso 
+VIVOSDEV10_017.rec:   14.29( 14.29)  [H=   1, D=  0, S=  6, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_017.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_017.rec
+ LAB: nga   khi  aasy  cafng thifn neest  na  
+ REC: ngafn thif giafy cafng nhijn ngaajp bef 
+VIVOSDEV10_020.rec:   45.45( 27.27)  [H=   5, D=  2, S=  4, I=  2, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_020.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_020.rec
+ LAB: vieejc asp  dujng car bafn vas looxi vaf            coong cuj quest 
+ REC: vieejc tajp dujng          cao bajn  vaf nooji bajc coong cuj quay  
+VIVOSDEV10_024.rec:   37.50( 37.50)  [H=   3, D=  0, S=  5, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_024.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_024.rec
+ LAB: ngoafi trowfi muwa cuws lay  phay rawsc hajt 
+ REC: ngoafi trowfi muwa tuwf gaxy tafy gajch hef  
+VIVOSDEV10_030.rec:   46.67( 46.67)  [H=   7, D=  1, S=  7, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_030.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_030.rec
+ LAB: nuooi moo hifnh tinh hoafn  roofi tajo ra      tinh  hoafn  vowsi ddaafy ddur hifnh hafi 
+ REC: nuooi moo hifnh kinh hoafng roofi tajo gheefnh tirnh hoafng vowsi        refo hifnh heej 
+VIVOSDEV10_035.rec:   10.00( 10.00)  [H=   1, D=  0, S=  9, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_035.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_035.rec
+ LAB: cos  theer giusp  ta  queen  ddi nhuwxng nooxi uwu   phieefn 
+ REC: cujc hari  dieejp tao quaafn kyf nhijn   nooji cufng phieefn 
+VIVOSDEV10_043.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_043.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_043.rec
+ LAB: maf  dung  dawng  nhes caafm tay  ddaast trowfi 
+ REC: maji dufng giafnh nhej caafm cafy laajt  trowfi 
+VIVOSDEV10_045.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_045.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_045.rec
+ LAB: tooi   lowsn leen trong suwj gher lajnh cura  nguwowfi mej kees  
+ REC: tuoori lowsn leen trong suwj trer arnh  cufng nguwowfi mej cafng 
+VIVOSDEV10_051.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_051.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_051.rec
+ LAB: khung rawng  hafm treen khum   
+ REC: khung quajnh hafm treen thurng 
+VIVOSDEV10_067.rec:   18.18( 18.18)  [H=   2, D=  0, S=  9, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_067.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_067.rec
+ LAB: thees nhuwng tooi khoong aan   haajn khi    trowr thafnh ddar nuwx     
+ REC: haxy  duwjng tusi hoofng vaaxn cofn  tieejc trowr thafnh bajn tuwowrng 
+VIVOSDEV10_068.rec:   26.67( 20.00)  [H=   4, D=  1, S= 10, I=  1, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_068.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_068.rec
+ LAB: vowsi moojt toosc ddooj      maf   chusng ta     khoong theer ddi   ddeesn taajn cufng cura nos 
+ REC: vowsi moojt cojc  ddooj moji chust tao    hoofng veef   hif   lijch tirnh  cujc  cufng      cof 
+VIVOSDEV10_072.rec:    8.33(  8.33)  [H=   1, D=  0, S= 11, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_072.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_072.rec
+ LAB: tooi   thaasy ddoofng luwowng   cura mifnh  nawm nawm   roofi vaaxn dduwsng nguyeen  
+ REC: tuoori theer  lofng   dduwowfng coor muwfng nawm ngaafm goji  vaajn ddijnh  nguyeejn 
+VIVOSDEV10_073.rec:   11.11(  0.00)  [H=   1, D=  1, S=  7, I=  1, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_073.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_073.rec
+ LAB:   ddeer chaasm duwst najn  bajo  hafnh trong gia ddifnh 
+ REC: x veef  caafm  dijch ngafn baafu hajng trong     giowf  
+VIVOSDEV10_076.rec:   30.00( 20.00)  [H=   3, D=  0, S=  7, I=  1, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_076.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_076.rec
+ LAB:   lafm dduwowfng sas  ngaajp xawsp xawsp quanh nawm   suoost  thasng 
+ REC: x nawm dduwowfng safn ngaajp sajp  pha   quanh ngaafm thuoojc hafng  
+VIVOSDEV10_090.rec:   37.50( 25.00)  [H=   3, D=  0, S=  5, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_090.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_090.rec
+ LAB:   vuwfa dduwowjc trao  tawjng giari thuwowrng nhaf nuwowsc  
+ REC: x guwri luwowjc  chafo chojn  giari thuwowrng nhaf nguwowjc 
+VIVOSDEV10_117.rec:    0.00(-33.33)  [H=   0, D=  0, S=  3, I=  1, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_117.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_117.rec
+ LAB:   casi khos  laf 
+ REC: x tafi phofi asc 
+VIVOSDEV10_129.rec:   46.67( 46.67)  [H=   7, D=  0, S=  8, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_129.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_129.rec
+ LAB: ddieefu nafy ddusng vowsi moji  caasp ddooj vaf  trong moji  lixnh vuwjc cura ddowfi soosng 
+ REC: ddieefu nafy lujc   vowsi mooxi taajp caafu vofi trong mooxi lixnh vuwjc cura lowji  soong  
+VIVOSDEV10_130.rec:   33.33( 33.33)  [H=   1, D=  0, S=  2, I=  0, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_130.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_130.rec
+ LAB: cao ngoofng ngoofng 
+ REC: cao lofng   ngojng  
+VIVOSDEV10_140.rec:   14.29( 14.29)  [H=   2, D=  0, S= 12, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_140.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_140.rec
+ LAB: chafng trai  loofm coofm bof    daajy mawjt mafy xanh  lest nhuw tafu las  chuoosi 
+ REC: trajng treej gawjp cofm  buoori dajy  majch maji safnh rer  nhuw tafu lajc truji   
+VIVOSDEV10_156.rec:   35.71( 28.57)  [H=   5, D=  0, S=  9, I=  1, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_156.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_156.rec
+ LAB: chisnh phur ddoofng thowfi cuxng laajp theem cujc      xusc   tieesn tieeu thuj  daafu coj  
+ REC: chisnh phur lojng   hori   cuxng laajp hefn  cujc sujc tieejn treeu  thuf  daasu cos   hojp 
+VIVOSDEV10_162.rec:   55.56( 55.56)  [H=   5, D=  0, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_162.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_162.rec
+ LAB: cuxng laf   tin  vui    cho taast car nhuwxng ai     
+ REC: cuxng quaji kinh buoori cho taast car nhuwxng ngheej 
+VIVOSDEV10_172.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_172.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_172.rec
+ LAB: huwowjm ddax  cofn phari ddieefu chirnh 
+ REC: hufng   ddajc cofn phari hieeju  chirnh 
+VIVOSDEV10_176.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_176.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_176.rec
+ LAB: trong tifnh  thees  aasy chir ddasm trer ven soong 
+ REC: trong traajn thaafy nafy chir lafm  kejo ven soong 
+VIVOSDEV10_189.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_189.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_189.rec
+ LAB: neesu ddi    tieesp nha   trang 
+ REC: neesu vieejc ddejp  nhajc chefn 
+VIVOSDEV10_194.rec:    0.00(  0.00)  [H=   0, D=  0, S=  7, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_194.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_194.rec
+ LAB: tuwsc chanh  cos  theer trij dduwowjc beejnh 
+ REC: tisch trajng cofn haxy  trif lujc     bowjn  
+VIVOSDEV10_196.rec:   55.56( 55.56)  [H=   5, D=  0, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_196.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_196.rec
+ LAB: chir muoosn lafm  moojt howi  cho ddax casi mieejng 
+ REC: chir muoosn gawsm moojt howji car hai  casi mieejng 
+VIVOSDEV10_211.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_211.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_211.rec
+ LAB: hai   muwowi tasm hai muwowi chisn  
+ REC: hafng vieejc tasm hai nguy   trifnh 
+VIVOSDEV10_212.rec:   40.00( 40.00)  [H=   2, D=  0, S=  3, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_212.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_212.rec
+ LAB: ba  muwowi  ba   muwowi moost 
+ REC: baf muwowfi tasm muwowi moost 
+VIVOSDEV10_227.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_227.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_227.rec
+ LAB: sasu muwowi  sasu muwowi moost 
+ REC: saso muwowfi sasu muwowi moost 
+VIVOSDEV10_234.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV10_239.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV10_245.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_245.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_245.rec
+ LAB: chisn  muwowi sasu chisn  muwowi bary 
+ REC: chisnh vif    sao  chisnh mowsi  vafi 
+VIVOSDEV10_247.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_247.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_247.rec
+ LAB: moojt trawm moojt hai   ba   
+ REC: moojt trawm moojt thasi bajc 
+VIVOSDEV10_249.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV10_257.rec:   66.67( 50.00)  [H=   4, D=  0, S=  2, I=  1, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_257.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_257.rec
+ LAB:   tieefn ddieejn thasng nafy  bao nhieeu 
+ REC: x tieefn ddieejn hafng  ngafy bao nhieeu 
+VIVOSDEV10_262.rec:   14.29(  0.00)  [H=   1, D=  0, S=  6, I=  1, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_262.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_262.rec
+ LAB:   thua xa  tieejm tajp  hoas  nhaf  tao  
+ REC: c cura ser tieejm gawjp hoaxn nhajc tafu 
+VIVOSDEV10_266.rec:   87.50( 75.00)  [H=   7, D=  0, S=  1, I=  1, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_266.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_266.rec
+ LAB:   tuwf treen nosc nhaf nhifn xuoosng cos khasc 
+ REC: c tuwj treen nosc nhaf nhifn xuoosng cos khasc 
+VIVOSDEV10_278.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_278.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_278.rec
+ LAB: tooji nghieejp dduwsa   nhor khoong ai     chawm sosc 
+ REC: cofn  nghieejp tuwowjng nhor khoong ngoafi chawm sosc 
+VIVOSDEV10_294.rec:   66.67( 66.67)  [H=  12, D=  0, S=  6, I=  0, N= 18]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_294.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV10_294.rec
+ LAB: em    sowj cos moojt ngafy anh gawjp nguwowfi con gasi khasc toost hown   em roofi anh bor em 
+ REC: chesm xojp cos moojt ngafy anh gawjp nguwowfi con gasi hajng cosc  phaafn em goji  anh bor em 
+VIVOSDEV11_015.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_015.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_015.rec
+ LAB: nuwx dieexn vieen xinh ddejp phajm  bawng  bawng  
+ REC: nowi dieexn ddeer xin  ddejp phaarm bawfng bawfng 
+VIVOSDEV11_022.rec:   55.56( 55.56)  [H=   5, D=  1, S=  3, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_022.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_022.rec
+ LAB: sex lafm giarm tifnh trajng osi   ojc  cura trer  
+ REC: sex lafm       tifnh trajng loosi hojc cura cafng 
+VIVOSDEV11_033.rec:   27.27( 27.27)  [H=   3, D=  1, S=  7, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_033.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_033.rec
+ LAB: maf phari che chasi owr   tajm been   hoong   nhaf  cha   ruoojt 
+ REC: mau phari che       chari taam beejnh thoosng nhaji chajm ruoojt 
+VIVOSDEV11_036.rec:   42.86( 42.86)  [H=   3, D=  0, S=  4, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_036.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_036.rec
+ LAB: tooi cos theer  cawm  giaajn ddur thuws     
+ REC: tooi cos thowfi caasm laaxn  ddur thuwowfng 
+VIVOSDEV11_038.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_038.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_038.rec
+ LAB: maf phari chuyeern qua  hifnh thuwsc giao dijch 
+ REC: maf phari trieern  quas hifnh thuwjc giao dijch 
+VIVOSDEV11_046.rec:  100.00(100.00)  [H=  12, D=  0, S=  0, I=  0, N= 12]
+VIVOSDEV11_048.rec:   30.00( 30.00)  [H=   3, D=  0, S=  7, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_048.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_048.rec
+ LAB: vafng osng  ddooi  gheejt cao  coor cura nguwj laam  quaan  
+ REC: vafng nosng ddoosi laajp  caro coor cura nguwx laaxn quaajn 
+VIVOSDEV11_057.rec:   75.00( 75.00)  [H=   3, D=  0, S=  1, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_057.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_057.rec
+ LAB: neesu vif  chusng tooi 
+ REC: neesu tufy chusng tooi 
+VIVOSDEV11_063.rec:   85.71( 85.71)  [H=   6, D=  0, S=  1, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_063.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_063.rec
+ LAB: neesu bajn vaaxn  carm thaasy tooji looxi 
+ REC: neesu bajn phaafn carm thaasy tooji looxi 
+VIVOSDEV11_075.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_075.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_075.rec
+ LAB: daxi  daafu nawsng gios  truwowfng sown 
+ REC: giari giafu nawjng soajt truwowrng sown 
+VIVOSDEV11_076.rec:   50.00( 50.00)  [H=   4, D=  0, S=  4, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_076.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_076.rec
+ LAB: vowsi treen laf  nusi  vaf  duwowsi laf soong 
+ REC: vowsi treen lafm nuooi goji duwowsi laf xong  
+VIVOSDEV11_077.rec:   55.56( 55.56)  [H=   5, D=  0, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_077.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_077.rec
+ LAB: vowsi suwj xuaast hieejn cura quasi  thus    vaf  roofng 
+ REC: vowsi suwj xuaast hieejn cura ngoafi thuoojc vafo roojng 
+VIVOSDEV11_079.rec:   72.73( 72.73)  [H=   8, D=  0, S=  3, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_079.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_079.rec
+ LAB: nest  mawjt hoj khoong ngowfi leen hajnh phusc cura nguwowfi mej 
+ REC: nhajc majch hoj khoong lowji  leen hajnh phusc cura nguwowfi mej 
+VIVOSDEV11_081.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV11_083.rec:   60.00( 60.00)  [H=   6, D=  0, S=  4, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_083.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_083.rec
+ LAB: moojt sinh vieen  dduwowjc vay   voosn    tisn  dujng hojc taajp 
+ REC: moojt sinh vieejn dduwowjc vaajy vuwowjng tirnh dujng hojc taajp 
+VIVOSDEV11_095.rec:   85.71( 85.71)  [H=   6, D=  0, S=  1, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_095.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_095.rec
+ LAB: moji thuws ddeefu dduwowjc moor xer laji 
+ REC: moji thuws ddeefu dduwowjc moor sex laji 
+VIVOSDEV11_122.rec:   50.00( 50.00)  [H=   2, D=  0, S=  2, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_122.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_122.rec
+ LAB: khoong phari nawsp khum  
+ REC: khoong phari laajp cufng 
+VIVOSDEV11_123.rec:  100.00(100.00)  [H=   8, D=  0, S=  0, I=  0, N=  8]
+VIVOSDEV11_129.rec:    0.00(  0.00)  [H=   0, D=  0, S=  7, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_129.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_129.rec
+ LAB: ddi     booj leo  nusi  ddeesn  nhuwf   chaan  
+ REC: ddieerm bowf lefo nuooi dduwjng nhieefu traajn 
+VIVOSDEV11_131.rec:   64.29( 64.29)  [H=   9, D=  0, S=  5, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_131.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_131.rec
+ LAB: thif chur ddaafu tuw phari tuwj phas  dowx  phaafn nooji dung sai  phesp ddos 
+ REC: thif chur ddaafu tuw phari tuwj phari giowf phaajn nooji dung xafi phe   ddos 
+VIVOSDEV11_136.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_136.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_136.rec
+ LAB: khi nhaan vieen cuwsu hooj coos gawsng dduwa nos  leen saf  lan   
+ REC: khi nhaan vieen cuj   hooj coo  ddawng dduwa goji leen xafi lafng 
+VIVOSDEV11_137.rec:   70.00( 70.00)  [H=   7, D=  0, S=  3, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_137.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_137.rec
+ LAB: nhuwxng nguwowfi nafy ddeefu dduwowjc ddafo tajo veef hooji hoja 
+ REC: nhuwxng nguwowfi nafy ddeefu dduwowjc ddafo tajo vaf  hoaji hofa 
+VIVOSDEV11_147.rec:   14.29(  7.14)  [H=   2, D=  0, S= 12, I=  1, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_147.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_147.rec
+ LAB:      gawsn  loong chim   hoojt ddas  losng lasnh hay   befo dusn     tufa   lua  ddaafy coor 
+ REC: nhuw rawfng lofng kieejm hojc  ddajm long  laam  ngafy befo duwowfng tuoori lusa ddaafy cuj  
+VIVOSDEV11_160.rec:    0.00(-25.00)  [H=   0, D=  0, S=  4, I=  1, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_160.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_160.rec
+ LAB:      nguj aasp   hofn ngang  
+ REC: boos ngur hoawjc cofn nhafng 
+VIVOSDEV11_164.rec:   53.85( 46.15)  [H=   7, D=  0, S=  6, I=  1, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_164.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_164.rec
+ LAB: ist    nhaast owr  hown       ba   muwowi truwowfng thuoojc casc ddija phuwowng nosi  treen 
+ REC: kieejt nhanh  tajo hown mawjt baso mooi   truwowfng thuoojc casc ddija phuwowng noori treen 
+VIVOSDEV11_182.rec:   50.00( 50.00)  [H=   3, D=  0, S=  3, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_182.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_182.rec
+ LAB: ddawjc ddieerm cura phaary trufng tar   
+ REC: ddawjc ddieerm cura phary  trung  phajm 
+VIVOSDEV11_193.rec:   71.43( 71.43)  [H=   5, D=  0, S=  2, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_193.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_193.rec
+ LAB: vif ban  ddeem chij    ngur khoong ngon 
+ REC: vif bajn ddeem trieefn ngur khoong ngon 
+VIVOSDEV11_198.rec:   58.33( 58.33)  [H=   7, D=  0, S=  5, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_198.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_198.rec
+ LAB: low luwrng treen ddaafu laf  nhuwxng chieesc baaxy ddas  hafng trawm khoosi 
+ REC: low luwfng treen ddaafu laji nhuwxng chieesc bary  ddang hafng trawm hooji  
+VIVOSDEV11_200.rec:   66.67( 66.67)  [H=   2, D=  0, S=  1, I=  0, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_200.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_200.rec
+ LAB: nawm ddaafu tieen  
+ REC: nawm ddaafu tieefn 
+VIVOSDEV11_234.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV11_242.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_242.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_242.rec
+ LAB: chisn   muwowi   chisn muwowi moost 
+ REC: chieefn nguwowfi chisn muwowi moost 
+VIVOSDEV11_246.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV11_252.rec:   80.00( 80.00)  [H=   8, D=  0, S=  2, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_252.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_252.rec
+ LAB: baay giowf cuwowsp nhieefu quas ddi dduwowfng cuxng thaasy sowj 
+ REC: baay giowf cuwowsc nhieefu quas ddi dduwowfng cuxng thaasy sao  
+VIVOSDEV11_262.rec:   60.00( 60.00)  [H=   6, D=  0, S=  4, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_262.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_262.rec
+ LAB: tifm   hung  thur hieesp daam bawfng nuwowsc bojt najn nhaan 
+ REC: tieejm hufng thuj hieejp daam bawfng nuwowsc bojt najn nhaan 
+VIVOSDEV11_269.rec:   71.43( 71.43)  [H=  10, D=  0, S=  4, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_269.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_269.rec
+ LAB: chusng tooi yeeu nhau dduwowjc hai nawm thif gia ddifnh tooi  xary ra    chuyeejn 
+ REC: chusng tooi yeeu nhau dduwowjc hai nawm thif gia ddifnh tooji sary trari kieejn   
+VIVOSDEV11_273.rec:  100.00(100.00)  [H=   5, D=  0, S=  0, I=  0, N=  5]
+VIVOSDEV11_274.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_274.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_274.rec
+ LAB: kieeru nafy chawsc phari cawst giarm bieen  chees 
+ REC: kieeru nafy chawsc phari cawst sam   bieern cheef 
+VIVOSDEV11_282.rec:   28.57( 28.57)  [H=   2, D=  0, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_282.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_282.rec
+ LAB: thooi  thif   cuws     sawsp xeesp nhuw vaajy 
+ REC: thoofi thaafy cuwowfng sajch sex   nhuw vaajy 
+VIVOSDEV11_289.rec:   75.00( 75.00)  [H=   9, D=  0, S=  3, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_289.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_289.rec
+ LAB: theo phos chur tijch ury     ban an toafn giao thoong quoosc gia 
+ REC: theo phos chur taajp quyeefn ban an toafn giao thoong quoosc cao 
+VIVOSDEV11_298.rec:   80.00( 80.00)  [H=   8, D=  0, S=  2, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_298.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV11_298.rec
+ LAB: chuaarn bij cho ngafy khai truwowng  cuwra hafng ddaafu tieen  
+ REC: chuaarn bij cho ngafy khai truwowfng cuwra hafng ddaafu tieefn 
+VIVOSDEV12_006.rec:   20.00( 20.00)  [H=   2, D=  0, S=  8, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_006.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_006.rec
+ LAB: tuwf suwj duw  thuwfa quas muwsc cura   luoofng tieefn nafy  
+ REC: tuwf suwr yeeu thuf   hosm muwjc cuoofn boosn   tieefn lowfi 
+VIVOSDEV12_011.rec:   12.50( 12.50)  [H=   1, D=  0, S=  7, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_011.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_011.rec
+ LAB: ddos   chuwsng tor   rawfng chusng ta   ddax   giaf  
+ REC: ddooji chuwfng tooji rawfng trung  vafo ddowfi giowf 
+VIVOSDEV12_015.rec:   20.00( 20.00)  [H=   1, D=  0, S=  4, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_015.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_015.rec
+ LAB: trar laji  ddaast cho    ruwfng 
+ REC: trof lowfi ddaajp choofm ruwfng 
+VIVOSDEV12_032.rec:   41.67( 41.67)  [H=   5, D=  0, S=  7, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_032.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_032.rec
+ LAB: casc loaji caay troofng owr ruwfng nafy  toafn caay kesm gias trij 
+ REC: casc vowr  kyf  choofng owr ruwfng rowfi toor  kyf  kem  gias trij 
+VIVOSDEV12_054.rec:   33.33( 33.33)  [H=   4, D=  0, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_054.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_054.rec
+ LAB: thieesu suwj quan taam  ddusng muwsc tuwf     casc cow      quan chuwsc nawng 
+ REC: thieeju suwu vowr taafm ddung  buwsc tuwowfng casc cuwowfng quan chuwsc nawng 
+VIVOSDEV12_056.rec:    0.00(  0.00)  [H=   0, D=  0, S=  3, I=  0, N=  3]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_056.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_056.rec
+ LAB: taji chowj cas 
+ REC: tafy chowr cao 
+VIVOSDEV12_057.rec:   55.56( 55.56)  [H=   5, D=  0, S=  4, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_057.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_057.rec
+ LAB: khoong phari vif    tooi  khoong coi    trojng chaast luwowjng 
+ REC: khoong phari vieejc toofi khoong choofi trojng chaast ruwowju  
+VIVOSDEV12_065.rec:   61.54( 61.54)  [H=   8, D=  0, S=  5, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_065.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_065.rec
+ LAB: thif ddojc dduwowjc hoofi kys khoong theer  chuoojc looxi  treen baso tuoori trer 
+ REC: thif ddojc dduwowjc hooj  kyf khoong thowfi trujc   ruoori treen baso tuoori trer 
+VIVOSDEV12_066.rec:   28.57( 28.57)  [H=   2, D=  0, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_066.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_066.rec
+ LAB: thieesu tuwowsng phajm  quys ngoj   cho    bieest 
+ REC: theo    tuwowrng phofng quys ngoofi choofi bieest 
+VIVOSDEV12_068.rec:   77.78( 77.78)  [H=   7, D=  0, S=  2, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_068.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_068.rec
+ LAB: khoong moojt chust traafy truja maf ddeefn casi gif    
+ REC: khoong moojt chust traafy truja maf ddeefn kyf  vieejc 
+VIVOSDEV12_071.rec:   58.33( 58.33)  [H=   7, D=  0, S=  5, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_071.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_071.rec
+ LAB: nos   dduwowjc ddawjt trong moojt hoojp dduwjng trang suwsc bojc da    ddor  
+ REC: ddooj dduwowjc ddawjt trong moojt hojp  dduwfng trang suwsc bojc giowf ddooj 
+VIVOSDEV12_075.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_075.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_075.rec
+ LAB: nhosm   thanh  long trer dieexn tieeru phaarm hafi hawsc  bajch tranh hufng  
+ REC: nhuaajn phaarm long trer dieexn tieeru phaarm hafi khasch baajp carnh thurng 
+VIVOSDEV12_076.rec:   22.22( 22.22)  [H=   2, D=  0, S=  7, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_076.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_076.rec
+ LAB: tows ddi    kieesm nhaf  troj  roofi nhuwng khos  quas 
+ REC: tooi vieejc chim   nhaji trofn roofi nhuwng khoor hosa 
+VIVOSDEV12_079.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_079.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_079.rec
+ LAB: xanh   cor  muwowjt maf  ven dduwowfng 
+ REC: suwfng cofn moojt   hofa ven dduwowfng 
+VIVOSDEV12_080.rec:   50.00( 50.00)  [H=   4, D=  0, S=  4, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_080.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_080.rec
+ LAB: chisnh thuwsc ddax  laay  lan   ra   been ngoafi 
+ REC: chisnh thuwsc ddaso vaajy lowfi nafo been ngoafi 
+VIVOSDEV12_100.rec:   69.23( 69.23)  [H=   9, D=  0, S=  4, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_100.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_100.rec
+ LAB: phuj huynh  vaf  hojc sinh ddang phari ef coor vif sasch gias cao 
+ REC: phur quyfnh vofm hojc sinh ddang phari ef coor vif sasch sast cao 
+VIVOSDEV12_101.rec:   64.29( 64.29)  [H=   9, D=  0, S=  5, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_101.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_101.rec
+ LAB: khi chisnh phur lusc ddaafu ddeef  nghij aan  xas  cho    nhuwxng nguwowfi noori daajy 
+ REC: khi chisnh phur rust ddaafu ddowfi nghij cofn xafi choofi nhuwxng nguwowfi noori daajy 
+VIVOSDEV12_116.rec:   14.29( 14.29)  [H=   1, D=  1, S=  5, I=  0, N=  7]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_116.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_116.rec
+ LAB: duwowsi asnh ddefn mowf mowf aro  aro   
+ REC: duwowsi      gaafm befo vafo bowf tharo 
+VIVOSDEV12_128.rec:   46.15( 46.15)  [H=   6, D=  0, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_128.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_128.rec
+ LAB: trong cuoojc bor   phieesu  taji  hooji ddoofng baro an     hai   ngafy truwowsc ddos 
+ REC: trong cuoojc boojt dduwowjc toafi hooji ddoofng booj hoafng hafng ngafi truwowsc ddos 
+VIVOSDEV12_132.rec:   30.00( 30.00)  [H=   3, D=  0, S=  7, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_132.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_132.rec
+ LAB: haafu heest  nhuwxng vaasn ddeef xary ra    treen   thees  giowsi 
+ REC: hooj  hoawjc nhuwxng vaasn ddeef xaay rowfi chuwfng khowri soi    
+VIVOSDEV12_135.rec:   83.33( 83.33)  [H=   5, D=  0, S=  1, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_135.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_135.rec
+ LAB: oong dduwowjc nhieefu nguwowfi bieest ddeesn   
+ REC: oong dduwowjc nhieefu nguwowfi bieest dduwowjc 
+VIVOSDEV12_144.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_144.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_144.rec
+ LAB: trar lowfi tooi bieest 
+ REC: casm goji  cos  vieejc 
+VIVOSDEV12_166.rec:   16.67( 16.67)  [H=   1, D=  1, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_166.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_166.rec
+ LAB: ijch  gax  to beso ujc  ijch 
+ REC: taajp giao to      befo cujc 
+VIVOSDEV12_169.rec:    0.00(  0.00)  [H=   0, D=  0, S=  4, I=  0, N=  4]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_169.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_169.rec
+ LAB: aso  rasch luwowm buwowm 
+ REC: tafu raajp luoon  buoofn 
+VIVOSDEV12_173.rec:   25.00( 25.00)  [H=   2, D=  0, S=  6, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_173.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_173.rec
+ LAB: ddoosi vowsi nhuwxng pharn uwsng    khasc bieejt ddos  
+ REC: ddooji boofi duwjng  vafo  huwowrng khasc bieejt ddooj 
+VIVOSDEV12_182.rec:    0.00(  0.00)  [H=   0, D=  0, S=  6, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_182.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_182.rec
+ LAB: vaf  ddax hieesn masu ba  laafn 
+ REC: vowx ddos hieerm mafu bof loajn 
+VIVOSDEV12_186.rec:   44.44( 44.44)  [H=   4, D=  0, S=  5, I=  0, N=  9]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_186.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_186.rec
+ LAB: tieesng hest  ddoofng thanh  cura maasy chujc con   nguwowfi 
+ REC: tuyeern khasc ddoofng phaafn cura maasy chujc cufng hooji    
+VIVOSDEV12_192.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_192.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_192.rec
+ LAB: trang  thuws     hai   cura towf baso 
+ REC: chafng thuwowfng ngafy cura tafo bao  
+VIVOSDEV12_197.rec:   21.43( 14.29)  [H=   3, D=  1, S= 10, I=  1, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_197.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_197.rec
+ LAB: sau  ddos  baf  hafng xosm tisnh tifnh        xowri lowri chajy qua    keer vowsi tooi   
+ REC: sasu ddooj bowf hafng      xuaan tifnh tuaafn xoi   noori trari hoawjc keer vooji tuoori 
+VIVOSDEV12_213.rec:   16.67( 16.67)  [H=   1, D=  0, S=  5, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_213.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_213.rec
+ LAB: ba  muwowi   hai  ba   muwowi ba   
+ REC: bao nguyeefn heej baso muwowi bowf 
+VIVOSDEV12_223.rec:   33.33( 33.33)  [H=   2, D=  0, S=  4, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_223.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_223.rec
+ LAB: nawm    muwowi  hai   nawm muwowi ba   
+ REC: ddoofng quyeefn ngafy nawm muwowi bowf 
+VIVOSDEV12_224.rec:  100.00(100.00)  [H=   6, D=  0, S=  0, I=  0, N=  6]
+VIVOSDEV12_227.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_227.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_227.rec
+ LAB: sasu muwowi sasu muwowi moost 
+ REC: sasu mufi   sasu muwowi moost 
+VIVOSDEV12_232.rec:   60.00( 60.00)  [H=   3, D=  0, S=  2, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_232.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_232.rec
+ LAB: bary  muwowi  bary muwowi moost 
+ REC: bowri muwowfi bary muwowi moost 
+VIVOSDEV12_244.rec:   66.67( 66.67)  [H=   4, D=  0, S=  2, I=  0, N=  6]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_244.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_244.rec
+ LAB: chisn  muwowi  boosn chisn muwowi lawm 
+ REC: chisnh muwowfi boosn chisn muwowi lawm 
+VIVOSDEV12_248.rec:   80.00( 80.00)  [H=   4, D=  0, S=  1, I=  0, N=  5]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_248.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_248.rec
+ LAB: moojt ba   nawm bary chisn 
+ REC: moojt bowf nawm bary chisn 
+VIVOSDEV12_271.rec:    0.00(  0.00)  [H=   0, D=  0, S= 11, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_271.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_271.rec
+ LAB: baf  con  rang  tris cafnh ddafo ddeer  chuaarn   bij ddosn teest 
+ REC: bajc cofn trafn kyf  carnh baso  ddowfi truwowfng bif ddoor cowjt 
+VIVOSDEV12_275.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_275.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_275.rec
+ LAB: tooi khoong thaasy gif laf ddusng khi tawng gias xe   vafo casc dijp teest 
+ REC: tooi khoong thaafy six lof ddujng kyf tasn  vaf  sefo vafo casc dijp vowx  
+VIVOSDEV12_280.rec:   40.00( 40.00)  [H=   4, D=  0, S=  6, I=  0, N= 10]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_280.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_280.rec
+ LAB: du  lijch sex trowr thafnh ngafnh  kinh  tees  muxi nhojn 
+ REC: duf lijch sex trowr thafnh ddoofng tifnh vowsi mufi giori 
+VIVOSDEV12_290.rec:   62.50( 62.50)  [H=   5, D=  0, S=  3, I=  0, N=  8]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_290.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV12_290.rec
+ LAB: tuwf khi choofng qua  ddowfi vif beejnh taajt 
+ REC: tuwf khi choosng moji ddooi  vif beejnh taajt 
+VIVOSDEV13_019.rec:   41.67( 41.67)  [H=   5, D=  0, S=  7, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_019.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_019.rec
+ LAB: ddown vij  mifnh khoong nghe ai nosi gif    chuwa hawrn ddax toost 
+ REC: chaan baay nafnh thoong nghe ai nay  hieejn chuwa hawrn ddax to    
+VIVOSDEV13_026.rec:   66.67( 66.67)  [H=   8, D=  0, S=  4, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_026.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_026.rec
+ LAB: khoong ai   dduwowjc nguwowjc ddaxi casc em vif casc em hojc chaajm 
+ REC: thaajn heef dduwowjc nguwowjc ddaji casc em ver casc em hojc chaajm 
+VIVOSDEV13_054.rec:   50.00( 50.00)  [H=   7, D=  0, S=  7, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_054.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_054.rec
+ LAB: giaf lafng nguyeexn majnh tuwowfng trar lowfi phorng vaasn baso giowsi arnh trung  daan  
+ REC: gias lan   nguyeexn majnh tuwj     trar lowfi thaarm vaasn baso gasy   arnh chusng daafn 
+VIVOSDEV13_058.rec:   40.00( 40.00)  [H=   6, D=  1, S=  8, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_058.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_058.rec
+ LAB: ddos laf  giai  ddoajn thowfi tieest ist  bieesn ddoojng vaf  nhieejt ddooj khoong quas thaasp 
+ REC: ddos laji daajy bajn   thaasy tieesc casc bieesn ddaro   masi nhieejt ddooj khoong quas        
+VIVOSDEV13_061.rec:   38.46( 38.46)  [H=   5, D=  1, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_061.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_061.rec
+ LAB: nhuwng sau nghe con nosi ra   nosi vafo laji asc  carm vowsi em 
+ REC: nhuwng sau mej  con masi giaf masi nafo nafy hajt carm vowsi    
+VIVOSDEV13_069.rec:   26.67( 26.67)  [H=   4, D=  0, S= 11, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_069.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_069.rec
+ LAB: nhuwxng ddieesu thuoosc  voo   ys  ddoost chasy vafi choox treen chieesc soo  pha   bojc vari  
+ REC: nhuwng  ddeem   thuwowsc thowf ury ddoost chasy laji chowf treen chieesc xuwr phajt hojc vaajy 
+VIVOSDEV13_075.rec:   53.33( 53.33)  [H=   8, D=  0, S=  7, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_075.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_075.rec
+ LAB: bajn cos theer tawst chuwowng trifnh ddos ddi vaf  thuwjc hieejn thao tasc cuoosi cufng  
+ REC: bajn cos heej  tasc  chuwowng tranh  ddax ddi lajc thuwjc hieejn thao tasc cura   phofng 
+VIVOSDEV13_078.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_078.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_078.rec
+ LAB: khawsp nowi quanh chusng tooi vuwowng vaxi xasc  cheest cura nguwowfi daan voo   tooji 
+ REC: khasch nafy quarn chusng tooi vuwowfn bajn phari cheenh cura nguwowfi daan vuwfa tori  
+VIVOSDEV13_088.rec:   46.67( 46.67)  [H=   7, D=  0, S=  8, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_088.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_088.rec
+ LAB: nhuwxng chieesc loofng ddefn ddoof  chowi vieejt vaaxn  lawjng lex mang hoofn  vieejt xuoosng phoos 
+ REC: nhuwxng chieesc loong  dden  ddowfi chowi lieefn lawrng lawjng lex mang hoofng vi     xuoosng to    
+VIVOSDEV13_089.rec:   23.08(-15.38)  [H=   3, D=  0, S= 10, I=  5, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_089.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_089.rec
+ LAB: nhaf vawn nguyeen  ngojc                               sinh vieen cos quyeefn  hoafi nghi  vaf  tranh   caxi 
+ REC: nham vawn nguyeexn ngojc xin nhanh ddawng huyeejn hojc sinh heej  tao nguyeejn hai   ngafy laji chawrng car  
+VIVOSDEV13_097.rec:   20.00(  6.67)  [H=   3, D=  0, S= 12, I=  2, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_097.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_097.rec
+ LAB:   cuoojc thi    cofn      cos hai  giari   nhif ba   giari ba   vaf  boosn giari khuyeesn khisch 
+ REC: c cuwsu  thaafy cofn ddas hay gaxy nhieejm tang thif giari bajn ddax vufng giari khieesn  khai   
+VIVOSDEV13_098.rec:   41.67( 41.67)  [H=   5, D=  0, S=  7, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_098.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_098.rec
+ LAB: haafu nhuw    casc pharn uwsng phuj nawjng neef  laf  raast hieesm gawjp 
+ REC: thooi nhieefu casc pharn uwsng phuj nawng  nafng laji raast thieem nhajc 
+VIVOSDEV13_104.rec:   23.08( 23.08)  [H=   3, D=  0, S= 10, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_104.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_104.rec
+ LAB: soos tieefn quas lowsn khieesn gia ddifnh huwowng  phajm vaf  lee  choasng vasng 
+ REC: so   tieefn quar leen  khieesn da  ddijnh huwowrng phajm nafy heej trafn   lan   
+VIVOSDEV13_105.rec:   16.67(-33.33)  [H=   2, D=  0, S= 10, I=  6, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_105.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_105.rec
+ LAB:                            nhosc  ddor  mawjt tisa tai nhosc  thua  chij moojt tuoori thooi  ddaasy 
+ REC: nhaajp ddos majch te ta ai nhaajp ddowx majch ker  tay nhaajp thooi chij mojc  tuoori thowfi ddafi  
+VIVOSDEV13_106.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_106.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_106.rec
+ LAB: carm  giasc dduwowjc chia ser vowsi bajn ddowfi cufng sowr thisch thus vij  lawsm 
+ REC: carnh giasc tuyeest  chij xe  masy  bajn ddaafy cufng sao  thisch thus quay lafm  
+VIVOSDEV13_136.rec:   23.08( 15.38)  [H=   3, D=  0, S= 10, I=  1, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_136.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_136.rec
+ LAB:      tooi  vafo quaafy giari  khast ddaafu tieen  vaf   goji moojt coosc nuwowsc cam  
+ REC: mist towsi vafo quay   giaasy khai  tuwr   tieefn vafng laji moojt cojc  nuwowsc kesm 
+VIVOSDEV13_137.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_137.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_137.rec
+ LAB: mej laafn tay   trong vis  vaf  laasy ra   chieesc phong bif 
+ REC: mej laaxn ddaji chaan quay laji laasy laji chieesc phong bif 
+VIVOSDEV13_139.rec:   21.43( 14.29)  [H=   3, D=  0, S= 11, I=  1, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_139.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_139.rec
+ LAB:      tieeu  nhuw  phong  chajy troosn khori  kinh thafnh ddeer tifm   hung  thur   thaajt suwj 
+ REC: suwj tieefn neesu phofng chasy chuwxa thoari kinh hafnh  ddejp tieejm hufng thaafu thaajt suwj 
+VIVOSDEV13_146.rec:   46.67( 46.67)  [H=   7, D=  0, S=  8, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_146.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_146.rec
+ LAB: cos ngafy casc basc six ddieefu duwowxng moor mawst cho hafng trawm nguwowfi muf    nghefo 
+ REC: cos nay   casc basc six dij     duwowxng moon majnh tra hejn  chawm nguwowfi muoosn nghefo 
+VIVOSDEV13_147.rec:   66.67( 66.67)  [H=  10, D=  0, S=  5, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_147.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_147.rec
+ LAB: khoong ai muoosn cos tieeu cuwjc car  vaf  cuxng dduwfng tuyeejt ddoosi hosa vaasn ddeef 
+ REC: khoong ai muoosn cos tieeu cuwjc cajn bajn cuxng dduwfng tieejc  ddooi  hafo vaasn ddeef 
+VIVOSDEV13_150.rec:    9.09(  9.09)  [H=   1, D=  0, S= 10, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_150.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_150.rec
+ LAB: vowj hawsn thij    ngaafn mang  luwowsi ra  vas  ddeer chieefu thar 
+ REC: vafo hasng thieejn nawng  majng luwowsi nam ddax ddeef chieesu haj  
+VIVOSDEV13_164.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_164.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_164.rec
+ LAB: hieejn cow quan chuwsc nawng ddang tieesp tujc ddieefu tra  vuj vieejc  
+ REC: hieejn cow quan chuwsc nafng ddang ke     tujc bieejt  giam guf huyeejt 
+VIVOSDEV13_167.rec:   45.45( 36.36)  [H=   5, D=  1, S=  5, I=  1, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_167.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_167.rec
+ LAB:   khi bij    phast hieejn hoj ddax  trar lowfi nhuw thees nafo 
+ REC: x hi  bieejt phast hieejn har ddaji cha  lowfi nhuw thees      
+VIVOSDEV13_210.rec:   72.73( 72.73)  [H=   8, D=  0, S=  3, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_210.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_210.rec
+ LAB: raf   soast chaast luwowjng coong trifnh xaay duwjng treen car nuwowsc 
+ REC: kharo sast  chaast luwowjng coong treen  xaay duwjng treen car nuwowsc 
+VIVOSDEV13_211.rec:   25.00( 25.00)  [H=   3, D=  1, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_211.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_211.rec
+ LAB: khoong narn nghixa   tin  rawfng sex cos moojt giari phasp nafo ddos 
+ REC: thoong najn nghieejp tinh gian   sex tao moojt gian  pha   nafo      
+VIVOSDEV13_222.rec:   69.23( 69.23)  [H=   9, D=  0, S=  4, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_222.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_222.rec
+ LAB: mej cuxng ddax tuwfng thoosng khoor tuyeejt vojng vaf  coo ddown nhuw    vaajy 
+ REC: mej cuxng ddax tuwfng thawm   khos  tuyeejt vojng lajp coo ddown nhieefu vaajy 
+VIVOSDEV13_225.rec:   28.57( 28.57)  [H=   4, D=  0, S= 10, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_225.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_225.rec
+ LAB: hai loaji vawn   nafy neen dduwowjc coi  trojng nhuw nhau  trong casc kyf  thi    
+ REC: hai laji  rawfng nay  neen dduwowjc casi chaajm duy  nhaji chawm casc caay thaafy 
+VIVOSDEV13_226.rec:   28.57( 28.57)  [H=   4, D=  2, S=  8, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_226.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_226.rec
+ LAB: vaajy mowsi cos  mujc tieeu ddeer maf  phaasn ddaasu neen nguwowfi cos ys thuwsc 
+ REC: vaajy masi  taam lusc tieeu ddem  najp thanh  ddaro  neen nguwowfi        thaasy 
+VIVOSDEV13_227.rec:   45.45( 45.45)  [H=   5, D=  0, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_227.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_227.rec
+ LAB: taji ddaay cos  moojt oong  truwowrng phofng nhaan suwj coong  ty   
+ REC: taji ddaay taam baro  quarn truwsng   phofng nhaan suwj khoong taay 
+VIVOSDEV13_230.rec:   33.33( 33.33)  [H=   5, D=  1, S=  9, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_230.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_230.rec
+ LAB: chir moojt ddieefu ddown giarn vaajy maf anh aasy khoong bao  giowf thuwjc hieejn dduwowjc 
+ REC: chij mojc  ddeefu  ddown giarn       ver nam nay  thoong bafi gafo  thuwjc hieejn dduwowjc 
+VIVOSDEV13_239.rec:   63.64( 63.64)  [H=   7, D=  1, S=  3, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_239.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_239.rec
+ LAB: chawrng caafn nhifn  veef phuwowng taay quee huwowng cura hafng hieeju 
+ REC: chawrng caafn nhieen veef phaafn   tay  quee huwowng cura hafng        
+VIVOSDEV13_241.rec:   36.36( 36.36)  [H=   4, D=  1, S=  6, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_241.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_241.rec
+ LAB: mufa ddoong car  casnh ddoofng chuyeern sang moojt mafu vafng ruwjc 
+ REC:      oong   ddax cafnh ddafo   chuyeern sang mafu  mafu vafng reejt 
+VIVOSDEV13_252.rec:   73.33( 73.33)  [H=  11, D=  1, S=  3, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_252.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_252.rec
+ LAB: tooi  hojc cufng vowsi casc anh chij lafm vieejc chuyeen  veef sarn xuaast phaafn meefm 
+ REC: towsi hojc khung vowsi casc anh chij lafm vieejc chuyeejn veef sarn xuaast phaafn       
+VIVOSDEV13_255.rec:   40.00( 40.00)  [H=   6, D=  1, S=  8, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_255.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_255.rec
+ LAB: cos lex ddaay laf  lowfi quarng caso khoong coong hay nhaast cho   du    lijch  lafo   
+ REC: cos lex ddang leen leo   quarng caso khoong caafm hay        nhanh chajy giuwxa leejch 
+VIVOSDEV13_257.rec:   64.29( 64.29)  [H=   9, D=  1, S=  4, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_257.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_257.rec
+ LAB: tuwf ddos ddeesn nay gia ddifnh chij vaaxn soosng trong cawn nhaf lujp xujp  
+ REC: tuwf ddos ddeesn nay gia ddifnh chij laaxn soong  chawm cawn nhaf      laajp 
+VIVOSDEV13_258.rec:   38.46( 38.46)  [H=   5, D=  1, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_258.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_258.rec
+ LAB: bajn caafn trung  thuwjc vowsi nhaan vieen   cura mifnh trong moji  hoafn carnh 
+ REC: bajn caafn chusng thaajt vowsi nhaan quyeefn cura       masy  chawm mori  hajn  
+VIVOSDEV13_263.rec:   25.00( 25.00)  [H=   3, D=  1, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_263.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_263.rec
+ LAB: moojt soos ddieerm nuwowsc phun  ddeesn ddaau bay   howi heest ddeesn ddos 
+ REC: moox  soos ddieerm neesu   cuxng ddijnh ddau  vaajy hai  heest        teen 
+VIVOSDEV13_267.rec:   28.57( 28.57)  [H=   4, D=  1, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_267.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_267.rec
+ LAB: do vaajy vaasn ddeef khu  trus      khoosng chees beejnh tar hieejn nay raast khos  
+ REC: do vaajy vaaxn ddejp cura truwowfng khoong  sex   leen   cao hieejn nay       gawjp 
+VIVOSDEV13_276.rec:   46.15( 46.15)  [H=   6, D=  1, S=  6, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_276.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_276.rec
+ LAB: ddos laf  caau hori maf  ddeesn nay vaaxn chuwa cos caau trar lowfi 
+ REC: baf  laji cow  maxi maxi ddeesn nay vaaxn chuwa cos caso trar       
+VIVOSDEV13_277.rec:   60.00( 53.33)  [H=   9, D=  0, S=  6, I=  1, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_277.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV13_277.rec
+ LAB:   haf  nooji mowr roojng khu vuwjc hoof  taay soong hoofng neen laf  khu vuwjc tixnh 
+ REC: c thaf nosi  mowr roojng khu vuwjc thowj tay  soong hoofng maf  lajp khu vuwjc tixnh 
+VIVOSDEV14_018.rec:   18.18( 18.18)  [H=   2, D=  0, S=  9, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_018.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_018.rec
+ LAB: bieen   chees nafy nhaf  thanh  goji laf an    nam  quoosc nhajc  
+ REC: ddieejn chefn nafy nhajc khasnh leen laf thees nesm cura   nhieen 
+VIVOSDEV14_022.rec:   25.00( 25.00)  [H=   3, D=  1, S=  8, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_022.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_022.rec
+ LAB: hown laf  daaxn dawst casc em theo chur ys     cura giaso vieen   
+ REC: hoj  laji daan  gia   casc em theo      tuoori tui  daafu quyeefn 
+VIVOSDEV14_027.rec:   57.14( 50.00)  [H=   8, D=  0, S=  6, I=  1, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_027.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_027.rec
+ LAB: bajn cos theer tham kharo moojt     sow yeesu lys    lijch  ddieejn tuwr     sau ddaay 
+ REC: bajn cos theer tham kharo moojt sow sow ix    thieen leejch tieejn  tuwowrng sau nafy  
+VIVOSDEV14_035.rec:   36.36( 36.36)  [H=   4, D=  0, S=  7, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_035.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_035.rec
+ LAB: nhajc six     la  hoosi vowsi ca khusc xuaan vaf   tuoori  trer 
+ REC: nhaf  phieest laf hooi  heest ca khusc xuaan bajch tuyeest trer 
+VIVOSDEV14_079.rec:   63.64( 54.55)  [H=   7, D=  0, S=  4, I=  1, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_079.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_079.rec
+ LAB:      vaajy ai sex chiju trasch nhieejm veef nhuwxng truwowfng howjp nafy 
+ REC: suwj ver   ai sex chir  trisch nhieexm veef nhuwxng truwowfng howjp nafy 
+VIVOSDEV14_080.rec:   36.36( 36.36)  [H=   4, D=  0, S=  7, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_080.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_080.rec
+ LAB: tuy  phisa  truwowsc cofn voo  vaf   khos khawn ddoosi vowsi con   
+ REC: trij kieejt truwowsc cofn hoof vafng khos khawn nuwra  vowfi thowr 
+VIVOSDEV14_085.rec:   28.57( 28.57)  [H=   4, D=  0, S= 10, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_085.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_085.rec
+ LAB: boosn nawm trowfi bij    caam moojt mifnh vowsi bosng mifnh nhieefu phen   ofa  khosc 
+ REC: vofm  nawm trowfi vieejt carm moojt minh  howi  tofng minh  nhieeu  tieefn teej khosc 
+VIVOSDEV14_086.rec:   53.85( 53.85)  [H=   7, D=  0, S=  6, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_086.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_086.rec
+ LAB: em sowj maast anh aasy nhuwng  laji carm  thaasy mifnh bij xusc phajm 
+ REC: em saam maast anh hay  nhieejm laji carnh theem  ninh  bij xusc phajm 
+VIVOSDEV14_093.rec:   73.33( 73.33)  [H=  11, D=  0, S=  4, I=  0, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_093.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_093.rec
+ LAB: trof ddufa ddoosi vowsi thaafy nhuwng laji laf  chaan thaajt chaan thaajt vowsi moojt nguwowfi 
+ REC: trof ddufa ddowfi vowsi thaafy nhuwng lai  ngay chaan thaajt chaan thaajt vowsi moojt hoofi    
+VIVOSDEV14_104.rec:   64.29( 64.29)  [H=   9, D=  0, S=  5, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_104.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_104.rec
+ LAB: ddos laf nhaajn xest chung cura nhieefu  toorng giasm ddoosc ddieefu hafnh ngafy nay  
+ REC: nowi hai nhaajn xest chung cura nghieejp toorng giasm ddoosc ddieefu hafnh nghe  nafy 
+VIVOSDEV14_108.rec:   46.15( 46.15)  [H=   6, D=  0, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_108.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_108.rec
+ LAB: nguwowfi phasp ddax ddoofng ys      vowsi casch quarn lys lixnh vuwjc  dafnh  rieeng 
+ REC: nguwowfi pha   ddax ddosng  huyeefn heest casch quarn lys leen  nguwjc chirnh rieeng 
+VIVOSDEV14_113.rec:   15.38( 15.38)  [H=   2, D=  1, S= 10, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_113.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_113.rec
+ LAB: hawsn thay ddoori laafm lif sau khi   theo gia ddifnh ddeesn xuws    nguwowfi 
+ REC: haxng khai ddeesn laafm     ly  suwsc kyf  dij ddijnh ddeer  xuwowng nguwowfi 
+VIVOSDEV14_114.rec:   50.00( 50.00)  [H=   7, D=  0, S=  7, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_114.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_114.rec
+ LAB: yeesu toos haasp daaxn mowsi thu hust ddaafu tuw nuwowsc ngoafi vafo vieejt nam   
+ REC: ngisa toom law   daafn mowsi thu hust ddaafu tuw nuwowsc ngoafi neen vieest ngafn 
+VIVOSDEV14_115.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_115.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_115.rec
+ LAB: vaajy maf   giowf ddaay nos khoong ddowji dduwowjc ddeesn lusc huy  veef 
+ REC: mej   ngafy giowf ddaay nos khoong ddowfi dduwowjc ddijnh lusc hury bef  
+VIVOSDEV14_116.rec:   18.18( 18.18)  [H=   2, D=  0, S=  9, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_116.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_116.rec
+ LAB: moojt gosc caau  cas treen  caafu safi gofn  arnh mai  vinh  
+ REC: moojt to   caafu cai chirnh cao   sang lowsn arnh masy hifnh 
+VIVOSDEV14_123.rec:   81.82( 81.82)  [H=   9, D=  0, S=  2, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_123.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_123.rec
+ LAB: moojt vafi nguwowfi trong bojn hoj dduwa     mawst nhifn marnh giaasy 
+ REC: moojt vafi nguwowfi trong vor  hoj dduwowfng mawst nhifn marnh giaasy 
+VIVOSDEV14_134.rec:   66.67( 60.00)  [H=  10, D=  1, S=  4, I=  1, N= 15]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_134.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_134.rec
+ LAB: nhuwng truwowsc ddaay  nhifn tuwf been ngoafi nowi nafy khoong khasc        moojt cawn nhaf hoang  
+ REC:        truwowsc ddaafy nhifn tuwf been ngoafi nay  hay  khoong khasc kieesm moojt cawn nhaf hoafng 
+VIVOSDEV14_140.rec:   35.71( 35.71)  [H=   5, D=  1, S=  8, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_140.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_140.rec
+ LAB: cos nhuwng  phari laf thuoosc ddawjc trij cura phasp hieesm vaf    cuwjc kyf ddawst 
+ REC: cos nhuwxng phari laf thuoosc casch  chij cura       pha    hieerm luwjc kys dda    
+VIVOSDEV14_145.rec:   27.27( 27.27)  [H=   3, D=  1, S=  7, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_145.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_145.rec
+ LAB: moojt soos bajn trer cuxng cos   ys  nghix nhuw    cao  cuwowfng 
+ REC: oosc  soos bajn      chir  tujng tay nghir nhieefu keso cuwowfng 
+VIVOSDEV14_151.rec:   66.67( 66.67)  [H=   8, D=  0, S=  4, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_151.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_151.rec
+ LAB: tooi ddax cos thowfi gian   tuyeejt vowfi khi  chowi cho ddooji tuyeern 
+ REC: tooi ddax cos theer  hieejn tieest  vowfi chir chowi cho ddooji tuyeern 
+VIVOSDEV14_156.rec:   50.00( 50.00)  [H=   6, D=  0, S=  6, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_156.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_156.rec
+ LAB: thirnh thoarng con  ddi   qua   duwfng laji duwjng xe  ngoofi   hust thuoosc 
+ REC: thirnh thoarng cofn ddija hueej giuwx  laji duwjng sex nguwowfi hust thuoosc 
+VIVOSDEV14_163.rec:   42.86( 42.86)  [H=   6, D=  2, S=  6, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_163.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_163.rec
+ LAB: chus      booj  ddooji qua   nhuwxng caau chuyeejn cura oong mowsi gaafn guxi  lafm sao 
+ REC: truwowfng vuwfa ddaafu vowsi nhuwxng caau chuyeejn cura hoj  mowsi       laafn lafm     
+VIVOSDEV14_180.rec:    9.09(  0.00)  [H=   1, D=  0, S= 10, I=  1, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_180.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_180.rec
+ LAB: awn cas nguwf cas    thu  vaf   cas mofi vowsi       rau   troojn 
+ REC: anh can uwa   thisch thus vowsi cam mowr vowsi looji choox oorn   
+VIVOSDEV14_186.rec:   18.18( 18.18)  [H=   2, D=  0, S=  9, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_186.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_186.rec
+ LAB: cos  bawfng thajc six nhuwxng ngafnh treen  laf  moojt lowji thees  
+ REC: tofa vawn   theer six nhuwng  ngafnh chirnh mojc vaf   vijt  ngheef 
+VIVOSDEV14_191.rec:   38.46( 38.46)  [H=   5, D=  0, S=  8, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_191.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_191.rec
+ LAB: minh nhaajt hoofng quaan   vux     coong thafnh suwu  taafm tuwf  baso nuwowsc ngoafi 
+ REC: minh quaan  hoofng quaafng thuoojc coong hafnh  suwra taajp tuwja vafo nuwowsc ngoafi 
+VIVOSDEV14_194.rec:   16.67( 16.67)  [H=   2, D=  0, S= 10, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_194.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_194.rec
+ LAB: muoosn  cos bawfng lasi phari qua  moojt ddowjt   thi  raast khawst khe 
+ REC: huwowng cos rawfng hari theo  quas mujc  dduwowjc thij raast khasch tre 
+VIVOSDEV14_195.rec:   64.29( 64.29)  [H=   9, D=  1, S=  4, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_195.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_195.rec
+ LAB: yeeu   nhau khoarng vafi thasng thif chusng tooi ddax cos quan heej tifnh dujc 
+ REC: kieeru nhau khoarng vafi thasng thij chusng tooi ddax cof quan heej       em   
+VIVOSDEV14_199.rec:    9.09(  9.09)  [H=   1, D=  1, S=  9, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_199.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_199.rec
+ LAB: khos sao duyeen dasm   cho   anh    uoosng ruwowju trong ddasm cuwowsi 
+ REC:      hoj sai    dieexn giasc trasnh cus    nuooi   trong ddem  cuwowfi 
+VIVOSDEV14_225.rec:   58.33( 58.33)  [H=   7, D=  0, S=  5, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_225.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_225.rec
+ LAB: oong duwowng dduwsc laan  phos toorng cujc truwowrng toorng cujc  dajy ngheef 
+ REC: oong duwowng dduwsc laafn phos toorng cujc truwowrng taajp  cuxng chij nhafng 
+VIVOSDEV14_227.rec:   38.46( 38.46)  [H=   5, D=  1, S=  7, I=  0, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_227.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_227.rec
+ LAB: ddoosi xuwr vowsi bajn  nhuw    nguwowfi yeeu cux cura bajn ddax  tuwfng lafm 
+ REC: vaf    xuwr veef  ddaay nhieefu nguwowfi yeeu     cura bajn ddajp kinh   lan  
+VIVOSDEV14_235.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_235.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_235.rec
+ LAB: tham  gia  thieest kees lawng chur tijch hoof  chis    minh thif    cos    nhieefu nguwowfi 
+ REC: thees gian ist     can  awn   chur tijch hooji chieesm minh thieejt thoaji nhieefu nguwowfi 
+VIVOSDEV14_236.rec:   54.55( 54.55)  [H=   6, D=  0, S=  5, I=  0, N= 11]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_236.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_236.rec
+ LAB: vif    vaajy coong ty     b    phari cos   trasch nhieejm boofi thuwowfng 
+ REC: vieejn veej  coong tieest veef phari teest trasch nhieejm boofi thuwowfng 
+VIVOSDEV14_256.rec:   38.46( 30.77)  [H=   5, D=  0, S=  8, I=  1, N= 13]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_256.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_256.rec
+ LAB: noong daan troofng misa   than  cuws     moojt vuj dduwowjc laji          ba   vuj  thaast  
+ REC: noong daan trong   vieest hafng cuwowfng moojt vuj quyfnh   laji dduwowjc bajn cura thuaajt 
+VIVOSDEV14_280.rec:   75.00( 75.00)  [H=   9, D=  0, S=  3, I=  0, N= 12]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_280.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_280.rec
+ LAB: thif nguwowfi xem cuxng dduwowjc naang cao kieesn thuwsc veef ddija lys   
+ REC: thij nguwowfi xem cuxng dduwowjc naang cao kieesn thuwsc veef ddixa laasy 
+VIVOSDEV14_283.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_283.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_283.rec
+ LAB: ngafy xuwa casc cuj lafm bifa sasch laf  minh hoaj cho    cuoosn sasch ddos 
+ REC: ngafy xuwa casc coo leen ddi  sasch lafm ninh hari chuwsc khu    sasch baso 
+VIVOSDEV14_285.rec:   35.71( 35.71)  [H=   5, D=  0, S=  9, I=  0, N= 14]
+Aligned transcription: D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_285.lab vs D:/Thacsi/NNN/htk/test/test_mfc/VIVOSDEV14_285.rec
+ LAB: tooi ddax  nhieefu laafn pharn ddoosi    quyeest lieejt  vieejc nuwowsc thari tuoofn ra ngoafi 
+ REC: owr  ddafi nhieefu laafn pharn dduwowfng huyeest thieest vieejt dduwsc  thasi tung   ra ngoafi 
+------------------------ Overall Results --------------------------
+SENT: %Correct=6.65 [H=37, S=519, N=556]
+WORD: %Corr=43.30, Acc=41.94 [H=2225, D=78, S=2835, I=70, N=5138]
+===================================================================
